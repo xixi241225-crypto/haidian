@@ -1,3 +1,3 @@
-# Formal Narrative
+# 京张借景带 V1.1
 
-This narrative is derived from the structured AI package. Geometry, metrics, compliance matrix, drawings, and visual/index.html remain cross-checked deliverables.
+完整中文方案见 proposal.md，英文等义版本见 proposal.en.md。V1.1 补齐案例、区域协同和产业支撑，并修复离线字形和成果一致性。所有空间范围仍为临时设计模型，现场、管理、资金与资源授权需后续验证。

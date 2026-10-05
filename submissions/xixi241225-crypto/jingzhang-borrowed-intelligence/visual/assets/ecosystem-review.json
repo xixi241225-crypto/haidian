@@ -1,0 +1,670 @@
+{
+  "schema_version": "1.0",
+  "iteration": "v1.1",
+  "updated_at": "2026-10-05",
+  "status": "participant_concept_pending_negotiation",
+  "cases": [
+    {
+      "id": "C01",
+      "name": {
+        "zh": "美国 Kendall Square / MIT",
+        "en": "Kendall Square / MIT, USA"
+      },
+      "source_id": "CASE-MIT-KENDALL",
+      "url": "https://innovation.mit.edu/assets/MIT-Innovation-Ecosystem-Map.pdf",
+      "publisher": "MIT Innovation Initiative",
+      "published_at": null,
+      "fact": {
+        "zh": "MIT 发布的创新资源图将校内辅导、技术许可、创业支持与校外孵化、共享实验室等资源并列标示。该图是资源目录，不能据此证明协作成效。",
+        "en": "MIT’s resource map lists campus mentoring, licensing and entrepreneurship resources alongside off-campus incubation and shared-laboratory resources. This is a directory, not evidence of collaboration outcomes."
+      },
+      "axes": [
+        {
+          "zh": "机构接口：校内与校外资源目录。",
+          "en": "Institution interface: campus and off-campus resource directory."
+        },
+        {
+          "zh": "共享设施：地图列出 LabCentral 等设施；开放条件未核验。",
+          "en": "Shared facilities: LabCentral is listed; access terms were not verified."
+        },
+        {
+          "zh": "人才日常：辅导与创业支持可见；生活质量未证实。",
+          "en": "Talent daily life: mentoring and venture support are listed; wellbeing outcomes are unproven."
+        },
+        {
+          "zh": "场景开放：资料不提供公共空间测试许可。",
+          "en": "Scenario access: the source supplies no public-space testing permission."
+        },
+        {
+          "zh": "社区参与：本资料未说明代表性公众参与。",
+          "en": "Community participation: representative public involvement is not documented here."
+        },
+        {
+          "zh": "失败退出：本资料未公开退出协议。",
+          "en": "Failure and exit: exit agreements are not documented here."
+        }
+      ],
+      "transfer": {
+        "zh": "在 AI 原点两门设置统一资源门厅，将高校服务、专业咨询和预约设施做成可问询的目录；建议各资源提供者自行维护权限和时段。",
+        "en": "Use AI Origin’s two gates as a single resource foyer, with staffed directories of university services, advice and bookable facilities; providers would maintain access rules and hours."
+      },
+      "limit": {
+        "zh": "不复制机构密度、资本结构或校外设施的开放权；目录存在不等于资源已经向京张开放。",
+        "en": "Do not copy institutional density, financing or access rights; a directory does not establish resource availability in Jing-Zhang."
+      }
+    },
+    {
+      "id": "C02",
+      "name": {
+        "zh": "新加坡 one-north / LaunchPad",
+        "en": "one-north / LaunchPad, Singapore"
+      },
+      "source_id": "CASE-JTC-LAUNCHPAD",
+      "url": "https://www.jtc.gov.sg/find-space/launchpad--onenorth",
+      "publisher": "JTC Corporation",
+      "published_at": null,
+      "fact": {
+        "zh": "JTC 的空间介绍把初创企业、孵化器、加速器和创投纳入同一园区，并介绍模块化空间、日常配套及园区组合内试验验证机会。",
+        "en": "JTC describes a development bringing together startups, incubators, accelerators and investors, with modular space, amenities and opportunities to pilot across its property portfolio."
+      },
+      "axes": [
+        {
+          "zh": "机构接口：按主体类型设置入驻条件。",
+          "en": "Institution interface: eligibility is defined by participant type."
+        },
+        {
+          "zh": "共享设施：模块单元；不等于免费或无条件开放。",
+          "en": "Shared facilities: modular units; access is not automatically free or unrestricted."
+        },
+        {
+          "zh": "人才日常：餐饮和交通信息与空间信息并列。",
+          "en": "Talent daily life: food and transport information accompanies workspace information."
+        },
+        {
+          "zh": "场景开放：介绍园区组合内试验机会，仍需具体准入。",
+          "en": "Scenario access: portfolio-wide piloting opportunities still require project admission."
+        },
+        {
+          "zh": "社区参与：本页面未证明居民共同决策。",
+          "en": "Community participation: resident co-decision is not established by this page."
+        },
+        {
+          "zh": "失败退出：租赁条件有弹性；测试失败退出规则未公开。",
+          "en": "Failure and exit: flexible leases are described; test-failure rules are not documented."
+        }
+      ],
+      "transfer": {
+        "zh": "众智园设置小型可调整工作单元和受控验证庭院；AI 原点提供日常配套。资源门厅公布预约、期限、费用与暂停条件。",
+        "en": "Provide adaptable small work units and controlled test courts at Zhongzhiyuan, with daily services at AI Origin. The foyer would disclose booking, duration, charges and suspension terms."
+      },
+      "limit": {
+        "zh": "不照搬新加坡租金、补贴或资格制度；场地、消防、责任和社区接受度须分别验证。",
+        "en": "Do not transplant Singapore’s rent, subsidy or eligibility regime; verify premises, fire safety, responsibilities and community acceptance locally."
+      }
+    },
+    {
+      "id": "C03",
+      "name": {
+        "zh": "法国 Paris-Saclay",
+        "en": "Paris-Saclay, France"
+      },
+      "source_id": "CASE-EPA-SACLAY",
+      "url": "https://epa-paris-saclay.fr/letablissement-public-damenagement-de-paris-saclay/",
+      "publisher": "EPA Paris-Saclay",
+      "published_at": null,
+      "fact": {
+        "zh": "公共开发机构介绍将校园建设、经济发展、居民文化生活、IPHE 企业空间与共享服务纳入同一开发协调框架。",
+        "en": "The public development agency presents campus development, economic activity, cultural life, IPHE business space and shared services within one coordinated development framework."
+      },
+      "axes": [
+        {
+          "zh": "机构接口：公共开发机构协调校园与地区发展。",
+          "en": "Institution interface: a public developer coordinates campus and territorial development."
+        },
+        {
+          "zh": "共享设施：资料列出 IPHE 与共享大学设施。",
+          "en": "Shared facilities: IPHE and shared university facilities are described."
+        },
+        {
+          "zh": "人才日常：生活文化与共享交通被纳入工作。",
+          "en": "Talent daily life: cultural life and shared mobility are included."
+        },
+        {
+          "zh": "场景开放：介绍创新服务；无可复制的通用开放许可。",
+          "en": "Scenario access: innovation services are described, without transferable blanket permission."
+        },
+        {
+          "zh": "社区参与：页面介绍地方政府与居民参与的开发程序。",
+          "en": "Community participation: the page describes development consultation with local authorities and residents."
+        },
+        {
+          "zh": "失败退出：本页面未公开逐场景退场阈值。",
+          "en": "Failure and exit: scenario-specific retirement thresholds are not documented."
+        }
+      ],
+      "transfer": {
+        "zh": "为三园设统一问题登记和跨主体协调台账，把交通、生活服务与研发空间同时审查；运营协议逐项决定共享范围。",
+        "en": "Use a common issue register and coordination ledger across the Three Commons, reviewing mobility and daily services alongside research space. Agreements would define each shared interface."
+      },
+      "limit": {
+        "zh": "不复制法国公共开发机构的土地权限或融资安排；京张沿线既有权属和管理主体必须独立核实。",
+        "en": "Do not copy the French agency’s land powers or financing; verify existing Jing-Zhang ownership and management separately."
+      }
+    },
+    {
+      "id": "C04",
+      "name": {
+        "zh": "加拿大 Toronto MaRS",
+        "en": "Toronto MaRS, Canada"
+      },
+      "source_id": "CASE-MARS-HUBS",
+      "url": "https://hubs.marsdd.com/",
+      "publisher": "MaRS Discovery District",
+      "published_at": null,
+      "fact": {
+        "zh": "MaRS 的介绍将创新工作空间、会面活动与商业化咨询组合，并说明原医院遗产建筑被更新为创新工作场所。",
+        "en": "MaRS combines innovation workspace, meeting and event venues, and commercialization advice, and describes adaptation of a former hospital heritage building for innovation workspace."
+      },
+      "axes": [
+        {
+          "zh": "机构接口：空间、投资者交流与咨询相连。",
+          "en": "Institution interface: workspace connects with investor interaction and advice."
+        },
+        {
+          "zh": "共享设施：会议活动设施；资格和价格需另查。",
+          "en": "Shared facilities: meeting and event venues; eligibility and pricing require further checks."
+        },
+        {
+          "zh": "人才日常：城市中心工作与交流环境；不能推定普惠。",
+          "en": "Talent daily life: an urban work and meeting setting; universal affordability is not established."
+        },
+        {
+          "zh": "场景开放：本页未承诺公众测试场地。",
+          "en": "Scenario access: this page promises no public testbed."
+        },
+        {
+          "zh": "社区参与：本页未证明居民具有运营否决权。",
+          "en": "Community participation: resident veto rights are not established here."
+        },
+        {
+          "zh": "失败退出：本页未公开服务撤场协议。",
+          "en": "Failure and exit: service-removal agreements are not documented here."
+        }
+      ],
+      "transfer": {
+        "zh": "科技服务翼以已有建筑的可进入首层承载咨询、展示与短会；大钟寺文化内容接口保留真实遗产解释，新增设施保持可撤除。",
+        "en": "Use accessible ground floors of existing buildings in the technology-services wing for advice, display and short meetings; retain authentic interpretation at Dazhongsi and make additions removable."
+      },
+      "limit": {
+        "zh": "不把“更新”写成已可实施的拆改；旧建筑须通过结构、消防、权属和遗产复核。",
+        "en": "Do not equate adaptation with permission to alter buildings; structure, fire safety, ownership and heritage require review."
+      }
+    },
+    {
+      "id": "C05",
+      "name": {
+        "zh": "英国 London Knowledge Quarter",
+        "en": "London Knowledge Quarter, UK"
+      },
+      "source_id": "CASE-KQ-LONDON",
+      "url": "https://www.knowledgequarter.london/",
+      "publisher": "Knowledge Quarter London",
+      "published_at": null,
+      "fact": {
+        "zh": "KQ 以伙伴联盟连接学术、文化、科研与科技机构，并公开联盟治理与知识交流目标。空间接近被组织为交流网络。",
+        "en": "KQ links academic, cultural, research and technology organisations through a partnership and publishes its governance and knowledge-exchange aims, organising proximity into an exchange network."
+      },
+      "axes": [
+        {
+          "zh": "机构接口：伙伴联盟、董事会与成员代表。",
+          "en": "Institution interface: partnership, board and member representation."
+        },
+        {
+          "zh": "共享设施：伙伴拥有不同资源；不构成统一访问权。",
+          "en": "Shared facilities: members hold diverse resources; membership creates no universal access right."
+        },
+        {
+          "zh": "人才日常：交流网络；本页无生活成本成效证据。",
+          "en": "Talent daily life: exchange network; no living-cost outcome evidence here."
+        },
+        {
+          "zh": "场景开放：知识交流，不等于真实数据测试许可。",
+          "en": "Scenario access: knowledge exchange is not permission for real-data tests."
+        },
+        {
+          "zh": "社区参与：目标涵盖访客及工作生活人群；代表性需核。",
+          "en": "Community participation: visitors and local users are included in aims; representation needs verification."
+        },
+        {
+          "zh": "失败退出：本页未公开项目停止阈值。",
+          "en": "Failure and exit: project-stopping thresholds are not documented here."
+        }
+      ],
+      "transfer": {
+        "zh": "科技服务翼与主脉建立小型伙伴议事机制；共议桌同时展示机构资源和社区问题。成员加入不赋予公共空间支配权。",
+        "en": "Create a small partnership forum linking the technology-services wing and spine, with deliberation tables showing institutional resources and community issues. Membership would confer no control over public space."
+      },
+      "limit": {
+        "zh": "联盟议事不能替代公共程序；机构数量和品牌曝光不作为公共效益的替代指标。",
+        "en": "Partnership discussion cannot replace public procedures; member counts and brand exposure cannot substitute for public outcomes."
+      }
+    },
+    {
+      "id": "C06",
+      "name": {
+        "zh": "美国 Pittsburgh / Hazelwood Green",
+        "en": "Pittsburgh / Hazelwood Green, USA"
+      },
+      "source_id": "CASE-CMU-HAZELWOOD",
+      "url": "https://www.ri.cmu.edu/carnegie-mellon-richard-king-mellon-foundation-announce-historic-partnership-to-accelerate-cmus-science-and-technology-leadership-and-the-transformation-of-hazelwood-green-foundation-appro/",
+      "publisher": "Carnegie Mellon University Robotics Institute",
+      "published_at": "2021",
+      "fact": {
+        "zh": "CMU 介绍在原钢厂壳体内的 Mill 19 配置先进制造研究，并规划新的机器人研究设施，提出可持续、公平和社区机会的愿景。愿景不等于成效验证。",
+        "en": "CMU describes advanced-manufacturing research in Mill 19 inside a former steel-mill shell and plans for robotics facilities, with sustainability, equity and community-opportunity aims. These aims are not verified outcomes."
+      },
+      "axes": [
+        {
+          "zh": "机构接口：高校、制造研究与产业合作。",
+          "en": "Institution interface: university, manufacturing research and industry collaboration."
+        },
+        {
+          "zh": "共享设施：研究设施；公众开放条件未核验。",
+          "en": "Shared facilities: research infrastructure; public-access terms were not verified."
+        },
+        {
+          "zh": "人才日常：本资料未量化居住和日常便利。",
+          "en": "Talent daily life: housing and daily convenience are not quantified here."
+        },
+        {
+          "zh": "场景开放：研究转化空间；无通用公共测试权限。",
+          "en": "Scenario access: translational research space, without blanket public-testing rights."
+        },
+        {
+          "zh": "社区参与：声明公平机会愿景；执行代表性未核验。",
+          "en": "Community participation: equitable opportunity is an aim; implementation representation is unverified."
+        },
+        {
+          "zh": "失败退出：本资料未给出逐项目退出规则。",
+          "en": "Failure and exit: project-specific exit rules are not supplied."
+        }
+      ],
+      "transfer": {
+        "zh": "众智园把研发核心、受控测试庭院和公众观察界面分开；在既有场所条件允许时优先适应性更新，T1/T2 先试小规模可撤除组件。",
+        "en": "Separate research cores, controlled test courts and public observation at Zhongzhiyuan. Prefer adaptation where existing premises permit it, starting T1/T2 with small removable components."
+      },
+      "limit": {
+        "zh": "不是 Robotics Row 的替代地理证据；本轮收窄为有直接来源的 Hazelwood 案例，不复制其投资和土地模式。",
+        "en": "This is not geographical evidence for Robotics Row: this revision narrows the case to sourced Hazelwood evidence, without copying investment or land arrangements."
+      }
+    }
+  ],
+  "regional_interfaces": [
+    {
+      "id": "R01",
+      "node": {
+        "zh": "北纬社区",
+        "en": "AI Beiwei Community"
+      },
+      "role": {
+        "zh": "开发者议题、开源交流与青年创业的候选接口",
+        "en": "Candidate interface for developer issues, open exchange and young ventures"
+      },
+      "two_way_interface": {
+        "zh": "送出 S11 资源需求与 S09 测试问题；返回导师转介、工具说明与评议意见",
+        "en": "Send S11 resource needs and S09 test issues; receive mentor referrals, tool documentation and review feedback"
+      },
+      "spatial_carrier": {
+        "zh": "AI 原点两门 + 科技服务翼",
+        "en": "AI Origin gates + technology-services wing"
+      },
+      "prospective_responsibility": {
+        "zh": "社区运营方、资源门厅与高校团队共同协商",
+        "en": "Community operator, foyer and university teams would negotiate"
+      },
+      "exit": {
+        "zh": "只交换经同意的项目摘要；无资源或参与意愿则停止转介",
+        "en": "Share only consented project summaries; stop referrals when resources or willingness are absent"
+      },
+      "evidence_status": "public_background_role_only_proposed_interface"
+    },
+    {
+      "id": "R02",
+      "node": {
+        "zh": "未来科学城",
+        "en": "Future Science City"
+      },
+      "role": {
+        "zh": "能源、先进制造等专业问题与验证方法的候选接口",
+        "en": "Candidate interface for energy and advanced-manufacturing questions and methods"
+      },
+      "two_way_interface": {
+        "zh": "送出 S03/S07 微气候与低能耗服务问题；返回专家意见、验证方法和专业约束",
+        "en": "Send S03/S07 climate and low-energy service issues; receive expert feedback, methods and constraints"
+      },
+      "spatial_carrier": {
+        "zh": "众智园 T1/T2 + 小月河场景翼",
+        "en": "Zhongzhiyuan T1/T2 + Xiaoyue scenario wing"
+      },
+      "prospective_responsibility": {
+        "zh": "科研机构接口人、测试运营者与专业复核者协商",
+        "en": "Research liaison, test operator and professional reviewer would negotiate"
+      },
+      "exit": {
+        "zh": "不承诺设备或算力；方法不适配时回退人工巡查",
+        "en": "Promise no equipment or compute; fall back to manual inspection when methods do not fit"
+      },
+      "evidence_status": "public_background_role_only_proposed_interface"
+    },
+    {
+      "id": "R03",
+      "node": {
+        "zh": "怀柔科学城",
+        "en": "Huairou Science City"
+      },
+      "role": {
+        "zh": "测量、科学方法和基础研究交流的候选接口",
+        "en": "Candidate interface for measurement, scientific methods and basic-research exchange"
+      },
+      "two_way_interface": {
+        "zh": "送出 S07 环境观测问题与 T1 验证需求；返回测量协议建议、研究交流与误差解释",
+        "en": "Send S07 observation issues and T1 validation needs; receive protocol advice, exchange and uncertainty explanations"
+      },
+      "spatial_carrier": {
+        "zh": "众智园验证庭院 + 共议环",
+        "en": "Zhongzhiyuan test courts + civic forum"
+      },
+      "prospective_responsibility": {
+        "zh": "科研设施管理者、测试运营者与独立复核方协商",
+        "en": "Research-facility manager, test operator and independent reviewer would negotiate"
+      },
+      "exit": {
+        "zh": "预约和许可另行确认；不把大型科学装置写成园区可直接调用资源",
+        "en": "Confirm booking and permission separately; do not imply immediate access to major scientific facilities"
+      },
+      "evidence_status": "public_background_role_only_proposed_interface"
+    },
+    {
+      "id": "R04",
+      "node": {
+        "zh": "北京经开区",
+        "en": "Beijing E-Town"
+      },
+      "role": {
+        "zh": "工程化验证、产品化与供应链的候选接口",
+        "en": "Candidate interface for engineering validation, productisation and supply chains"
+      },
+      "two_way_interface": {
+        "zh": "送出 T1/T3 通过初步验证的概念组件与失败记录；返回工程建议、供应条件及售后边界",
+        "en": "Send provisionally validated T1/T3 components and failure records; receive engineering advice, supply terms and service boundaries"
+      },
+      "spatial_carrier": {
+        "zh": "众智园受控测试 + 大钟寺内容和消费接口",
+        "en": "Zhongzhiyuan controlled tests + Dazhongsi content and retail interfaces"
+      },
+      "prospective_responsibility": {
+        "zh": "企业技术方、场景运营者、商业与公共服务管理者协商",
+        "en": "Technology firms, scenario operators and service managers would negotiate"
+      },
+      "exit": {
+        "zh": "通过验证不等于采购；无维护和恢复责任就不得扩大部署",
+        "en": "Validation is not procurement; no scaling without maintenance and restoration responsibility"
+      },
+      "evidence_status": "public_background_role_only_proposed_interface"
+    },
+    {
+      "id": "R05",
+      "node": {
+        "zh": "京津冀协同网络",
+        "en": "Beijing–Tianjin–Hebei network"
+      },
+      "role": {
+        "zh": "异地方法复核、人才交流和跨城市经验反馈的候选接口",
+        "en": "Candidate interface for external method review, talent exchange and cross-city feedback"
+      },
+      "two_way_interface": {
+        "zh": "送出脱敏场景卡、四簿口径和退出案例；返回复核报告、适配差异与培训反馈",
+        "en": "Send de-identified scenario cards, ledger definitions and exit cases; receive review reports, adaptation differences and training feedback"
+      },
+      "spatial_carrier": {
+        "zh": "全带问题库 + 科技服务翼国际交流 + 三园",
+        "en": "Belt-wide issue library + services-wing exchange + Three Commons"
+      },
+      "prospective_responsibility": {
+        "zh": "有意愿的高校、城市团队与社区代表协商",
+        "en": "Willing universities, city teams and community representatives would negotiate"
+      },
+      "exit": {
+        "zh": "按地方条件重新准入；不跨区域传输个人轨迹，不宣称既有合作",
+        "en": "Require fresh local admission; no personal-trajectory transfer or claims of existing cooperation"
+      },
+      "evidence_status": "public_background_role_only_proposed_interface"
+    }
+  ],
+  "support_elements": [
+    {
+      "id": "E01",
+      "element": {
+        "zh": "土地",
+        "en": "Land"
+      },
+      "supply": {
+        "zh": "由权属与管理方协商时段和使用边界，先共享后讨论建设",
+        "en": "Negotiate time-limited use and access boundaries with owners and managers before considering construction"
+      },
+      "carrier": {
+        "zh": "三园公共首层、预约庭院",
+        "en": "Public ground floors and bookable courts in the Three Commons"
+      },
+      "responsibility": {
+        "zh": "权属/管理方 + 街道 + 场景运营者",
+        "en": "Owner/manager + neighbourhood + scenario operator"
+      },
+      "admission_exit": {
+        "zh": "书面权限、消防和维护成立；撤回授权即停止试点并恢复场所",
+        "en": "Written permission, fire safety and maintenance; withdrawal stops the pilot and triggers restoration"
+      },
+      "verification": {
+        "zh": "可核验授权时段数、冲突记录、恢复完成情况",
+        "en": "Verified authorised slots, conflict records and completed restoration"
+      },
+      "evidence_status": "participant_proposal_not_confirmed_supply"
+    },
+    {
+      "id": "E02",
+      "element": {
+        "zh": "空间",
+        "en": "Space"
+      },
+      "supply": {
+        "zh": "分离公众观察、预约协作和受控研发，保留低技术服务",
+        "en": "Separate public observation, booked collaboration and controlled research; retain low-tech services"
+      },
+      "carrier": {
+        "zh": "众智园递进庭院；AI 原点四级界面；大钟寺公共首层",
+        "en": "Zhongzhiyuan courts; AI Origin four interfaces; Dazhongsi public ground floors"
+      },
+      "responsibility": {
+        "zh": "建筑/消防专业方 + 物业 + 社区",
+        "en": "Building/fire professionals + property manager + community"
+      },
+      "admission_exit": {
+        "zh": "核验连续通行、疏散和可用时段；不合格则缩减开放层级",
+        "en": "Verify continuous access, evacuation and hours; reduce access levels when checks fail"
+      },
+      "verification": {
+        "zh": "分能力路径审计结果、实际开放时段、修复记录",
+        "en": "Ability-specific route audits, actual opening hours and repair records"
+      },
+      "evidence_status": "participant_proposal_not_confirmed_supply"
+    },
+    {
+      "id": "E03",
+      "element": {
+        "zh": "产业",
+        "en": "Industry"
+      },
+      "supply": {
+        "zh": "问题征集、受控验证、公共/商业分流与转化转介",
+        "en": "Issue intake, controlled validation, public/commercial triage and transfer referrals"
+      },
+      "carrier": {
+        "zh": "科技服务翼 S11 → 众智园 T1/T2 → 大钟寺 T3",
+        "en": "Services-wing S11 → Zhongzhiyuan T1/T2 → Dazhongsi T3"
+      },
+      "responsibility": {
+        "zh": "高校/企业团队 + 服务机构 + 独立复核者",
+        "en": "University/business teams + service organisations + independent reviewers"
+      },
+      "admission_exit": {
+        "zh": "先定义问题和责任；未通过四道门不得进入公众环境",
+        "en": "Define problem and responsibility first; no public deployment without all four gates"
+      },
+      "verification": {
+        "zh": "有证据的验证闭环数、纠错/退出记录，不以招商数量代替",
+        "en": "Evidence-backed validation cycles and correction/exit records, not recruitment totals"
+      },
+      "evidence_status": "participant_proposal_not_confirmed_supply"
+    },
+    {
+      "id": "E04",
+      "element": {
+        "zh": "资金",
+        "en": "Capital"
+      },
+      "supply": {
+        "zh": "基本公共服务与 AI 试验分别记账，按阶段申请或协商资源",
+        "en": "Account separately for basic public services and AI trials; seek resources by stage"
+      },
+      "carrier": {
+        "zh": "全带低技术基线 + 三园试点台账",
+        "en": "Belt-wide low-tech baseline + Three Commons pilot ledgers"
+      },
+      "responsibility": {
+        "zh": "拟议出资方 + 运营方 + 独立财务复核方",
+        "en": "Prospective funder + operator + independent financial reviewer"
+      },
+      "admission_exit": {
+        "zh": "确认预算、维护、保险和退出成本；资金不足停止 AI 而保留基本服务",
+        "en": "Confirm budget, upkeep, insurance and exit costs; inadequate funding stops AI while retaining basic service"
+      },
+      "verification": {
+        "zh": "预算出处与执行记录、维护覆盖和撤场成本；金额待测算",
+        "en": "Budget provenance and execution, upkeep coverage and removal cost; amounts pending estimation"
+      },
+      "evidence_status": "participant_proposal_not_confirmed_supply"
+    },
+    {
+      "id": "E05",
+      "element": {
+        "zh": "人才",
+        "en": "Talent"
+      },
+      "supply": {
+        "zh": "导师转介、青年原型协作与不同能力用户有补偿的共评",
+        "en": "Mentor referrals, youth prototyping and compensated review by users with varied abilities"
+      },
+      "carrier": {
+        "zh": "AI 原点资源门厅和共议桌 + 科技服务翼",
+        "en": "AI Origin foyer and deliberation tables + services wing"
+      },
+      "responsibility": {
+        "zh": "高校团队 + 社区 + 服务机构",
+        "en": "University teams + community + service organisations"
+      },
+      "admission_exit": {
+        "zh": "自愿、可退出、无数字门槛；时间负担过大则缩短或暂停活动",
+        "en": "Voluntary participation, exit and no digital barrier; shorten or pause burdensome activities"
+      },
+      "verification": {
+        "zh": "分群参与机会、回复时效、参与者负担和改进反馈",
+        "en": "Group-specific opportunities, response time, participant burden and feedback"
+      },
+      "evidence_status": "participant_proposal_not_confirmed_supply"
+    },
+    {
+      "id": "E06",
+      "element": {
+        "zh": "算力",
+        "en": "Compute"
+      },
+      "supply": {
+        "zh": "低风险服务优先端侧与离线，预约研究资源只作候选",
+        "en": "Prefer edge/offline operation for low-risk services; bookable research compute remains a candidate"
+      },
+      "carrier": {
+        "zh": "众智园 T1 + 两门离线终端",
+        "en": "Zhongzhiyuan T1 + offline gate terminals"
+      },
+      "responsibility": {
+        "zh": "设备/算力提供者 + 运营方 + 安全复核者",
+        "en": "Device/compute provider + operator + safety reviewer"
+      },
+      "admission_exit": {
+        "zh": "确认容量、供电、网络与人工接管；故障回退固定信息",
+        "en": "Confirm capacity, power, network and human takeover; faults revert to fixed information"
+      },
+      "verification": {
+        "zh": "离线任务完成、恢复时长、能耗和故障记录；无既定算力配额",
+        "en": "Offline completion, recovery time, energy and faults; no promised allocation"
+      },
+      "evidence_status": "participant_proposal_not_confirmed_supply"
+    },
+    {
+      "id": "E07",
+      "element": {
+        "zh": "数据",
+        "en": "Data"
+      },
+      "supply": {
+        "zh": "公开目录、最少采集、聚合发布和版本纠错",
+        "en": "Public catalogues, minimal collection, aggregate publication and versioned correction"
+      },
+      "carrier": {
+        "zh": "四簿台账 + S06/S07/S12；科研原始数据另设权限",
+        "en": "Four Ledgers + S06/S07/S12; research raw data has separate permissions"
+      },
+      "responsibility": {
+        "zh": "数据责任者 + 场景运营者 + 公众复核代表",
+        "en": "Data controller + scenario operator + public review representatives"
+      },
+      "admission_exit": {
+        "zh": "目的、权利和保留期限先确认；异常立即停采并按约删除",
+        "en": "Confirm purpose, rights and retention first; incidents stop collection and trigger agreed deletion"
+      },
+      "verification": {
+        "zh": "可追溯记录比例、纠错响应、删除确认；不公开个人轨迹",
+        "en": "Traceable-record share, correction response and deletion confirmation; no public personal trajectories"
+      },
+      "evidence_status": "participant_proposal_not_confirmed_supply"
+    },
+    {
+      "id": "E08",
+      "element": {
+        "zh": "场景",
+        "en": "Scenarios"
+      },
+      "supply": {
+        "zh": "十二景问题单 → T1/T2/T3 验证 → 共议 → 保留/修改/停止",
+        "en": "Twelve Scenario issue cards → T1/T2/T3 tests → deliberation → keep/modify/stop"
+      },
+      "carrier": {
+        "zh": "主脉与小月河翼定义问题；三园验证与使用",
+        "en": "Spine and Xiaoyue wing define issues; Three Commons test and use services"
+      },
+      "responsibility": {
+        "zh": "社区提出问题 + 技术方验证 + 管理方放行",
+        "en": "Community issue intake + technology validation + manager admission"
+      },
+      "admission_exit": {
+        "zh": "四道门逐项通过；错误可达、歧视或无人接管即暂停",
+        "en": "Pass all four gates; false access, discrimination or absent takeover pauses the service"
+      },
+      "verification": {
+        "zh": "非 AI 基线可用、分群任务成功、申诉与退出演练记录",
+        "en": "Low-tech availability, group-specific task completion, appeals and exit drills"
+      },
+      "evidence_status": "participant_proposal_not_confirmed_supply"
+    }
+  ]
+}

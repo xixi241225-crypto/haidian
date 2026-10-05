@@ -1,0 +1,205 @@
+{
+  "iteration": "v1.1",
+  "checked_at": "2026-10-05",
+  "browser": "Chromium headless with isolated temporary profile",
+  "offline_requests": 0,
+  "missing_visible_characters": [],
+  "font_license": "SIL OFL 1.1",
+  "checks": [
+    {
+      "file": "report/proposal.html",
+      "fonts": [
+        {
+          "family": "Jingzhang Reading",
+          "status": "loaded"
+        }
+      ],
+      "errors": [],
+      "network": [],
+      "layout": {
+        "width": 1440,
+        "scrollWidth": 1440,
+        "images": [
+          {
+            "src": "../assets/figures/site-overview.png",
+            "loaded": true
+          },
+          {
+            "src": "../assets/figures/regional-synergy.png",
+            "loaded": true
+          },
+          {
+            "src": "../assets/figures/ecosystem-flow.png",
+            "loaded": true
+          },
+          {
+            "src": "../assets/figures/key-areas.png",
+            "loaded": true
+          },
+          {
+            "src": "../assets/figures/land-use-structure.png",
+            "loaded": true
+          },
+          {
+            "src": "../assets/figures/mobility-bluegreen.png",
+            "loaded": true
+          },
+          {
+            "src": "../assets/figures/metrics-evidence.png",
+            "loaded": true
+          }
+        ]
+      },
+      "mobile": {
+        "width": 390,
+        "scrollWidth": 390
+      }
+    },
+    {
+      "file": "report/proposal.en.html",
+      "fonts": [
+        {
+          "family": "Jingzhang Reading",
+          "status": "loaded"
+        }
+      ],
+      "errors": [],
+      "network": [],
+      "layout": {
+        "width": 1440,
+        "scrollWidth": 1440,
+        "images": [
+          {
+            "src": "../assets/figures/site-overview.en.png",
+            "loaded": true
+          },
+          {
+            "src": "../assets/figures/regional-synergy.en.png",
+            "loaded": true
+          },
+          {
+            "src": "../assets/figures/ecosystem-flow.en.png",
+            "loaded": true
+          },
+          {
+            "src": "../assets/figures/key-areas.en.png",
+            "loaded": true
+          },
+          {
+            "src": "../assets/figures/land-use-structure.en.png",
+            "loaded": true
+          },
+          {
+            "src": "../assets/figures/mobility-bluegreen.en.png",
+            "loaded": true
+          },
+          {
+            "src": "../assets/figures/metrics-evidence.en.png",
+            "loaded": true
+          }
+        ]
+      },
+      "mobile": {
+        "width": 390,
+        "scrollWidth": 390
+      }
+    },
+    {
+      "file": "visual/index.html",
+      "fonts": [
+        {
+          "family": "Jingzhang Reading",
+          "status": "loaded"
+        }
+      ],
+      "errors": [],
+      "network": [],
+      "layout": {
+        "width": 1440,
+        "scrollWidth": 1440,
+        "images": [
+          {
+            "src": "../assets/figures/site-overview.png",
+            "loaded": true
+          },
+          {
+            "src": "../assets/figures/land-use-structure.png",
+            "loaded": true
+          },
+          {
+            "src": "../assets/figures/key-areas.png",
+            "loaded": true
+          },
+          {
+            "src": "../assets/figures/mobility-bluegreen.png",
+            "loaded": true
+          },
+          {
+            "src": "../assets/figures/metrics-evidence.png",
+            "loaded": true
+          },
+          {
+            "src": "../assets/figures/regional-synergy.png",
+            "loaded": true
+          }
+        ]
+      },
+      "mobile": {
+        "width": 390,
+        "scrollWidth": 390
+      }
+    },
+    {
+      "file": "visual/index.en.html",
+      "fonts": [
+        {
+          "family": "Jingzhang Reading",
+          "status": "loaded"
+        }
+      ],
+      "errors": [],
+      "network": [],
+      "layout": {
+        "width": 1440,
+        "scrollWidth": 1440,
+        "images": [
+          {
+            "src": "../assets/figures/site-overview.en.png",
+            "loaded": true
+          },
+          {
+            "src": "../assets/figures/land-use-structure.en.png",
+            "loaded": true
+          },
+          {
+            "src": "../assets/figures/key-areas.en.png",
+            "loaded": true
+          },
+          {
+            "src": "../assets/figures/mobility-bluegreen.en.png",
+            "loaded": true
+          },
+          {
+            "src": "../assets/figures/metrics-evidence.en.png",
+            "loaded": true
+          },
+          {
+            "src": "../assets/figures/regional-synergy.en.png",
+            "loaded": true
+          }
+        ]
+      },
+      "mobile": {
+        "width": 390,
+        "scrollWidth": 390
+      }
+    }
+  ],
+  "pdf_page_counts": {
+    "a3-booklet.pdf": 28,
+    "a3-booklet.en.pdf": 28,
+    "a0-boards.pdf": 7,
+    "a0-boards.en.pdf": 7
+  },
+  "scope": "Browser rendering, visible glyph coverage, images, 1440px/390px layout and mouse/keyboard element selection; no design-content approval claimed."
+}

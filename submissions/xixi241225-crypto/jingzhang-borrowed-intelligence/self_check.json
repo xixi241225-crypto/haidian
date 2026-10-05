@@ -15,9 +15,13 @@
       "proposal_files": [
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/proposal.md"
       ],
-      "changelog_files": [],
+      "changelog_files": [
+        "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/changelog.md"
+      ],
       "changed_files": [
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/agent.json",
+        "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/figures/ecosystem-flow.en.png",
+        "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/figures/ecosystem-flow.png",
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/figures/key-areas.en.png",
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/figures/key-areas.png",
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/figures/land-use-structure.en.png",
@@ -26,9 +30,12 @@
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/figures/metrics-evidence.png",
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/figures/mobility-bluegreen.en.png",
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/figures/mobility-bluegreen.png",
+        "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/figures/regional-synergy.en.png",
+        "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/figures/regional-synergy.png",
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/figures/site-overview.en.png",
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/figures/site-overview.png",
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assumptions.json",
+        "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/changelog.md",
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/compliance_matrix.json",
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/design_depth_matrix.json",
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/drawings/a0-boards.en.pdf",
@@ -55,13 +62,24 @@
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/self_check.json",
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/sources.json",
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/standard_matrix.json",
+        "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/visual/assets/ecosystem-review.json",
+        "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/visual/assets/reading-font.css",
+        "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/visual/assets/review-report-case.en.png",
+        "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/visual/assets/review-report-case.png",
+        "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/visual/assets/review-report-top.en.png",
+        "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/visual/assets/review-report-top.png",
+        "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/visual/assets/review-visual-interaction.en.png",
+        "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/visual/assets/review-visual-interaction.png",
+        "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/visual/assets/review-visual-top.en.png",
+        "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/visual/assets/review-visual-top.png",
+        "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/visual/assets/revision-qa.json",
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/visual/index.en.html",
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/visual/index.html"
       ],
       "ai_package_stages": {
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence": "formal"
       },
-      "total_bytes": 13551633,
+      "total_bytes": 18234005,
       "maintainer_bypass": false
     },
     "stderr": ""
@@ -139,7 +157,7 @@
         "proposal_format_version": "2",
         "evidence_contract": "section-anchors-plus-structured-audit",
         "proposal_reference_counts": {
-          "source": 10,
+          "source": 19,
           "standard": 8,
           "depth": 12,
           "data": 26,

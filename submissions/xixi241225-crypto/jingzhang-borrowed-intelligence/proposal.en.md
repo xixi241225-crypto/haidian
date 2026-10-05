@@ -12,21 +12,29 @@ license: "COMMUNITY-DISPLAY-ONLY"
 summary: "The proposal uses the lived memory of the century-old Jing-Zhang Railway to calibrate urban intelligence and everyday wellbeing to test renewal outcomes. One Spine, Two Wings, and Three Commons organize space; Four Ledgers govern public value; Twelve Scenarios pair a non-AI baseline with accountable AI augmentation; and phased delivery, verification, human responsibility, and exit mechanisms bound implementation risk."
 tracks: ["ai-traffic-walkability", "enterprise-services-ecosystem", "civic-agent-governance"]
 scenarios: ["ai-traffic-walkability", "enterprise-service-copilot", "public-safety-operations-review"]
-iteration: "v1.0"
+iteration: "v1.1"
 ---
 
 # BORROWED INTELLIGENCE
 
 > **Memory calibrates intelligence. Wellbeing measures the future.**
 
-**Agent:** Jing-Zhang Borrowed Intelligence Urban Design Agent (BORROWED INTELLIGENCE)<br>
-**Design Team:** Jing-Zhang Borrowed Intelligence Design Team (Li Bo, Meng Yujing)<br>
-**Submission Account:** xixi241225-crypto<br>
+**Agent:** Jing-Zhang Borrowed Intelligence Urban Design Agent (BORROWED INTELLIGENCE)
+
+
+**Design Team:** Jing-Zhang Borrowed Intelligence Design Team (Li Bo, Meng Yujing)
+
+
+**Submission Account:** xixi241225-crypto
+
+
 **Contact Email:** xixi241225@gmail.com
 
 The century-old Jing-Zhang Railway has left genuine memories of engineering, urban change, and everyday life. It has also left a city where rail infrastructure, ring roads, compounds, and superblocks continue to divide walking routes, time, and access to opportunity. If an AI innovation belt merely adds screens, robots, and demonstrations, it will place new technology on top of old urban burdens. This proposal therefore asks four questions before introducing AI: can the city retain its memory, connect everyday journeys, support comfortable staying, and explain how its services work?
 
 Here, “borrowing” is not an imitation of historic form. It is an urban-design method: identify real objects, disclose the burdens created by infrastructure, build relationships across boundaries, secure everyday public services, and then use auditable indicators to recalibrate results over time. The method becomes a spatial organization of One Spine, Two Wings, and Three Commons; a governance framework of Four Ledgers; and a service layer of Twelve Scenarios.
+
+Revision V1.1, 5 October 2026. This package responds to the original submission review and is submitted after the deadline; acceptance and further review remain maintainer decisions.
 
 ## Design Basis and Source List
 
@@ -44,7 +52,7 @@ These are not three parallel reports. Coordinated research establishes an “ind
 
 The machine-validation area of the current Overall Design Area is **11,412,825.386 sqm**. It was independently recalculated in EPSG:4548 from the package’s provisional site geometry and has **low** confidence. The figure keeps structured data, metrics, and narrative consistent; it must not be interpreted as the precise area of an official red line.[metric:site_area_sqm] [data:geometry/site_boundary.geojson#PROV-SITE-001]
 
-![Relationship among the three scope levels and the provisional boundary](assets/figures/site-overview.png)
+![Relationship among the three scope levels and the provisional boundary](assets/figures/site-overview.en.png)
 
 *Figure 1 | The task relationship among the three scope levels; the illustrated boundary remains provisional.*
 
@@ -54,7 +62,152 @@ AI enters urban design not because it needs a special architectural style, but b
 
 The proposal organizes the innovation ecosystem as a five-step loop: **universities and research generate ideas → open-source and professional services support collaboration → controlled testbeds verify performance → public display and deliberation build understanding → responsibility enters long-term operation together with the technology**. The Zhongguancun Technology Services Wing provides distributed interfaces for professional services, capital, intellectual property, talent support, and international communication. The Xiaoyue River Scenario Enablement Wing defines real problems through community life, blue-green systems, mobility, and everyday services. Technology does not move directly from a research building into public space; it passes through validation, human review, public deliberation, and an exit plan.[data:geometry/public_space.geojson#PS-WING-W] [data:geometry/public_space.geojson#PS-WING-E]
 
-Global comparison follows a common framework of “learn without copying.” Kendall Square, one-north, Paris-Saclay, Toronto MaRS, London Knowledge Quarter, Pittsburgh Robotics Row, and Shenzhen innovation districts are seven candidate verification indexes. Later research will test only six questions: how anchor institutions connect to the city; how shared facilities are operated; how talent’s daily life is supported; how scenarios are opened safely; how communities participate; and how failure is exited. No direct sources for these cases are included in the frozen Evidence Contract, so the names do not support site facts, performance claims, or planning controls. Jing-Zhang’s spatial decisions remain grounded in the local brief, geometry, and design assets.[source:PARTICIPANT-DESIGN-V01]
+### Global case comparison and Jing-Zhang translation
+
+This revision replaces the candidate-name index with six cases supported by registered primary sources. They cover AI, robotics and broader innovation districts: the comparison concerns institutions, space and operations, not a claim that all are AI-only parks or that website descriptions prove outcomes. Sourced observations and Jing-Zhang design proposals are separate; undocumented exit, participation and access conditions remain unverified.
+
+#### C01 Kendall Square / MIT, USA
+
+MIT’s resource map lists campus mentoring, licensing and entrepreneurship resources alongside off-campus incubation and shared-laboratory resources. This is a directory, not evidence of collaboration outcomes. [source:CASE-MIT-KENDALL]
+
+| Dimension | Verified observation and limitation |
+| --- | --- |
+| Institution–city interface | Institution interface: campus and off-campus resource directory. |
+| Shared facilities | Shared facilities: LabCentral is listed; access terms were not verified. |
+| Talent daily life | Talent daily life: mentoring and venture support are listed; wellbeing outcomes are unproven. |
+| Scenario access | Scenario access: the source supplies no public-space testing permission. |
+| Community participation | Community participation: representative public involvement is not documented here. |
+| Failure and exit | Failure and exit: exit agreements are not documented here. |
+
+
+Jing-Zhang proposal: Use AI Origin’s two gates as a single resource foyer, with staffed directories of university services, advice and bookable facilities; providers would maintain access rules and hours.
+
+Non-transferable conditions: Do not copy institutional density, financing or access rights; a directory does not establish resource availability in Jing-Zhang.
+
+#### C02 one-north / LaunchPad, Singapore
+
+JTC describes a development bringing together startups, incubators, accelerators and investors, with modular space, amenities and opportunities to pilot across its property portfolio. [source:CASE-JTC-LAUNCHPAD]
+
+| Dimension | Verified observation and limitation |
+| --- | --- |
+| Institution–city interface | Institution interface: eligibility is defined by participant type. |
+| Shared facilities | Shared facilities: modular units; access is not automatically free or unrestricted. |
+| Talent daily life | Talent daily life: food and transport information accompanies workspace information. |
+| Scenario access | Scenario access: portfolio-wide piloting opportunities still require project admission. |
+| Community participation | Community participation: resident co-decision is not established by this page. |
+| Failure and exit | Failure and exit: flexible leases are described; test-failure rules are not documented. |
+
+
+Jing-Zhang proposal: Provide adaptable small work units and controlled test courts at Zhongzhiyuan, with daily services at AI Origin. The foyer would disclose booking, duration, charges and suspension terms.
+
+Non-transferable conditions: Do not transplant Singapore’s rent, subsidy or eligibility regime; verify premises, fire safety, responsibilities and community acceptance locally.
+
+#### C03 Paris-Saclay, France
+
+The public development agency presents campus development, economic activity, cultural life, IPHE business space and shared services within one coordinated development framework. [source:CASE-EPA-SACLAY]
+
+| Dimension | Verified observation and limitation |
+| --- | --- |
+| Institution–city interface | Institution interface: a public developer coordinates campus and territorial development. |
+| Shared facilities | Shared facilities: IPHE and shared university facilities are described. |
+| Talent daily life | Talent daily life: cultural life and shared mobility are included. |
+| Scenario access | Scenario access: innovation services are described, without transferable blanket permission. |
+| Community participation | Community participation: the page describes development consultation with local authorities and residents. |
+| Failure and exit | Failure and exit: scenario-specific retirement thresholds are not documented. |
+
+
+Jing-Zhang proposal: Use a common issue register and coordination ledger across the Three Commons, reviewing mobility and daily services alongside research space. Agreements would define each shared interface.
+
+Non-transferable conditions: Do not copy the French agency’s land powers or financing; verify existing Jing-Zhang ownership and management separately.
+
+#### C04 Toronto MaRS, Canada
+
+MaRS combines innovation workspace, meeting and event venues, and commercialization advice, and describes adaptation of a former hospital heritage building for innovation workspace. [source:CASE-MARS-HUBS]
+
+| Dimension | Verified observation and limitation |
+| --- | --- |
+| Institution–city interface | Institution interface: workspace connects with investor interaction and advice. |
+| Shared facilities | Shared facilities: meeting and event venues; eligibility and pricing require further checks. |
+| Talent daily life | Talent daily life: an urban work and meeting setting; universal affordability is not established. |
+| Scenario access | Scenario access: this page promises no public testbed. |
+| Community participation | Community participation: resident veto rights are not established here. |
+| Failure and exit | Failure and exit: service-removal agreements are not documented here. |
+
+
+Jing-Zhang proposal: Use accessible ground floors of existing buildings in the technology-services wing for advice, display and short meetings; retain authentic interpretation at Dazhongsi and make additions removable.
+
+Non-transferable conditions: Do not equate adaptation with permission to alter buildings; structure, fire safety, ownership and heritage require review.
+
+#### C05 London Knowledge Quarter, UK
+
+KQ links academic, cultural, research and technology organisations through a partnership and publishes its governance and knowledge-exchange aims, organising proximity into an exchange network. [source:CASE-KQ-LONDON]
+
+| Dimension | Verified observation and limitation |
+| --- | --- |
+| Institution–city interface | Institution interface: partnership, board and member representation. |
+| Shared facilities | Shared facilities: members hold diverse resources; membership creates no universal access right. |
+| Talent daily life | Talent daily life: exchange network; no living-cost outcome evidence here. |
+| Scenario access | Scenario access: knowledge exchange is not permission for real-data tests. |
+| Community participation | Community participation: visitors and local users are included in aims; representation needs verification. |
+| Failure and exit | Failure and exit: project-stopping thresholds are not documented here. |
+
+
+Jing-Zhang proposal: Create a small partnership forum linking the technology-services wing and spine, with deliberation tables showing institutional resources and community issues. Membership would confer no control over public space.
+
+Non-transferable conditions: Partnership discussion cannot replace public procedures; member counts and brand exposure cannot substitute for public outcomes.
+
+#### C06 Pittsburgh / Hazelwood Green, USA
+
+CMU describes advanced-manufacturing research in Mill 19 inside a former steel-mill shell and plans for robotics facilities, with sustainability, equity and community-opportunity aims. These aims are not verified outcomes. [source:CASE-CMU-HAZELWOOD]
+
+| Dimension | Verified observation and limitation |
+| --- | --- |
+| Institution–city interface | Institution interface: university, manufacturing research and industry collaboration. |
+| Shared facilities | Shared facilities: research infrastructure; public-access terms were not verified. |
+| Talent daily life | Talent daily life: housing and daily convenience are not quantified here. |
+| Scenario access | Scenario access: translational research space, without blanket public-testing rights. |
+| Community participation | Community participation: equitable opportunity is an aim; implementation representation is unverified. |
+| Failure and exit | Failure and exit: project-specific exit rules are not supplied. |
+
+
+Jing-Zhang proposal: Separate research cores, controlled test courts and public observation at Zhongzhiyuan. Prefer adaptation where existing premises permit it, starting T1/T2 with small removable components.
+
+Non-transferable conditions: This is not geographical evidence for Robotics Row: this revision narrows the case to sourced Hazelwood evidence, without copying investment or land arrangements.
+
+### Regional innovation interfaces
+
+Regional coordination follows two-way issue transfer, method/resource return, local validation and feedback. It introduces no confirmed partners, allocations or investment commitments. Public information supports background roles only; every interface below is a participant proposal pending negotiation. Existing regional cooperation does not authorise this project. [source:REGION-BEIWEI-PUBLIC] [source:REGION-THREE-CITIES-PUBLIC]
+
+| Node and suggested role | Two-way interface | Spatial carrier | Prospective responsibility and exit |
+| --- | --- | --- | --- |
+| AI Beiwei Community: Candidate interface for developer issues, open exchange and young ventures | Send S11 resource needs and S09 test issues; receive mentor referrals, tool documentation and review feedback | AI Origin gates + technology-services wing | Community operator, foyer and university teams would negotiate; Share only consented project summaries; stop referrals when resources or willingness are absent |
+| Future Science City: Candidate interface for energy and advanced-manufacturing questions and methods | Send S03/S07 climate and low-energy service issues; receive expert feedback, methods and constraints | Zhongzhiyuan T1/T2 + Xiaoyue scenario wing | Research liaison, test operator and professional reviewer would negotiate; Promise no equipment or compute; fall back to manual inspection when methods do not fit |
+| Huairou Science City: Candidate interface for measurement, scientific methods and basic-research exchange | Send S07 observation issues and T1 validation needs; receive protocol advice, exchange and uncertainty explanations | Zhongzhiyuan test courts + civic forum | Research-facility manager, test operator and independent reviewer would negotiate; Confirm booking and permission separately; do not imply immediate access to major scientific facilities |
+| Beijing E-Town: Candidate interface for engineering validation, productisation and supply chains | Send provisionally validated T1/T3 components and failure records; receive engineering advice, supply terms and service boundaries | Zhongzhiyuan controlled tests + Dazhongsi content and retail interfaces | Technology firms, scenario operators and service managers would negotiate; Validation is not procurement; no scaling without maintenance and restoration responsibility |
+| Beijing–Tianjin–Hebei network: Candidate interface for external method review, talent exchange and cross-city feedback | Send de-identified scenario cards, ledger definitions and exit cases; receive review reports, adaptation differences and training feedback | Belt-wide issue library + services-wing exchange + Three Commons | Willing universities, city teams and community representatives would negotiate; Require fresh local admission; no personal-trajectory transfer or claims of existing cooperation |
+
+
+![ Conceptual regional interfaces and local validation](assets/figures/regional-synergy.en.png)
+
+### Eight-element industry-support matrix
+
+Each of the eight elements requires a spatial carrier, prospective responsibility and exit rules. Land and space govern admission; industry and talent organise collaboration; capital and compute constrain operation; data and scenarios provide feedback. All actors are suggested roles, with no confirmed funding, quotas or policy support. Indicators below are future verification items requiring baselines, not achieved performance. [source:PARTICIPANT-ECOSYSTEM-V11]
+
+| Element and supply mechanism | Carrier and responsibility | Admission and exit | Future verification indicators |
+| --- | --- | --- | --- |
+| Land: Negotiate time-limited use and access boundaries with owners and managers before considering construction | Public ground floors and bookable courts in the Three Commons; Owner/manager + neighbourhood + scenario operator | Written permission, fire safety and maintenance; withdrawal stops the pilot and triggers restoration | Verified authorised slots, conflict records and completed restoration |
+| Space: Separate public observation, booked collaboration and controlled research; retain low-tech services | Zhongzhiyuan courts; AI Origin four interfaces; Dazhongsi public ground floors; Building/fire professionals + property manager + community | Verify continuous access, evacuation and hours; reduce access levels when checks fail | Ability-specific route audits, actual opening hours and repair records |
+| Industry: Issue intake, controlled validation, public/commercial triage and transfer referrals | Services-wing S11 → Zhongzhiyuan T1/T2 → Dazhongsi T3; University/business teams + service organisations + independent reviewers | Define problem and responsibility first; no public deployment without all four gates | Evidence-backed validation cycles and correction/exit records, not recruitment totals |
+| Capital: Account separately for basic public services and AI trials; seek resources by stage | Belt-wide low-tech baseline + Three Commons pilot ledgers; Prospective funder + operator + independent financial reviewer | Confirm budget, upkeep, insurance and exit costs; inadequate funding stops AI while retaining basic service | Budget provenance and execution, upkeep coverage and removal cost; amounts pending estimation |
+| Talent: Mentor referrals, youth prototyping and compensated review by users with varied abilities | AI Origin foyer and deliberation tables + services wing; University teams + community + service organisations | Voluntary participation, exit and no digital barrier; shorten or pause burdensome activities | Group-specific opportunities, response time, participant burden and feedback |
+| Compute: Prefer edge/offline operation for low-risk services; bookable research compute remains a candidate | Zhongzhiyuan T1 + offline gate terminals; Device/compute provider + operator + safety reviewer | Confirm capacity, power, network and human takeover; faults revert to fixed information | Offline completion, recovery time, energy and faults; no promised allocation |
+| Data: Public catalogues, minimal collection, aggregate publication and versioned correction | Four Ledgers + S06/S07/S12; research raw data has separate permissions; Data controller + scenario operator + public review representatives | Confirm purpose, rights and retention first; incidents stop collection and trigger agreed deletion | Traceable-record share, correction response and deletion confirmation; no public personal trajectories |
+| Scenarios: Twelve Scenario issue cards → T1/T2/T3 tests → deliberation → keep/modify/stop | Spine and Xiaoyue wing define issues; Three Commons test and use services; Community issue intake + technology validation + manager admission | Pass all four gates; false access, discrimination or absent takeover pauses the service | Low-tech availability, group-specific task completion, appeals and exit drills |
+
+
+![ Resource supply, Three Commons validation and public feedback](assets/figures/ecosystem-flow.en.png)
+
+Universities and firms propose capabilities and prototypes; communities define issues along the spine and Xiaoyue wing; the services wing offers referrals and advice. The Three Commons validate by risk level, while the Four Ledgers return results to providers. Managers authorise premises, operators provide takeover and independent reviewers check fairness and evidence. Interrupted supply or failed admission stops AI enhancement, restores low-tech service and informs the issue originator. [data:geometry/public_space.geojson#PS-ZZY-TEST] [data:geometry/public_space.geojson#PS-AIO-SEAM]
 
 The brand **BORROWED INTELLIGENCE** treats urban memory and public judgement as external calibrators of intelligence. The logo direction abstracts three motifs: twin tracks, growth rings, and a data pulse. Twin tracks represent infrastructure and east–west reconnection; growth rings represent a century of time; the pulse represents urban learning that can be explained and paused. A low-saturation grayscale base carries real places and evidence, while a single accent color marks direction, interaction, and evidence status. Cyber imagery never substitutes for urban design.[standard:PROJECT-AGENT-OPEN-CALL-TASKBOOK]
 
@@ -133,7 +286,7 @@ AI Origin is not a showroom foyer for a technology park. It is a set of everyday
 
 Dazhongsi strictly follows a dual-track mechanism. `PROV-KEY-003` is used only as the organizer-provided / official repository provisional geometry for machine validation. Dazhongsi Station, Juesheng Temple, and the four-quadrant walking relationships are only real design-research references and cannot be written back as an official boundary. The fixed status remains `official_anchor_status=pending` and `official_validation_geometry_not_equal_real_design_research_location`; Issue #1029 remains **Open**. When the organizer confirms the official anchor, the related geometry, metrics, and narrative must be recalculated together.[source:BACKGROUND-GITHUB-ISSUE-1029] [data:geometry/key_areas.geojson#PROV-KEY-003] [data:geometry/constraints.geojson#CONSTRAINT-ISSUE-1029]
 
-![Comparative framework for Zhongzhiyuan, AI Origin, and Dazhongsi](assets/figures/key-areas.png)
+![Comparative framework for Zhongzhiyuan, AI Origin, and Dazhongsi](assets/figures/key-areas.en.png)
 
 *Figure 2 | The Three Commons are compared through the same questions; the Dazhongsi diagram does not alter its dual-track status.*
 
@@ -146,14 +299,14 @@ The Twelve Scenarios turn abstract AI into auditable everyday services. Each beg
 | Scenario | Priority users and location | Non-AI baseline | AI augmentation and human / exit boundary |
 | --- | --- | --- | --- |
 | S01 Century Memory Lens | U01, U02, U05; Spine and AI Origin | Authentic remains, a timeline, printed maps, and human interpretation | Multilingual, accessible, and personalized interpretation; sources stay visible and generated content cannot replace historical review. |
-| S02 Quiet Borrowed-View Route | U01, U04, U06; Spine and Everyday-Life Seam | Continuous signs, a quiet alternative route, seating, and shade | Suggest routes by noise, crowding, and sensory preference; users can disable location and use a fixed map. |
-| S03 All-Season Comfort Route | All users; Spine and Three Commons | Shade, rain cover, drinking water, rest points, and seasonal maintenance | Suggest comfortable routes using microclimate information; fixed signs and human inspection take over when equipment fails. |
-| S04 Barrier-Free Together | U01, U06; six stitches and Two Gates | Ramps, tactile and high-contrast information, continuous rest, and human assistance | Help detect obstacles and suggest accessible routes; prediction must not be presented as verified accessibility. |
+| S02 Quiet Borrowed-View Path | U01, U04, U06; Spine and Everyday-Life Seam | Continuous signs, a quiet alternative route, seating, and shade | Suggest routes by noise, crowding, and sensory preference; users can disable location and use a fixed map. |
+| S03 Four-Season Comfort Route | All users; Spine and Three Commons | Shade, rain cover, drinking water, rest points, and seasonal maintenance | Suggest comfortable routes using microclimate information; fixed signs and human inspection take over when equipment fails. |
+| S04 Accessible Together | U01, U06; six stitches and Two Gates | Ramps, tactile and high-contrast information, continuous rest, and human assistance | Help detect obstacles and suggest accessible routes; prediction must not be presented as verified accessibility. |
 | S05 Time-Equity Navigation | U01, U04, U06; stations and Dazhongsi | Standard maps, service times, staffed information, and route options | Show walking, waiting, detour, and care costs; users may choose fastest, most reliable, or least-transfer routes. |
 | S06 Public-Space Steward | U07 and all users; Spine and Three Commons | Inspection sheets, cleaning and repair requests, notices, and a staffed hotline | Aggregate facility status and work orders, with human confirmation of exceptions; no default facial recognition. |
-| S07 Blue-Green Civic Twin | U02, U03, U07; Zhongzhiyuan and river links | Rain gauges, planting information, human monitoring, and evacuation rules | Assist observation of ponding, heat, and plant condition; models support maintenance judgement but do not replace engineering conclusions. |
-| S08 Civic Deliberation Agent | U01, U02, U06, U07; AI Origin courtyards | In-person meetings, paper comments, human facilitation, and public minutes | Assist synthesis without replacing voting; provide correction, appeal, deletion, and version records. |
-| S09 Open Test Booking | U03, U07, and the public; Zhongzhiyuan | On-site notices, paper applications, and human safety briefings | Match time and capability and disclose risk and results; refusal of data does not affect offline application. |
+| S07 Blue-Green Urban Twin | U02, U03, U07; Zhongzhiyuan and river links | Rain gauges, planting information, human monitoring, and evacuation rules | Assist observation of ponding, heat, and plant condition; models support maintenance judgement but do not replace engineering conclusions. |
+| S08 Community Deliberation Agent | U01, U02, U06, U07; AI Origin courtyards | In-person meetings, paper comments, human facilitation, and public minutes | Assist synthesis without replacing voting; provide correction, appeal, deletion, and version records. |
+| S09 Open Validation Booking | U03, U07, and the public; Zhongzhiyuan | On-site notices, paper applications, and human safety briefings | Match time and capability and disclose risk and results; refusal of data does not affect offline application. |
 | S10 Slow-Intelligence Retail Assistant | U04, U05, U06, U07; Dazhongsi | Ordinary menus, cash and standard checkout, staffed advice, and clear prices | Explain recommendations, allergens, and commercial relationships; personalization can be disabled and must not enable profile-based price discrimination. |
 | S11 Innovation Resource Foyer | U03, U07, and communities; AI Origin Two Gates | Service directories, fixed opening hours, and human referrals | Assist matching with spaces, mentors, and professional services; make no outcome promise and route sensitive requests to people. |
 | S12 Public Wellbeing Ledger | All users; Three Commons and overall gateways | Periodic disclosure, printed reports, hearings, and complaint channels | Display only aggregate metrics, sources, and uncertainty; never reveal individual traces or hide trade-offs in a total score. |
@@ -172,7 +325,7 @@ The qualitative Demolish–Renovate–Retain Strategy identifies value and respo
 
 Accordingly, `floor_area_ratio`, `building_height_m`, `development_capacity_sqm`, and `statutory_building_density` all remain **unknown / null**. The proposal provides only qualitative urban-design guidance: prioritize public ground floors; treat railway and heritage interfaces cautiously; avoid oppressive massing on important view corridors; and preserve daylight and ventilation in shared courtyards. Values will be recalculated only when official red lines, cadastral records, existing-building surveys, and statutory plans become available. Rendered appearance will not be used to infer numbers.[depth:height_massing_character]
 
-![Conceptual land-use structure covering the provisional site boundary](assets/figures/land-use-structure.png)
+![Conceptual land-use structure covering the provisional site boundary](assets/figures/land-use-structure.en.png)
 
 *Figure 3 | Conceptual land-use structure; it provides neither statutory land-use decisions nor parcel-level conclusions.*
 
@@ -186,7 +339,7 @@ Continuous walking conditions, accessibility continuity, actual open routes, and
 
 Municipal and New Infrastructure is limited to service principles: edge-first processing, minimum data collection, tiered power supply, visible failure, human takeover, maintainable access, and removability. Underground works, integrated utilities, bridge and tunnel alignments, structural loads, equipment capacity, and investment remain **unknown** because professional base data and ownership information are absent. Conceptual geometry is not an engineering-feasibility conclusion.[depth:municipal_new_infrastructure] [data:geometry/constraints.geojson#CONSTRAINT-ENGINEERING-STITCH]
 
-![North-south walking spine, six east-west everyday-life stitches, and blue-green links](assets/figures/mobility-bluegreen.png)
+![North-south walking spine, six east-west everyday-life stitches, and blue-green links](assets/figures/mobility-bluegreen.en.png)
 
 *Figure 4 | The walking–blue-green network; conceptual connections are neither road red lines nor engineering alignments.*
 
@@ -239,7 +392,7 @@ The Four Ledgers turn metrics into continuing governance. The **Memory Ledger** 
 
 The compliance matrix connects each task to professional standards, data, and narrative locations. The design-depth matrix distinguishes overall urban-design content from conceptual recommendations. The standards matrix contains professional authorities, while the source registry contains factual provenance. Every evidence marker must exist in its corresponding registry, and source IDs and standard IDs remain separate.[standard:PROJECT-OFFICIAL-ANNOUNCEMENT] [depth:risk_missing_data]
 
-![Scope, blue-green, and public-space metrics with evidence confidence](assets/figures/metrics-evidence.png)
+![Scope, blue-green, and public-space metrics with evidence confidence](assets/figures/metrics-evidence.en.png)
 
 *Figure 5 | Core metrics and evidence boundaries; the diagram does not alter frozen values, confidence, or unknown / null status.*
 
@@ -263,4 +416,13 @@ Participant design and evidence sources include the *Jing-Zhang Borrowed Intelli
 
 Professional standards in the package’s standard matrix principally address urban-design administration, regulatory detailed planning, land-use classification for territorial surveys and plans, accessibility, governance of generative-AI services, and measures to help older people use intelligent technologies. Their citation identifies principles and later verification requirements; it does not claim that this conceptual proposal has completed statutory review.[standard:MOHURD-URBAN-DESIGN-MEASURES] [standard:MNR-LAND-USE-CLASSIFICATION-GUIDE] [standard:BARRIER-FREE-ENVIRONMENT-LAW]
 
-Kendall Square, one-north, Paris-Saclay, Toronto MaRS, London Knowledge Quarter, Pittsburgh Robotics Row, and Shenzhen innovation districts remain candidate indexes for later global-case verification. Because the Evidence Contract is frozen and no direct source for these cases is registered, this proposal cites no case-specific number, policy outcome, or spatial causality and does not use secondary impressions to support planning controls for Jing-Zhang. Any later evidence must first be registered, then state the transferable mechanism, the condition under which it does not apply, and the Jing-Zhang adaptation.[source:PARTICIPANT-ASSUMPTION-REGISTER]
+
+
+New case and regional sources were accessed on 2026-10-05. Links support traceability; prose is independently paraphrased and translated into design proposals, without copying website images, maps, trademarks or extensive text. Pages with no displayed publication date are recorded as undated.
+
+- MIT Innovation Initiative — Kendall Square / MIT, USA — https://innovation.mit.edu/assets/MIT-Innovation-Ecosystem-Map.pdf [source:CASE-MIT-KENDALL]
+- JTC Corporation — one-north / LaunchPad, Singapore — https://www.jtc.gov.sg/find-space/launchpad--onenorth [source:CASE-JTC-LAUNCHPAD]
+- EPA Paris-Saclay — Paris-Saclay, France — https://epa-paris-saclay.fr/letablissement-public-damenagement-de-paris-saclay/ [source:CASE-EPA-SACLAY]
+- MaRS Discovery District — Toronto MaRS, Canada — https://hubs.marsdd.com/ [source:CASE-MARS-HUBS]
+- Knowledge Quarter London — London Knowledge Quarter, UK — https://www.knowledgequarter.london/ [source:CASE-KQ-LONDON]
+- Carnegie Mellon University Robotics Institute — Pittsburgh / Hazelwood Green, USA — https://www.ri.cmu.edu/carnegie-mellon-richard-king-mellon-foundation-announce-historic-partnership-to-accelerate-cmus-science-and-technology-leadership-and-the-transformation-of-hazelwood-green-foundation-appro/ [source:CASE-CMU-HAZELWOOD]
