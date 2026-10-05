@@ -335,6 +335,37 @@
       "usage": "Locally bundled renamed glyph subset for bilingual reading and PDF export",
       "limitations": "Font is not a design-evidence source; Reserved Font Name Source is not used for modified family",
       "usable_for_formal": "asset_only"
+    },
+    {
+      "id": "OSM-REFERENCE-V12",
+      "title": "Public OSM reference snapshot and participant map derivation",
+      "publisher": "OpenStreetMap contributors / participant derivation",
+      "source_class": "open_public_reference",
+      "source_type": "open_geospatial_snapshot",
+      "url": "https://www.openstreetmap.org/copyright",
+      "published_at": "2026-08-11",
+      "snapshot_date": "2026-08-11",
+      "accessed_date": "2026-10-05",
+      "path": "visual/assets/design-object-register.json",
+      "coverage": "116.270–116.410 E, 39.920–40.055 N",
+      "license": "Open Database License (ODbL) 1.0",
+      "collection_method": "Overpass frozen snapshot; four dataless layers deterministically reconstructed from retained raw ways/relations; WGS84 projected to EPSG:4548, clipped for display only",
+      "transformations": "Building relation rings assembled, map-only 5m simplification at overall scale, no coordinate shifts; source and raw hashes retained",
+      "limitations": "Not a current survey, complete property inventory, official site boundary, accessibility audit or permission. Contributor reference maps are Produced Works under ODbL; source records available for verification.",
+      "usable_for_formal": "background_only_with_disclosure"
+    },
+    {
+      "id": "PARTICIPANT-DESIGN-V12",
+      "title": "Original V1.2 visual spatial design and generated-media register",
+      "publisher": "Jing-Zhang Borrowed Intelligence Design Team",
+      "source_class": "participant_generated",
+      "source_type": "participant_concept_design",
+      "path": "visual/assets/visual-design-register.json",
+      "accessed_date": "2026-10-05",
+      "license": "Participant-authored conceptual expression; submitted under repository contribution terms",
+      "collection_method": "Editable native SVG functions/labels plus built-in ImageGen, with prompts and original/output hashes",
+      "limitations": "Unscaled courts and anonymous renderings; no verified parcel, building survey, controls, construction consent or achieved outcomes. No peer images/marks reused.",
+      "usable_for_formal": "yes_as_disclosed_design_expression"
     }
   ]
 }

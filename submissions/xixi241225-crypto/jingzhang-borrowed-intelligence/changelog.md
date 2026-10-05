@@ -1,5 +1,16 @@
 # 方案迭代记录
 
+## v1.2 - 2026-10-05
+
+Post-deadline visual/spatial revision to PR #4198.
+
+- Added a frozen public reference atlas and three district-interface maps, preserving source coordinates and separating them from unchanged provisional intake geometry.
+- Corrected AI Origin scale: the two transit gateways are about 880 m apart in a straight line; the shared-court prototype is separate. Retained Dazhongsi dual-track disclosure and Issue #1029.
+- Added three original function/circulation prototypes, three court aerials, six priority human-eye scenes, one resource-foyer perspective and paired typical-spine day/evening intentions.
+- Added all twelve bilingual scene cards and original brand, seven-component and memory-narrative sheets, with editable labels, prompts, provenance and limitations.
+- Rebuilt 40-page bilingual A3 booklets, 8-board bilingual A0 sets and offline visual/report; kept all five required figures, original metrics and geometry.
+- No claim of acceptance, selection, partnership, building dimensions, statutory compliance or construction permission.
+
 ## v1.1 - 2026-10-05
 
 Post-deadline revision to PR #4198. Original spatial geometry and recomputable metrics remain unchanged.

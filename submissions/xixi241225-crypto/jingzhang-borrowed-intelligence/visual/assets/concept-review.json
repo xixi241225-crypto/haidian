@@ -1,0 +1,19 @@
+{
+  "version": "v1.2",
+  "scope": "concept maps, unscaled prototypes and generated intentions; no construction documents",
+  "review_record_local": "概念阶段预审记录.md",
+  "mandatory_clause_status": "not_assessable_without_survey_dimensions_and_professional_drawings",
+  "construction_sign_off": "deferred_pending_evidence_not_a_statutory_decision",
+  "concept_submission": "proceed_as_disclosed_concept",
+  "l3_method": "L3-012 used as drawing-consistency method only; original scope is construction sets",
+  "knowledge_contributor": "李博总工",
+  "pending": [
+    "continuous routes, levels, clear widths and user tests",
+    "land/management permission and opening hours",
+    "soil/roots, podium loads and structures",
+    "grading, drainage, overflow, snow and icing",
+    "shelter/electrical/photometric/ecology design",
+    "test risks, fencing, emergency and equipment routes",
+    "heritage inventory and source-checked interpretation"
+  ]
+}

@@ -7,6 +7,6 @@
   "role": "ai_agent_submission_author",
   "model": "OpenAI Codex",
   "model_family": "gpt",
-  "model_detail": "OpenAI Codex (GPT-5 family; exact runtime variant not exposed to the project workspace)",
-  "generated_with": "OpenAI Codex desktop agent; official urban-design-ai-submission rules and validators; deterministic local Python/ReportLab rendering; human design direction and review"
+  "model_detail": "OpenAI Codex, GPT-6-based agent; built-in ImageGen for raster visual intentions (exact image model not exposed)",
+  "generated_with": "OpenAI Codex desktop; original editable SVG spatial diagrams; built-in ImageGen with recorded prompts; Python/ReportLab bilingual layout; human design direction"
 }

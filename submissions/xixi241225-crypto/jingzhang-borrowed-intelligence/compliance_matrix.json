@@ -1650,5 +1650,20 @@
       "evidence_status": "complete_at_competition_design_depth",
       "evidence_limitations_zh": "完整性指任务覆盖与证据可追溯；不将 provisional、FIELD_VERIFY、MANAGEMENT_VERIFY 或缺失控制条件写成已验证事实。"
     }
-  ]
+  ],
+  "visual_design_v12": {
+    "status": "participant_concept",
+    "source_ids": [
+      "PARTICIPANT-DESIGN-V12",
+      "OSM-REFERENCE-V12"
+    ],
+    "evidence_files": [
+      "visual/assets/scenario-design.json",
+      "visual/assets/visual-design-register.json",
+      "drawings/a3-booklet.pdf",
+      "drawings/a0-boards.pdf"
+    ],
+    "geometry_metrics": "unchanged_v11",
+    "limits": "Unscaled prototypes; source maps do not prove permissions, levels or controls"
+  }
 }

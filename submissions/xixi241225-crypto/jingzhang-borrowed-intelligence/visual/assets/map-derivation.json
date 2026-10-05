@@ -1,0 +1,202 @@
+[
+  {
+    "stem": "site-context",
+    "bounds": [
+      116.292,
+      39.938,
+      116.379,
+      40.032
+    ],
+    "layer_counts": {
+      "major_campuses": 87,
+      "green_space": 926,
+      "osm_buildings": 10358,
+      "water": 239,
+      "secondary_roads": 1481,
+      "major_roads": 936,
+      "railway": 92
+    },
+    "source_snapshot": "2026-08-11",
+    "projection": "EPSG:4548"
+  },
+  {
+    "stem": "overall-structure",
+    "bounds": [
+      116.292,
+      39.938,
+      116.379,
+      40.032
+    ],
+    "layer_counts": {
+      "major_campuses": 87,
+      "green_space": 926,
+      "osm_buildings": 10358,
+      "water": 239,
+      "secondary_roads": 1481,
+      "major_roads": 936,
+      "railway": 92
+    },
+    "source_snapshot": "2026-08-11",
+    "projection": "EPSG:4548"
+  },
+  {
+    "stem": "zzy-context",
+    "bounds": [
+      116.304,
+      40.008,
+      116.338,
+      40.03
+    ],
+    "layer_counts": {
+      "major_campuses": 7,
+      "green_space": 80,
+      "osm_buildings": 604,
+      "water": 30,
+      "secondary_roads": 85,
+      "major_roads": 77,
+      "railway": 17
+    },
+    "source_snapshot": "2026-08-11",
+    "projection": "EPSG:4548"
+  },
+  {
+    "stem": "aio-context",
+    "bounds": [
+      116.317,
+      39.982,
+      116.342,
+      40.005
+    ],
+    "layer_counts": {
+      "major_campuses": 14,
+      "green_space": 130,
+      "osm_buildings": 1164,
+      "water": 17,
+      "secondary_roads": 135,
+      "major_roads": 11,
+      "railway": 12
+    },
+    "source_snapshot": "2026-08-11",
+    "projection": "EPSG:4548"
+  },
+  {
+    "stem": "dzs-context",
+    "bounds": [
+      116.327,
+      39.96,
+      116.348,
+      39.972
+    ],
+    "layer_counts": {
+      "major_campuses": 7,
+      "green_space": 3,
+      "osm_buildings": 234,
+      "water": 2,
+      "secondary_roads": 78,
+      "major_roads": 28,
+      "railway": 8
+    },
+    "source_snapshot": "2026-08-11",
+    "projection": "EPSG:4548"
+  },
+  {
+    "stem": "site-context",
+    "bounds": [
+      116.292,
+      39.938,
+      116.379,
+      40.032
+    ],
+    "layer_counts": {
+      "major_campuses": 87,
+      "green_space": 926,
+      "osm_buildings": 10358,
+      "water": 239,
+      "secondary_roads": 1481,
+      "major_roads": 936,
+      "railway": 92
+    },
+    "source_snapshot": "2026-08-11",
+    "projection": "EPSG:4548"
+  },
+  {
+    "stem": "overall-structure",
+    "bounds": [
+      116.292,
+      39.938,
+      116.379,
+      40.032
+    ],
+    "layer_counts": {
+      "major_campuses": 87,
+      "green_space": 926,
+      "osm_buildings": 10358,
+      "water": 239,
+      "secondary_roads": 1481,
+      "major_roads": 936,
+      "railway": 92
+    },
+    "source_snapshot": "2026-08-11",
+    "projection": "EPSG:4548"
+  },
+  {
+    "stem": "zzy-context",
+    "bounds": [
+      116.304,
+      40.008,
+      116.338,
+      40.03
+    ],
+    "layer_counts": {
+      "major_campuses": 7,
+      "green_space": 80,
+      "osm_buildings": 604,
+      "water": 30,
+      "secondary_roads": 85,
+      "major_roads": 77,
+      "railway": 17
+    },
+    "source_snapshot": "2026-08-11",
+    "projection": "EPSG:4548"
+  },
+  {
+    "stem": "aio-context",
+    "bounds": [
+      116.317,
+      39.982,
+      116.342,
+      40.005
+    ],
+    "layer_counts": {
+      "major_campuses": 14,
+      "green_space": 130,
+      "osm_buildings": 1164,
+      "water": 17,
+      "secondary_roads": 135,
+      "major_roads": 11,
+      "railway": 12
+    },
+    "source_snapshot": "2026-08-11",
+    "projection": "EPSG:4548"
+  },
+  {
+    "stem": "dzs-context",
+    "bounds": [
+      116.327,
+      39.96,
+      116.348,
+      39.972
+    ],
+    "layer_counts": {
+      "major_campuses": 7,
+      "green_space": 3,
+      "osm_buildings": 234,
+      "water": 2,
+      "secondary_roads": 78,
+      "major_roads": 28,
+      "railway": 8
+    },
+    "source_snapshot": "2026-08-11",
+    "projection": "EPSG:4548"
+  }
+]

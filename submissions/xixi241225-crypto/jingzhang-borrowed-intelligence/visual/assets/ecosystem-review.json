@@ -45,8 +45,8 @@
         }
       ],
       "transfer": {
-        "zh": "在 AI 原点两门设置统一资源门厅，将高校服务、专业咨询和预约设施做成可问询的目录；建议各资源提供者自行维护权限和时段。",
-        "en": "Use AI Origin’s two gates as a single resource foyer, with staffed directories of university services, advice and bookable facilities; providers would maintain access rules and hours."
+        "zh": "在 AI 原点两个片区门户分别设置人工资源接口，使用同一份高校服务、专业咨询和预约设施目录；建议各资源提供者维护权限和时段。",
+        "en": "Provide staffed resource interfaces at both AI Origin district gateways, using a shared directory of university services, advice and bookable facilities; providers would maintain access rules and hours."
       },
       "limit": {
         "zh": "不复制机构密度、资本结构或校外设施的开放权；目录存在不等于资源已经向京张开放。",
@@ -666,5 +666,6 @@
       },
       "evidence_status": "participant_proposal_not_confirmed_supply"
     }
-  ]
+  ],
+  "v12_interface_note": "Two separate district gateways share a directory; no compressed single courtyard."
 }

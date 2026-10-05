@@ -225,6 +225,27 @@
       "source_ids": [
         "PARTICIPANT-DESIGN-V03"
       ]
+    },
+    {
+      "id": "A-V12-UNSCALED-VISUAL",
+      "assumption_id": "A-V12-UNSCALED-VISUAL",
+      "status": "active_design_model",
+      "current_status": "active_design_model",
+      "statement": "AI 生成概念意向；无比例，不是现状复原或实施批准。图中文字为独立可编辑层。",
+      "statement_zh": "AI 生成概念意向；无比例，不是现状复原或实施批准。图中文字为独立可编辑层。",
+      "statement_en": "AI-generated concept; unscaled, not an existing-condition reconstruction or implementation approval. Labels are separate editable text.",
+      "reason": "No selected parcel, measured site heights or verified management conditions",
+      "impact_scope": [
+        "v12_visuals",
+        "prototype_functions",
+        "material_details"
+      ],
+      "verification_method": "Compare public source geometry, native functional prototype and each rendering; survey routes, levels, access and management before further engineering",
+      "recompute_or_update_trigger": "Official geometry, survey, ownership, heritage or management inputs change",
+      "source_ids": [
+        "PARTICIPANT-DESIGN-V12",
+        "OSM-REFERENCE-V12"
+      ]
     }
   ]
 }

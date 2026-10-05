@@ -1,0 +1,429 @@
+{
+  "version": "V1.2",
+  "date": "2026-10-05",
+  "sources": [
+    {
+      "path": "02_设计工作区/京张借景带_V1.2_视觉补强/data/spatial-cache/osm_buildings.geojson",
+      "sha256": "fb2e80c35953172da3f7bde353cf43649703678ee61b76e6a1b7dc025bd51d98",
+      "license": "ODbL (OSM layers) / participant research (working boundaries)",
+      "snapshot_date": "2026-08-11",
+      "role": "public_reference_or_explicit_working_inference"
+    },
+    {
+      "path": "02_设计师工作包/_spatial_base_v2/major_roads.geojson",
+      "sha256": "ab5ca4a76db03f791b0d931c502978183b55262eeec80c812a03d62bf3f7ae69",
+      "license": "ODbL (OSM layers) / participant research (working boundaries)",
+      "snapshot_date": "2026-08-11",
+      "role": "public_reference_or_explicit_working_inference"
+    },
+    {
+      "path": "02_设计工作区/京张借景带_V1.2_视觉补强/data/spatial-cache/secondary_roads.geojson",
+      "sha256": "9f489018ec403c28ac14aafc766ec02d7eee6aa0cc0a4369d879a7248db189b7",
+      "license": "ODbL (OSM layers) / participant research (working boundaries)",
+      "snapshot_date": "2026-08-11",
+      "role": "public_reference_or_explicit_working_inference"
+    },
+    {
+      "path": "02_设计师工作包/_spatial_base_v2/water.geojson",
+      "sha256": "10d42dd01f42dadf572b7f475e5b6030b349687af945024be87b8d29dfce7e70",
+      "license": "ODbL (OSM layers) / participant research (working boundaries)",
+      "snapshot_date": "2026-08-11",
+      "role": "public_reference_or_explicit_working_inference"
+    },
+    {
+      "path": "02_设计工作区/京张借景带_V1.2_视觉补强/data/spatial-cache/green_space.geojson",
+      "sha256": "fe8db0ac2613dc88ab51689aac1737d7e75bd5bf7540bd5a335d0224f201d0d2",
+      "license": "ODbL (OSM layers) / participant research (working boundaries)",
+      "snapshot_date": "2026-08-11",
+      "role": "public_reference_or_explicit_working_inference"
+    },
+    {
+      "path": "02_设计师工作包/_spatial_base_v2/railway.geojson",
+      "sha256": "b8d67f6a6a11f1ea4c7c32f7d46eb9d59bcfb5edac7e5408ab3036d11f101578",
+      "license": "ODbL (OSM layers) / participant research (working boundaries)",
+      "snapshot_date": "2026-08-11",
+      "role": "public_reference_or_explicit_working_inference"
+    },
+    {
+      "path": "02_设计师工作包/_spatial_base_v2/major_campuses.geojson",
+      "sha256": "6c701ff7ebda112f789424813deaf772131373ec67d2f72ca1623ce8f4879cce",
+      "license": "ODbL (OSM layers) / participant research (working boundaries)",
+      "snapshot_date": "2026-08-11",
+      "role": "public_reference_or_explicit_working_inference"
+    },
+    {
+      "path": "02_设计工作区/京张借景带_V1.2_视觉补强/data/spatial-cache/metro_stations.geojson",
+      "sha256": "87f7b713aab15161c4750a1c1c9a342e3d42a852c1219db10307c022cc36680e",
+      "license": "ODbL (OSM layers) / participant research (working boundaries)",
+      "snapshot_date": "2026-08-11",
+      "role": "public_reference_or_explicit_working_inference"
+    },
+    {
+      "path": "02_设计师工作包/_spatial_base_v2/important_landmarks.geojson",
+      "sha256": "69760ac82d78da164587d810670f334e07be4cf4e8ff7f96881534737bd7c172",
+      "license": "ODbL (OSM layers) / participant research (working boundaries)",
+      "snapshot_date": "2026-08-11",
+      "role": "public_reference_or_explicit_working_inference"
+    },
+    {
+      "path": "02_设计师工作包/_spatial_base_v2/anchor_points_v2.geojson",
+      "sha256": "3cd8aad89bef9d873f254a699524c2d9a5f35825d4be0587d369e461a06e6360",
+      "license": "ODbL (OSM layers) / participant research (working boundaries)",
+      "snapshot_date": "2026-08-11",
+      "role": "public_reference_or_explicit_working_inference"
+    },
+    {
+      "path": "02_设计师工作包/_spatial_base_v2/working_provisional_boundaries_v2.geojson",
+      "sha256": "4fc9c0ca224e19f6cf283c26f1e272b88c6340042b100a8ca418ed1bb18fe473",
+      "license": "ODbL (OSM layers) / participant research (working boundaries)",
+      "snapshot_date": "2026-08-11",
+      "role": "public_reference_or_explicit_working_inference"
+    }
+  ],
+  "objects": [
+    {
+      "id": "A01",
+      "name": "大钟寺站（13号线）",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3390137,
+          39.9652731
+        ]
+      },
+      "status": "public_reference",
+      "source": "OSM node 6617852356"
+    },
+    {
+      "id": "A02",
+      "name": "大钟寺站（12号线）",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3378309,
+          39.9661057
+        ]
+      },
+      "status": "public_reference",
+      "source": "OSM node 12435287603"
+    },
+    {
+      "id": "A03",
+      "name": "五道口站",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3317017,
+          39.9914779
+        ]
+      },
+      "status": "public_reference",
+      "source": "OSM node 5442237543"
+    },
+    {
+      "id": "A04",
+      "name": "清华东路西口站",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3336262,
+          39.9993038
+        ]
+      },
+      "status": "public_reference",
+      "source": "OSM node 3379245690"
+    },
+    {
+      "id": "A05",
+      "name": "知春路站",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3343902,
+          39.9750927
+        ]
+      },
+      "status": "public_reference",
+      "source": "OSM node 5430403863"
+    },
+    {
+      "id": "A06",
+      "name": "北京北站",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3488766,
+          39.9404832
+        ]
+      },
+      "status": "public_reference",
+      "source": "OSM node 1419861968"
+    },
+    {
+      "id": "A07",
+      "name": "北三环×京张/京包走廊",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.339007903062,
+          39.966301321325304
+        ]
+      },
+      "status": "public_reference",
+      "source": "OSM named line nearest-point"
+    },
+    {
+      "id": "A08",
+      "name": "北四环×京张/京包走廊",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.33239512345654,
+          39.984699258610185
+        ]
+      },
+      "status": "public_reference",
+      "source": "OSM named line nearest-point"
+    },
+    {
+      "id": "A09",
+      "name": "北五环×京张/京包走廊",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.31948954391983,
+          40.01859473830614
+        ]
+      },
+      "status": "public_reference",
+      "source": "OSM named line nearest-point"
+    },
+    {
+      "id": "A10",
+      "name": "北部水系×京张近邻锚点",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3197984817356,
+          40.01962529140312
+        ]
+      },
+      "status": "public_reference",
+      "source": "OSM named water nearest-point"
+    },
+    {
+      "id": "GATE-N",
+      "name": "北生活门",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3336262,
+          39.9993038
+        ]
+      },
+      "status": "participant_proposal",
+      "limitations": "Station position is a public anchor; exact public interface, accessible route and facilities require field and operator verification."
+    },
+    {
+      "id": "GATE-S",
+      "name": "南生活门",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3317017,
+          39.9914779
+        ]
+      },
+      "status": "participant_proposal",
+      "limitations": "Station position is a public anchor; exact route to the Jing-Zhang corridor requires field verification."
+    },
+    {
+      "id": "MEMORY-SEAM",
+      "name": "清华园记忆缝",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.325613,
+            39.990219
+          ],
+          [
+            116.3282,
+            39.9909
+          ],
+          [
+            116.3317017,
+            39.9914779
+          ],
+          [
+            116.332,
+            39.9948
+          ],
+          [
+            116.3328,
+            39.9972
+          ],
+          [
+            116.3336262,
+            39.9993038
+          ]
+        ]
+      },
+      "status": "participant_proposal",
+      "limitations": "Relationship corridor only. Heritage boundary, public access, exact path and works require heritage and site verification."
+    },
+    {
+      "id": "COURT-RESOURCE",
+      "name": "创新资源院",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3302,
+          39.9974
+        ]
+      },
+      "status": "participant_proposal",
+      "limitations": "Candidate relationship point; no specific building or ownership is selected."
+    },
+    {
+      "id": "COURT-DELIBERATION",
+      "name": "社区共议院",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3292,
+          39.9946
+        ]
+      },
+      "status": "participant_proposal",
+      "limitations": "Candidate relationship point; public accessibility and operator are unverified."
+    },
+    {
+      "id": "COURT-QUIET",
+      "name": "安静恢复院",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.331,
+          39.9869
+        ]
+      },
+      "status": "participant_proposal",
+      "limitations": "Soundscape, shade, safety and maintenance require field audit."
+    },
+    {
+      "id": "NIGHT-SUPPORT",
+      "name": "夜间支持点",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3304,
+          39.992
+        ]
+      },
+      "status": "participant_proposal",
+      "limitations": "Exact point must follow 22:00+ observation, resident impact, safety and operator verification."
+    },
+    {
+      "id": "I1-PUBLIC-SPINE",
+      "name": "I1日常开放骨架候选",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.3317017,
+            39.9914779
+          ],
+          [
+            116.3321,
+            39.9945
+          ],
+          [
+            116.3328,
+            39.9971
+          ],
+          [
+            116.3336262,
+            39.9993038
+          ]
+        ]
+      },
+      "status": "participant_proposal",
+      "limitations": "Only public-anchor relationships are shown; 24-hour access is not assumed."
+    },
+    {
+      "id": "I2-WEST-EDGE",
+      "name": "I2时段共享界面候选",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.32795,
+            39.9915
+          ],
+          [
+            116.32785,
+            39.9945
+          ],
+          [
+            116.32775,
+            39.9975
+          ],
+          [
+            116.3278,
+            40.0003
+          ]
+        ]
+      },
+      "status": "participant_proposal",
+      "limitations": "No campus, compound or private space is assumed open. A written operating agreement is required."
+    },
+    {
+      "id": "I3-RESOURCE-CHAIN",
+      "name": "I3预约资源接口候选",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.3292,
+            39.9932
+          ],
+          [
+            116.3302,
+            39.9974
+          ],
+          [
+            116.3312,
+            39.9991
+          ]
+        ]
+      },
+      "status": "participant_proposal",
+      "limitations": "Resource addresses, access rules, capacity and responsible operators require confirmation."
+    },
+    {
+      "id": "I4-PROTECTED-CONTEXT",
+      "name": "I4保护/安全控制界面提醒",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            116.326,
+            39.99
+          ],
+          [
+            116.3272,
+            39.9915
+          ],
+          [
+            116.3278,
+            39.993
+          ]
+        ]
+      },
+      "status": "participant_proposal",
+      "limitations": "Schematic reminder only; not a heritage, campus or security control boundary."
+    }
+  ],
+  "principle": "Spatial ground remains in source coordinates; no visual shift, snapping to imagery, or claim of official boundaries. Prototype drawings are independent unscaled design studies."
+}

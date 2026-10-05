@@ -1,0 +1,16 @@
+{
+  "version": "v1.2",
+  "checked_at": "2026-10-05T23:39:21+08:00",
+  "pdf_pages": {
+    "a3_zh": 40,
+    "a3_en": 40,
+    "a0_zh": 8,
+    "a0_en": 8
+  },
+  "visual_review": "All 96 pages rendered and inspected; changed pages re-rendered after final correction",
+  "web": "Four bilingual visual/report pages: local font loaded, all images decoded, zero remote requests and page errors, no desktop/mobile horizontal overflow; scene filters and keyboard interaction passed",
+  "spatial_consistency": "Three functional prototypes control primary adjacencies; two district gateways separated from shared-court prototype; public/test and service routes separated",
+  "geometry_metrics": "Nine geometry files and metrics.json byte-identical to V1.1",
+  "engineering_status": "Unscaled concept; routes, dimensions, heritage, management, drainage, structure and lighting require professional verification",
+  "official_checks": "See persisted self_check.json; contributor validation is not maintainer acceptance"
+}

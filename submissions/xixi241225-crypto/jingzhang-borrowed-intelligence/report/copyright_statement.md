@@ -111,3 +111,12 @@ DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.
 
+
+
+## V1.2 original visual design and media
+
+Twelve new raster intentions were created using the built-in OpenAI ImageGen tool, controlled by participant-authored spatial prototypes and our own earlier reference images. Full prompts, original and packaged hashes, review status and limitations are recorded in visual/assets/visual-design-register.json. Exact image-model variant was not exposed. No photographs, drawings, logos or scene assets from peer submissions were reused. Generated scenes and interpretation-board markings are not archival evidence or actual site photographs.
+
+Public reference maps credit © OpenStreetMap contributors, 2026-08-11 snapshot, under ODbL 1.0 (https://www.openstreetmap.org/copyright). They are Produced Works derived from frozen public data, not statutory controls. Raw inputs and derived-layer hashes, coverage and transformations are retained locally and registered in visual/assets/design-object-register.json. Original snapshot data retains ODbL terms. No property rights or complete survey are inferred.
+
+The renamed Jingzhang Reading subset retains the full SIL OFL 1.1 notice embedded in visual/assets/reading-font.css and this statement. Native SVG labels are editable. Safe package SVG sources reference local assets; complete self-contained authoring SVGs and fonts are retained in the separate local source archive. Compact WebP/palette-PNG delivery encodings alter no design content.

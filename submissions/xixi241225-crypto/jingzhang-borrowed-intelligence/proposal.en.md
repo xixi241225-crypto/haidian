@@ -12,7 +12,7 @@ license: "COMMUNITY-DISPLAY-ONLY"
 summary: "The proposal uses the lived memory of the century-old Jing-Zhang Railway to calibrate urban intelligence and everyday wellbeing to test renewal outcomes. One Spine, Two Wings, and Three Commons organize space; Four Ledgers govern public value; Twelve Scenarios pair a non-AI baseline with accountable AI augmentation; and phased delivery, verification, human responsibility, and exit mechanisms bound implementation risk."
 tracks: ["ai-traffic-walkability", "enterprise-services-ecosystem", "civic-agent-governance"]
 scenarios: ["ai-traffic-walkability", "enterprise-service-copilot", "public-safety-operations-review"]
-iteration: "v1.1"
+iteration: "v1.2"
 ---
 
 # BORROWED INTELLIGENCE
@@ -34,7 +34,7 @@ The century-old Jing-Zhang Railway has left genuine memories of engineering, urb
 
 Here, “borrowing” is not an imitation of historic form. It is an urban-design method: identify real objects, disclose the burdens created by infrastructure, build relationships across boundaries, secure everyday public services, and then use auditable indicators to recalibrate results over time. The method becomes a spatial organization of One Spine, Two Wings, and Three Commons; a governance framework of Four Ledgers; and a service layer of Twelve Scenarios.
 
-Revision V1.1, 5 October 2026. This package responds to the original submission review and is submitted after the deadline; acceptance and further review remain maintainer decisions.
+Revision V1.2, 5 October 2026. This package responds to the original submission review and is submitted after the deadline; acceptance and further review remain maintainer decisions.
 
 ## Design Basis and Source List
 
@@ -80,7 +80,7 @@ MIT’s resource map lists campus mentoring, licensing and entrepreneurship reso
 | Failure and exit | Failure and exit: exit agreements are not documented here. |
 
 
-Jing-Zhang proposal: Use AI Origin’s two gates as a single resource foyer, with staffed directories of university services, advice and bookable facilities; providers would maintain access rules and hours.
+Jing-Zhang proposal: Provide staffed resource interfaces at both AI Origin district gateways, using a shared directory of university services, advice and bookable facilities; providers would maintain access rules and hours.
 
 Non-transferable conditions: Do not copy institutional density, financing or access rights; a directory does not establish resource availability in Jing-Zhang.
 
@@ -408,6 +408,186 @@ Planning and engineering limits are equally explicit. The proposal does not prov
 
 The participant submits the text, structured data, and original design expression within the declared license. Rights in official materials, standards, base-map clues, and third-party sources remain with their respective owners. Future images, fonts, photographs, archives, maps, and generated content must be registered with their provenance and license; unverified assets do not enter formal display. Factual citations in this proposal are governed by `sources.json`, professional authorities by `standard_matrix.json`, and the copyright commitment by the package copyright statement.[source:BACKGROUND-LATEST-RULES-VALIDATOR-20260828]
 
+## V1.2 spatial design and visual deliverables
+
+This revision links the belt structure, Three Commons and Twelve Scenarios in one traceable visual system. Public site references, unscaled functional prototypes and AI-generated intentions are separate. District maps retain public coordinates; court prototypes imply no selected parcel, while generated images supply no heights, dimensions, engineering or ownership facts. V1.1 geometry and metrics remain frozen. [source:PARTICIPANT-DESIGN-V12] [source:OSM-REFERENCE-V12]
+
+![Public reference ground](assets/figures/site-context.en.png)
+
+![Overall structure and interfaces to verify](assets/figures/overall-structure.en.png)
+
+AI Origin’s two gateways are Wudaokou and Qinghua Donglu Xikou transit arrivals. Public anchors are about 880 m apart in a straight line in EPSG:4548, which is neither a walking distance nor an access promise. The district seam and court route are developed separately. Dazhongsi research uses actual public station and cultural references; PROV-KEY-003 retains its original intake role pending clarification of Issue #1029. [source:OSM-REFERENCE-V12] [source:BACKGROUND-GITHUB-ISSUE-1029]
+
+### Zhongzhiyuan: public observation outside test courts
+
+![Site interfaces: public references and candidates](assets/figures/zzy-context.en.png)
+
+![Unscaled function and circulation prototype](assets/figures/zzy-prototype.en.png)
+
+![AI-generated court aerial intention](assets/media/zzy-aerial.webp)
+
+AI-generated concept; unscaled, not an existing-condition reconstruction or implementation approval. Labels are separate editable text.
+
+### AI Origin: continuous everyday route and four interfaces
+
+![Site interfaces: public references and candidates](assets/figures/aio-context.en.png)
+
+![Unscaled function and circulation prototype](assets/figures/aio-prototype.en.png)
+
+![AI-generated court aerial intention](assets/media/aio-aerial.webp)
+
+AI-generated concept; unscaled, not an existing-condition reconstruction or implementation approval. Labels are separate editable text.
+
+### Dazhongsi: four-quadrant relationships and free resting
+
+![Site interfaces: public references and candidates](assets/figures/dzs-context.en.png)
+
+![Unscaled function and circulation prototype](assets/figures/dzs-prototype.en.png)
+
+![AI-generated court aerial intention](assets/media/dzs-aerial.webp)
+
+AI-generated concept; unscaled, not an existing-condition reconstruction or implementation approval. Labels are separate editable text.
+
+### Day/evening experience of a typical spine segment
+
+Paired views use the same camera to show a continuous route, ground-floor services and court branches. They depict a typical segment, not a belt-wide aerial, survey plan, water intervention or photometric simulation. Evening use retains public passage and staffed help with the test court inactive; lighting, ecological impacts and hours require separate review.
+
+![Day intention](assets/media/spine-day.webp)
+
+![Evening intention](assets/media/spine-night.webp)
+
+### Twelve Scenario spatial and human-responsibility cards
+
+#### S01 Century Memory Lens
+
+Help visitors understand memory and its sources / Interpretation station, paper maps, human guide and resting. Heritage interpreter checks facts; remove incorrect generated content
+
+Low-tech baseline: Authentic remains, a timeline, printed maps, and human interpretation
+
+AI enhancement: Multilingual, accessible, and personalized interpretation; sources stay visible and generated content cannot replace historical review.
+
+![S01 Century Memory Lens](assets/media/scene-01.webp)
+
+#### S02 Quiet Borrowed-View Path
+
+Find a quiet alternative to the commuter route / Parallel detour, shaded seats and a clear rejoining point. Operator checks noise and route; show unverified states explicitly
+
+Low-tech baseline: Continuous signs, a quiet alternative route, seating, and shade
+
+AI enhancement: Suggest routes by noise, crowding, and sensory preference; users can disable location and use a fixed map.
+
+![S02 Quiet Borrowed-View Path](assets/figures/scene-02.en.png)
+
+#### S03 Four-Season Comfort Route
+
+Rest in summer shade and winter shelter / Shade, wind shelter, seasonal water and off-route rest. Manager confirms weather and maintenance; faults revert to signs and inspection
+
+Low-tech baseline: Shade, rain cover, drinking water, rest points, and seasonal maintenance
+
+AI enhancement: Suggest comfortable routes using microclimate information; fixed signs and human inspection take over when equipment fails.
+
+![S03 Four-Season Comfort Route](assets/media/scene-03.webp)
+
+#### S04 Accessible Together
+
+Travel continuously from arrival to service / Flush threshold, continuous guidance and off-route rest. Professionals and users verify access; no accessibility promise before checking
+
+Low-tech baseline: Ramps, tactile and high-contrast information, continuous rest, and human assistance
+
+AI enhancement: Help detect obstacles and suggest accessible routes; prediction must not be presented as verified accessibility.
+
+![S04 Accessible Together](assets/media/scene-04.webp)
+
+#### S05 Time-Equity Navigation
+
+Compare speed, reliability and care burden / Physical map, staffed help and multiple route choices. Transport operator checks timetables/routes; stale data leaves recommendations
+
+Low-tech baseline: Standard maps, service times, staffed information, and route options
+
+AI enhancement: Show walking, waiting, detour, and care costs; users may choose fastest, most reliable, or least-transfer routes.
+
+![S05 Time-Equity Navigation](assets/figures/scene-05.en.png)
+
+#### S06 Public-Space Steward
+
+Know who handles a reported fault / Inspection, paper job cards, hotline and notice point. Manager confirms and assigns jobs; publish aggregate status, not identities
+
+Low-tech baseline: Inspection sheets, cleaning and repair requests, notices, and a staffed hotline
+
+AI enhancement: Aggregate facility status and work orders, with human confirmation of exceptions; no default facial recognition.
+
+![S06 Public-Space Steward](assets/figures/scene-06.en.png)
+
+#### S07 Blue-Green Urban Twin
+
+Observe landscape change and model limits / Gauge, plant notes, observation point and safety edge. Professional caretaker verifies alerts; model does not replace flood/engineering decisions
+
+Low-tech baseline: Rain gauges, planting information, human monitoring, and evacuation rules
+
+AI enhancement: Assist observation of ponding, heat, and plant condition; models support maintenance judgement but do not replace engineering conclusions.
+
+![S07 Blue-Green Urban Twin](assets/figures/scene-07.en.png)
+
+#### S08 Community Deliberation Agent
+
+Bring different views onto one shared map / Round table, paper map, minutes board and indoor fallback. Human facilitation and records; participants correct, AI never replaces voting
+
+Low-tech baseline: In-person meetings, paper comments, human facilitation, and public minutes
+
+AI enhancement: Assist synthesis without replacing voting; provide correction, appeal, deletion, and version records.
+
+![S08 Community Deliberation Agent](assets/media/scene-08.webp)
+
+#### S09 Open Validation Booking
+
+Understand testing rules before applying / Enclosure, observation path, paper application and staffed post. Test lead controls admission and stopping; separate public route from test trajectories
+
+Low-tech baseline: On-site notices, paper applications, and human safety briefings
+
+AI enhancement: Match time and capability and disclose risk and results; refusal of data does not affect offline application.
+
+![S09 Open Validation Booking](assets/media/scene-09.webp)
+
+#### S10 Slow-Intelligence Retail Assistant
+
+Obtain explanations or use ordinary checkout / Paper menu, staffed counter, optional terminal and free seating. Merchant checks prices/allergens; recommendations can be disabled
+
+Low-tech baseline: Ordinary menus, cash and standard checkout, staffed advice, and clear prices
+
+AI enhancement: Explain recommendations, allergens, and commercial relationships; personalization can be disabled and must not enable profile-based price discrimination.
+
+![S10 Slow-Intelligence Retail Assistant](assets/media/scene-10.webp)
+
+#### S11 Innovation Resource Foyer
+
+Bring a question to negotiable resources / Physical directory, low counter, human referral and waiting seats. Providers maintain hours/permissions; no guaranteed match or outcome
+
+Low-tech baseline: Service directories, fixed opening hours, and human referrals
+
+AI enhancement: Assist matching with spaces, mentors, and professional services; make no outcome promise and route sensitive requests to people.
+
+![S11 Innovation Resource Foyer](assets/media/resource-foyer.webp)
+
+#### S12 Public Wellbeing Ledger
+
+See improvements, burdens and uncertainty / Paper notices, four parallel ledgers, appeals and versions. Operator and independent reviewer verify data; aggregate results only
+
+Low-tech baseline: Periodic disclosure, printed reports, hearings, and complaint channels
+
+AI enhancement: Display only aggregate metrics, sources, and uncertainty; never reveal individual traces or hide trade-offs in a total score.
+
+![S12 Public Wellbeing Ledger](assets/figures/scene-12.en.png)
+
+### Brand, components and memory narrative
+
+![Original identity and wayfinding](assets/figures/brand-system.en.png)
+
+![Seven public-space components](assets/figures/component-system.en.png)
+
+![Source-verifiable cultural interpretation](assets/figures/memory-narrative.en.png)
+
+Fine metal lines in renderings express memory continuity; implementation still prefers contrasting paving, with metal slip resistance, thermal contact and placement to verify. The winter view shows shelter, sunny rest and inspection, not snow-melt, slip or drainage performance. Generated railway objects are not relic evidence and paper boards are not archives. All commons retain ordinary services, removable components and human responsibilities. [source:PARTICIPANT-DESIGN-V12]
+
 ## References
 
 Direct task sources include the *Prequalification Announcement for the Centennial Jing-Zhang AI Innovation Belt Open Call for Urban Design*, the official Agent Open Call Taskbook, the official provisional-boundaries statement, and the rules and validator current on 2026-08-28. They support, respectively, the task scope, six Agent tasks, machine-validation geometry, and submission contract; none substitutes for another.[source:DATA-SRC-OFFICIAL-ANNOUNCEMENT-20260509] [source:DATA-SRC-AGENT-TASKBOOK-20260518] [source:DATA-SRC-PROVISIONAL-BOUNDARIES-20260605]
@@ -426,3 +606,6 @@ New case and regional sources were accessed on 2026-10-05. Links support traceab
 - MaRS Discovery District — Toronto MaRS, Canada — https://hubs.marsdd.com/ [source:CASE-MARS-HUBS]
 - Knowledge Quarter London — London Knowledge Quarter, UK — https://www.knowledgequarter.london/ [source:CASE-KQ-LONDON]
 - Carnegie Mellon University Robotics Institute — Pittsburgh / Hazelwood Green, USA — https://www.ri.cmu.edu/carnegie-mellon-richard-king-mellon-foundation-announce-historic-partnership-to-accelerate-cmus-science-and-technology-leadership-and-the-transformation-of-hazelwood-green-foundation-appro/ [source:CASE-CMU-HAZELWOOD]
+
+
+V1.2 generation and mapping records: visual/assets/visual-design-register.json, map-derivation.json and design-object-register.json. Original OSM snapshots and complete editable SVG sources are retained in the local design-source archive.

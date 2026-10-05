@@ -1,0 +1,698 @@
+{
+  "version": "v1.2",
+  "design_status": "participant_concept",
+  "renderings": [
+    {
+      "id": "aio-aerial",
+      "prompt_record": "embedded in this register",
+      "source_file": "assets/media/aio-aerial.webp",
+      "language": "neutral",
+      "note": {
+        "zh": "AI 生成概念意向；无比例，不是现状复原或实施批准。图中文字为独立可编辑层。",
+        "en": "AI-generated concept; unscaled, not an existing-condition reconstruction or implementation approval. Labels are separate editable text."
+      },
+      "packaged_sha256": "097686766c3eaef7d3898f5250db142d52eb3e7d156fa6898ebcd2b34787063a",
+      "original_png_sha256": "1acf71a852aafaf46aa2f45338b20300de4d3291123032335bb939be781d2762",
+      "prompt": "Create one exceptional photoreal architectural landscape-design concept render, landscape 16:9. This is an original SMALL SHARED-COURTYARD PROTOTYPE for Beijing Jing-Zhang Borrowed Intelligence, not a reconstruction of an existing place. Use reference 1 as the layout control, specifically the left diagram only: a continuous broad flush stone public lane diagonally from foreground bottom-left to rear upper-right; a staffed resource foyer at foreground left opening directly onto that lane; a secluded planted quiet court left-middle; shared learning/workshop low-rise rooms along upper-left edge; a deliberation room upper-middle with a round-table discussion court immediately in front of it on left of the lane; a booked collaboration room at upper-right; controlled research block on lower-right separated from the public lane by planting and a subtle legible threshold; its service yard at bottom-right with an independent rear service entry. Maintain these adjacencies and keep the public route fully unobstructed. Use reference 2 only for our own design's warm reclaimed-brick, grey stone, restrained timber/glass, mature north-China tree canopy, and humane autumn light, do not copy its footer or exact camera. Camera high oblique from south-west looking over the whole modest courtyard; show all primary layout elements clearly, 1–3 storey anonymous buildings, quiet contemporary adaptation vocabulary without monuments or futuristic megastructures. Approx 20 diverse people naturally using facilities, older residents and one wheelchair user on the continuous route, no crowds. Realistic people and dimensions; benches outside clear through-route, an entirely flush foyer doorway. A visually separate gated service access at bottom-right, no vehicles in public court. Crisp detailed material rendering, architectural competition quality, tranquil civic daily life and research coexistence. No writing, no letters, no captions, no labels, no logos, no watermark; editable bilingual annotation will be added separately. The render is unscaled and makes no assertion about exact site ownership or building heights.",
+      "generated_by": "OpenAI built-in ImageGen; exact image model not exposed",
+      "human_review": "Inspected for primary adjacencies, circulation and body/fixture scale. Image details remain conceptual, not measured or surveyed."
+    },
+    {
+      "id": "dzs-aerial",
+      "prompt_record": "embedded in this register",
+      "source_file": "assets/media/dzs-aerial.webp",
+      "language": "neutral",
+      "note": {
+        "zh": "AI 生成概念意向；无比例，不是现状复原或实施批准。图中文字为独立可编辑层。",
+        "en": "AI-generated concept; unscaled, not an existing-condition reconstruction or implementation approval. Labels are separate editable text."
+      },
+      "packaged_sha256": "2f554279a0abe2b9ecbd5852bb2b3b117be57cbbfc7f939d16b0d4931aa41861",
+      "original_png_sha256": "05334d551f84a90f5d4645348e3f1033e110d97032b53e09655d64f75632d8d0",
+      "prompt": "One original photoreal architecture and urban public-space concept aerial, wide 16:9, of Dazhongsi Slow Intelligence Metropolitan Commons, Beijing. Reference 1 LEFT DIAGRAM ONLY controls the unscaled adjacency: a simple four-quadrant district PUBLIC-SPACE PROTOTYPE, two intersecting generous ground-level pedestrian lanes form a cross; upper-left quadrant has ordinary public service rooms, upper-right a small cultural-content and dialogue hall with a free planted seating court in front; lower-left a generous planted cultural-pause garden and a modest circular slow civic plaza with a paper public-ledger board; lower-right has transparent everyday shops with human staffed counters and ordinary retail access. Foreground bottom connects to an anonymous city arrival sidewalk, no invented metro infrastructure. Use our reference 2 palette of modest warm brick, grey stone, clear glazing and mature Beijing deciduous trees, but this place is more URBAN with mixed existing 3–6 storey blocks in background and active transparent ground floors. Camera high oblique southwest; entire cross-lane and four functions visible. A few people pause on free benches and read a paper board, ordinary shoppers and elders, one wheelchair user on flush path. Keep clear lanes continuous, table/chairs/planters off through-route. Contemporary removable interpretation panels suggest the railway-memory theme through two fine inset parallel lines in paving, NOT copied temple architecture; no heritage demolition, giant bell monument, skybridge or rail deck. Quiet civic retail and culture at realistic human scale, vivid fine-grain autumn landscaping, crisp material detail, daylight architectural competition quality. No text, letters, readable shop names, logos, captions or watermark. Unscaled spatial proposal, no assertion of an actual parcel, approved crossing or building height.",
+      "generated_by": "OpenAI built-in ImageGen; exact image model not exposed",
+      "human_review": "Inspected for primary adjacencies, circulation and body/fixture scale. Image details remain conceptual, not measured or surveyed."
+    },
+    {
+      "id": "resource-foyer",
+      "prompt_record": "embedded in this register",
+      "source_file": "assets/media/resource-foyer.webp",
+      "language": "neutral",
+      "note": {
+        "zh": "AI 生成概念意向；无比例，不是现状复原或实施批准。图中文字为独立可编辑层。",
+        "en": "AI-generated concept; unscaled, not an existing-condition reconstruction or implementation approval. Labels are separate editable text."
+      },
+      "packaged_sha256": "98118a27ad2838b63727ef87aaa828cfb82a013f71bb336504a8ccb14820f6d6",
+      "original_png_sha256": "d4ebf89caf060cf6a3e35545b66a9847d0d8e0317f4faa46ca49953e80edaccc",
+      "prompt": "Produce one photoreal architectural competition concept image, landscape 16:9, eye-level at 1.5 m, of the PUBLIC RESOURCE FOYER at the foreground-left in this original shared-courtyard design reference. Keep its warm reclaimed-grey-and-red brick, slender dark roof canopy, timber and clear glazing, grey flush stone lane and mature north-China garden. Camera is on the public lane at entrance, looking into a small staffed resource foyer and across its transparent corner toward the quiet garden beyond. Clear continuous flush entrance with NO steps, no barrier gate, no crowded paving. On the left of the entrance a freestanding physical map board and an ordinary printed resource catalogue on a small timber stand; depict these as subtle blank line diagrams with absolutely no readable writing. A friendly human steward at a low timber counter talks with an older woman; a wheelchair user and a young researcher examine the same printed directory together in comfortable uncrowded foreground; a parent and child continue along public path in midground. Shelves and a small sitting bench, drinking-water facility outside through-route. The important subject is face-to-face resource help and a dignified everyday threshold, NOT technology spectacle. Natural warm late-afternoon light, precise realistic materials, excellent spatial depth, calm civic atmosphere. Same modest building proportions and courtyard as reference, no new tall blocks. No text, no lettering, no logos, no watermark. Anonymous unscaled concept design, not a claim of access at an existing university.",
+      "generated_by": "OpenAI built-in ImageGen; exact image model not exposed",
+      "human_review": "Inspected for primary adjacencies, circulation and body/fixture scale. Image details remain conceptual, not measured or surveyed."
+    },
+    {
+      "id": "scene-01",
+      "prompt_record": "embedded in this register",
+      "source_file": "assets/media/scene-01.webp",
+      "language": "neutral",
+      "note": {
+        "zh": "AI 生成概念意向；无比例，不是现状复原或实施批准。图中文字为独立可编辑层。",
+        "en": "AI-generated concept; unscaled, not an existing-condition reconstruction or implementation approval. Labels are separate editable text."
+      },
+      "packaged_sha256": "1ff30f4f4b3d9f61fb5f1e3e7309cb950f216ecda0c29e8dd0b7cb3d48462a58",
+      "original_png_sha256": "5ddf8ddb4d7066fc2b762eac4d9764e0da16c18b6556af23e5509a963611d73a",
+      "prompt": "One exceptional photoreal architectural landscape eye-level concept image, wide 16:9, S01 Century Memory Lens along the Jing-Zhang railway-memory public spine in Beijing. This is a contemporary interpretation-space PROPOSAL with anonymous background, not a reconstruction of a particular historic station. Make the central subject a modest reversible timber-and-dark-metal interpretation station beside a wide continuous grey stone park path. Two thin parallel weathered-steel strips flush in paving suggest railway continuity, a few short railway-themed artifacts sit in a planted exhibit bed OFF the walking path; no operational train line and no invented historical landmark. A human guide, an older resident and a parent with child look together at a low physical panel holding abstract monochrome archival-style diagrams, all UNREADABLE and without historic dates. A small optional audio-listening handset is attached unobtrusively beside the physical panel; no holograms. Plain warm-brick single-storey community-room facade farther back, mature Beijing trees, seats, quiet garden, mild autumn morning sunlight. Preserve our reference palette of stone, brick, timber and humane simple public threshold. Source checking and storytelling happen face-to-face, no technology spectacle. Realistic anatomy, generous flush route, panels outside circulation, competition-quality composition and tactile detail. No text, no letters, no historic dates, no logos, no watermark. Do not alter or fabricate a named heritage building; anonymous unscaled concept.",
+      "generated_by": "OpenAI built-in ImageGen; exact image model not exposed",
+      "human_review": "Inspected for primary adjacencies, circulation and body/fixture scale. Image details remain conceptual, not measured or surveyed."
+    },
+    {
+      "id": "scene-03",
+      "prompt_record": "embedded in this register",
+      "source_file": "assets/media/scene-03.webp",
+      "language": "neutral",
+      "note": {
+        "zh": "AI 生成概念意向；无比例，不是现状复原或实施批准。图中文字为独立可编辑层。",
+        "en": "AI-generated concept; unscaled, not an existing-condition reconstruction or implementation approval. Labels are separate editable text."
+      },
+      "packaged_sha256": "40ac24d5d6035ab1cac4572e5b192eca5fe1c515c87aeed6e5f0e5e180fed4de",
+      "original_png_sha256": "8fa57ba418ca0837420116af406f3f3239066e12f13d78bb4c438bf8efe25798",
+      "prompt": "Create one excellent photoreal landscape-design eye-level concept perspective, wide 16:9, for S03 Four-Season Comfort Route on a Beijing Jing-Zhang public living seam. Same warm brick community rooms, restrained timber and dark-metal canopy, grey stone route and humane palette as reference, but now a CLEAR COLD WINTER MORNING, bare deciduous tree crowns with a few evergreen planting patches, crisp pale blue sky, distant snow only in PLANTED BEDS and roof edges. The continuous public walking route is visibly dry, clean and free of snow/ice; do not show heated pavement or invented engineering. Along its side is a modest south-facing sheltered seating alcove under a solid rain/snow canopy with clear wind-screen side panel; elders in winter coats sit in sunlight outside the main route; a parent with child and one wheelchair user pass comfortably on the flush dry path. Human caretaker with hand broom checks the route, small ordinary physical weather/route noticeboard nearby (blank diagram no writing), a closed seasonal drinking-water post represented unobtrusively, no flowing water that could freeze. Show winter usability, light, shelter and human maintenance as spatial design, not a gadget display. Roomy realistic benches and scale, quiet north-China winter planting, subtle tactile warm textures, competition-quality image. No readable text, no lettering, logos, watermark or numerical dimensions. Anonymous unscaled concept; neither a measured climate simulation nor an engineered drainage/snow plan.",
+      "generated_by": "OpenAI built-in ImageGen; exact image model not exposed",
+      "human_review": "Inspected for primary adjacencies, circulation and body/fixture scale. Image details remain conceptual, not measured or surveyed."
+    },
+    {
+      "id": "scene-04",
+      "prompt_record": "embedded in this register",
+      "source_file": "assets/media/scene-04.webp",
+      "language": "neutral",
+      "note": {
+        "zh": "AI 生成概念意向；无比例，不是现状复原或实施批准。图中文字为独立可编辑层。",
+        "en": "AI-generated concept; unscaled, not an existing-condition reconstruction or implementation approval. Labels are separate editable text."
+      },
+      "packaged_sha256": "2446e6d10fdefa72b62cb6bc371de081dd0c3bbb98744b11b4c09b0d7be62c92",
+      "original_png_sha256": "9df716a0044c109a5f71b7547eb88bf4737467ed4377e9501b877e02a7ea0536",
+      "prompt": "Create one realistic and beautiful photoreal human-eye-level concept perspective, wide 16:9, S04 Accessible Together on the Beijing Jing-Zhang living seam. Use our own courtyard reference for warm brick, restrained timber/glass rooms and grey stone palette, but render a MILD SUMMER day with full leafy mature trees and comfortable shade. Main subject: generous continuous flush public path and an entirely level transparent foyer entry, no staircase, no steep ramp, no raised threshold. A blind adult with a white cane follows a sensible single continuous tactile guide strip through unobstructed route toward a simple physical high-contrast signboard; a wheelchair user moves nearby independently; an older couple rest on a bench OUTSIDE path, a human steward stands near door available to help. Tactile strip must be straight simple, not a decorative maze and not run into planter or bench. Tree trunks and furnishings outside the clear circulation. Show a modest covered rest bay with room beside bench for wheelchair, physical map with abstract blank graphics, no readable words. Camera composition clearly demonstrates uninterrupted route from foreground to foyer beyond, low-angle architectural depth, realistic human bodies and scale, calm inclusive civic life, excellent materials and natural light, no pity framing. No text, lettering, logos, watermarks, numerical widths or compliance badges. This is an unscaled proposal showing continuity; it is not proof of measured accessibility compliance.",
+      "generated_by": "OpenAI built-in ImageGen; exact image model not exposed",
+      "human_review": "Inspected for primary adjacencies, circulation and body/fixture scale. Image details remain conceptual, not measured or surveyed."
+    },
+    {
+      "id": "scene-08",
+      "prompt_record": "embedded in this register",
+      "source_file": "assets/media/scene-08.webp",
+      "language": "neutral",
+      "note": {
+        "zh": "AI 生成概念意向；无比例，不是现状复原或实施批准。图中文字为独立可编辑层。",
+        "en": "AI-generated concept; unscaled, not an existing-condition reconstruction or implementation approval. Labels are separate editable text."
+      },
+      "packaged_sha256": "ace62b81ba73f4c5989e851f8d0004369e0c5ff2f758c6f1f0509a101a9627ef",
+      "original_png_sha256": "5c1eb0e0ac99ea5c20b3e99cd6059d712b95f96dce3a69b3baffec53a15ca37d",
+      "prompt": "Generate one outstanding photoreal human-eye-level architectural concept perspective, landscape 16:9, for S08 Community Deliberation Agent. Use this own-design aerial as spatial reference: camera at the central round discussion table immediately in front of the low glazed deliberation room on the left of the diagonal public lane. Same warm brick, timber, grey stone and planted mature Beijing courtyard, soft afternoon autumn light. The main subject is a round accessible table holding paper neighborhood maps, handwritten-looking but UNREADABLE blank marks, sticky color notes, and a single unobtrusive laptop facing the HUMAN facilitator. Six diverse residents/researchers seated in discussion, an older resident, a wheelchair user naturally seated with comfortable knee space and one parent; a human facilitator listens and points to the same paper map. Nobody wears AR headsets. One freestanding physical minutes board with blank rows is beside the table, open glass room behind offers shelter and additional seats. Along the right in background, public lane remains fully open to passersby and is not blocked by the meeting. Calm genuine small civic meeting, realistic hands and people, precise material textures, excellent architectural composition. AI assistance is invisible/optional and not portrayed as voting. No readable text, letters, logos, watermark or captions. Unscaled courtyard prototype, not an actual meeting or proof of public consent.",
+      "generated_by": "OpenAI built-in ImageGen; exact image model not exposed",
+      "human_review": "Inspected for primary adjacencies, circulation and body/fixture scale. Image details remain conceptual, not measured or surveyed."
+    },
+    {
+      "id": "scene-09",
+      "prompt_record": "embedded in this register",
+      "source_file": "assets/media/scene-09.webp",
+      "language": "neutral",
+      "note": {
+        "zh": "AI 生成概念意向；无比例，不是现状复原或实施批准。图中文字为独立可编辑层。",
+        "en": "AI-generated concept; unscaled, not an existing-condition reconstruction or implementation approval. Labels are separate editable text."
+      },
+      "packaged_sha256": "35aa194bd8a5ba98719f5a2c234898f3e08e0579d1630e49708bc2b752b59935",
+      "original_png_sha256": "5497b5a0490b7c1695840aa96ad1a3782c7b21fff33d9c8a02803b900136f653",
+      "prompt": "Create a landscape 16:9 photoreal human-eye-level architectural concept image for S09 Open Validation Booking at this exact reference courtyard. Camera OUTSIDE the controlled testing enclosure at its foreground-left public observation edge. Keep our modest warm brick research rooms behind, low transparent protective fence separating the whole testing area, grey stone public observation path and rich north-China planted buffers. In foreground, a wheelchair user and an older person observe one small wheeled service robot INSIDE the fenced test zone, supervised by two technicians; no member of public crosses a test trajectory. On the public side a human booking steward beside a modest timber kiosk explains a paper application and paper risk notice to a young developer; boards show only blank graphic rows, no readable writing. A small nearby review table has notebooks, demonstrating public access to explanations and failures. Detailed fence and controlled access gate visible in midground, services rear-right remain separate. Human scale, realistic bodies and wheelchair, clear circulation, bright mild autumn daylight, crisp natural textures, competition-quality civic architecture, no science-fiction gadgets. No text, labels, lettering, logos or watermark. Unscaled concept rendering, not a built test facility or approved safety plan.",
+      "generated_by": "OpenAI built-in ImageGen; exact image model not exposed",
+      "human_review": "Inspected for primary adjacencies, circulation and body/fixture scale. Image details remain conceptual, not measured or surveyed."
+    },
+    {
+      "id": "scene-10",
+      "prompt_record": "embedded in this register",
+      "source_file": "assets/media/scene-10.webp",
+      "language": "neutral",
+      "note": {
+        "zh": "AI 生成概念意向；无比例，不是现状复原或实施批准。图中文字为独立可编辑层。",
+        "en": "AI-generated concept; unscaled, not an existing-condition reconstruction or implementation approval. Labels are separate editable text."
+      },
+      "packaged_sha256": "d0065a678e7ed70c72d5badc51b17c58e66a95a07278831d7d793f57a335330c",
+      "original_png_sha256": "1ebc39f725684d4dab8b3a513fb574b19d5a0156e4b4168e40d01aceb429cb55",
+      "prompt": "One landscape 16:9 photoreal architectural eye-level concept perspective for S10 Slow Intelligence Retail Assistant in the transparent everyday retail ground floor at foreground-right of our own Dazhongsi reference design. Preserve warm grey/red brick, timber/glass shopfront, subtle two inset railway-memory lines in grey stone street, trees and free public benches outside. Camera on public sidewalk looking diagonally through an entirely flush open shop door into a small neighborhood cafe/shop. Main foreground task: friendly HUMAN shopkeeper with printed menu on a low counter talks to an older couple; an ordinary cash tray and paper receipt are visible. Beside this is a small OPTIONAL tablet on the side facing a young customer, neutral simple blank UI with NO readable writing, not a gate or giant screen. A wheelchair user has a clear route and roomy counter approach. Outside, people simply sit on a free bench under trees without buying anything. Plausible urban everyday life, dignified inclusive design, realistic proportions and high-quality tactile materials, late-afternoon daylight. Show quiet choices and human assistance, no biometric cameras, no robots, no turnstiles, no futuristic spectacle. No text, lettering, prices, brands, logos, captions or watermarks. An unscaled spatial concept, not an existing business or approved plan.",
+      "generated_by": "OpenAI built-in ImageGen; exact image model not exposed",
+      "human_review": "Inspected for primary adjacencies, circulation and body/fixture scale. Image details remain conceptual, not measured or surveyed."
+    },
+    {
+      "id": "spine-day",
+      "prompt_record": "embedded in this register",
+      "source_file": "assets/media/spine-day.webp",
+      "language": "neutral",
+      "note": {
+        "zh": "AI 生成概念意向；无比例，不是现状复原或实施批准。图中文字为独立可编辑层。",
+        "en": "AI-generated concept; unscaled, not an existing-condition reconstruction or implementation approval. Labels are separate editable text."
+      },
+      "packaged_sha256": "edafae2e625992a54a4ee040daecfdcc164ff0e6d9143f48e1b9a407ff0bdbf2",
+      "original_png_sha256": "6edc4c090cc26cad276cc876211a7d8e0b9feae2a4ec27ce072ec17a7b115211",
+      "prompt": "Create one expansive original photoreal architectural landscape panorama, wide landscape 16:9, for Jing-Zhang Borrowed Intelligence urban design, a REPRESENTATIVE PUBLIC-SPINE SEGMENT, NOT the entire 10km district and NOT a georeferenced aerial. High oblique camera looking along a several-block linear public green seam embedded in ordinary Beijing mixed urban fabric. Long graceful ground-level grey stone pedestrian route, two thin flush railway-memory lines, mature mixed deciduous shade canopy and varied planted resting pockets; west/left edges have modest existing warm-brick adaptive-use ground-floor service rooms; east/right a small garden/water-observation side branch and neighborhood streets. Three distinct spatial moments within THIS TYPICAL SEGMENT: foreground staffed resource foyer opening onto a calm small court, middle circular discussion table under trees, distant small public observation edge with a clearly separately fenced research courtyard. These are a visual vocabulary, not all three named commons squeezed into one site. Existing mid-rise residential/research blocks remain in the wider background, no invented skyline or landmarks. Continuous route is at ground level, NO skybridges, NO rail deck, NO giant new campus, NO demolition landscape; lively but uncrowded with ordinary elders, families, researchers and one wheelchair user. Native northern planting, realistic grey/red masonry and stone, restrained timber/glass pavilion components. Bright clear Beijing summer morning with green leaves, competition-quality detailed rendering, spatial depth and humane quiet civic character. Use reference 1 only for the conceptual longitudinal spine and transverse interface idea, reference 2 for our own exact material/component style; do not reproduce the map or text. No writing, no numbers, no labels, logos, watermark. This is deliberately anonymous and unscaled, no actual parcel or crossing approval implied.",
+      "generated_by": "OpenAI built-in ImageGen; exact image model not exposed",
+      "human_review": "Inspected for primary adjacencies, circulation and body/fixture scale. Image details remain conceptual, not measured or surveyed."
+    },
+    {
+      "id": "spine-night",
+      "prompt_record": "embedded in this register",
+      "source_file": "assets/media/spine-night.webp",
+      "language": "neutral",
+      "note": {
+        "zh": "AI 生成概念意向；无比例，不是现状复原或实施批准。图中文字为独立可编辑层。",
+        "en": "AI-generated concept; unscaled, not an existing-condition reconstruction or implementation approval. Labels are separate editable text."
+      },
+      "packaged_sha256": "3d3e6465ac10feb6903076c3c4759e5172d55c6e28c1f9ba2d9097693ab15afe",
+      "original_png_sha256": "0e23c71246b757c67082682cd1b49708f16f35c4f8f04a3ab9cf06358fe5bf8c",
+      "prompt": "Edit this exact original typical-spine-segment design render into BLUE-HOUR EARLY EVENING from the SAME camera. Preserve all architecture, path geometry, parallel inset memory lines, tree placement, foreground-left resource foyer, middle round discussion court, right planted side branch and separately fenced test area. Keep same framing and plausible materials, do not redesign the site. Sky deep soft blue just after sunset, warm low-intensity welcoming light from resource foyer and a few occupied ground-floor rooms. Subtle shielded downward path luminaires ONLY illuminate ground and relevant thresholds, no tree uplighting, no neon, no glowing river or glowing paving, no giant screens, no celebratory lightshow. Clear comfortable route visible, quiet planted habitat edges stay relatively dark. Fewer people walking home, an elder resting, one human steward at foyer; controlled test yard CLOSED and inactive, no active robot movement at night. Free benches remain readable, no crowd. Elegant restrained competition-quality architectural night photography with believable exposure and softness, civic calm. No text, lettering, logos, watermark. The image remains an anonymous unscaled spatial/lighting-intent concept, NOT a photometric calculation or real built night view.",
+      "generated_by": "OpenAI built-in ImageGen; exact image model not exposed",
+      "human_review": "Inspected for primary adjacencies, circulation and body/fixture scale. Image details remain conceptual, not measured or surveyed."
+    },
+    {
+      "id": "zzy-aerial",
+      "prompt_record": "embedded in this register",
+      "source_file": "assets/media/zzy-aerial.webp",
+      "language": "neutral",
+      "note": {
+        "zh": "AI 生成概念意向；无比例，不是现状复原或实施批准。图中文字为独立可编辑层。",
+        "en": "AI-generated concept; unscaled, not an existing-condition reconstruction or implementation approval. Labels are separate editable text."
+      },
+      "packaged_sha256": "9cc2f25629097fc8c9d13296eab68bfad272389515146ba9f11f1bd47c363b9d",
+      "original_png_sha256": "6da1dac6fe05079f7b9d3e251315f6cc192308d809554dd3d9e63ba74708aaab",
+      "prompt": "Generate one original photoreal architectural landscape design aerial concept, wide 16:9, of Zhongzhiyuan Common Intelligence Validation Commons in north Beijing. Use reference 1 LEFT FUNCTIONAL DIAGRAM ONLY as an unscaled adjacency control, reference 2 only for consistent brick/stone/timber architectural material quality. Show a single modest civic research courtyard, camera high oblique from foreground southwest. Center: rectangular controlled testing courtyard with low temporary test apparatus and one compact wheeled delivery robot, bounded by a continuous low protective transparent fence, ONE supervised pedestrian gate, very legible. A separate wide PUBLIC OBSERVATION LOOP lies completely outside this fenced court on all four sides; it must not cross any test trajectory. Rear/top side: 2-3 storey brick research and governance rooms opening onto a quiet buffer, not a monumental headquarters. RIGHT side: compact equipment-maintenance block and service yard, independent rear-right service lane separated from public loop. Foreground LEFT: open discussion pavilion with a human review table and paper noticeboard. Foreground RIGHT: a planted blue-green environmental observation garden with a small dry drainage swale and low monitoring post beside public loop, not a swimming pool. Landscaped buffers, mature deciduous trees, planted ground, grey stone and fine permeable paving, ordinary human-scale contemporary additions suggesting adaptive reuse. Around 12 public observers, researchers safely INSIDE fenced court with a human supervisor, an older person and wheelchair user OUTSIDE on clear continuous observation path. Calm daylight, warm autumn vegetation, detailed realistic scale and materials, competition quality, distinguish controlled tests from public everyday enjoyment. No words, no labels, no logos, no watermark, no giant screens. Not a claim of an existing building, parcel, dimensions or permit.",
+      "generated_by": "OpenAI built-in ImageGen; exact image model not exposed",
+      "human_review": "Inspected for primary adjacencies, circulation and body/fixture scale. Image details remain conceptual, not measured or surveyed."
+    }
+  ],
+  "scene_cards": [
+    {
+      "id": "S01",
+      "name": {
+        "zh": "百年记忆镜",
+        "en": "Century Memory Lens"
+      },
+      "users_location": {
+        "zh": "U01、U02、U05；主脉与 AI 原点",
+        "en": "U01, U02, U05; Spine and AI Origin"
+      },
+      "baseline": {
+        "zh": "真实遗存、时间线、纸质地图和人工讲解",
+        "en": "Authentic remains, a timeline, printed maps, and human interpretation"
+      },
+      "enhancement": {
+        "zh": "多语种、无障碍和个性化解释；来源可见，生成内容不得替代史实审核。",
+        "en": "Multilingual, accessible, and personalized interpretation; sources stay visible and generated content cannot replace historical review."
+      },
+      "task": {
+        "zh": "让不同年龄的访客读懂记忆与来源",
+        "en": "Help visitors understand memory and its sources"
+      },
+      "location": {
+        "zh": "主脉解释点 / AI 原点",
+        "en": "Spine interpretation / AI Origin"
+      },
+      "space": {
+        "zh": "解释设施、纸质图谱、人工讲解与停留",
+        "en": "Interpretation station, paper maps, human guide and resting"
+      },
+      "responsibility": {
+        "zh": "遗产解释责任者审核史实；有误则撤下生成内容",
+        "en": "Heritage interpreter checks facts; remove incorrect generated content"
+      },
+      "media": "scene-01",
+      "evidence_status": "participant_unscaled_concept_not_a_verified_service",
+      "source_ids": [
+        "PARTICIPANT-DESIGN-V12",
+        "PARTICIPANT-DESIGN-V01",
+        "PARTICIPANT-DESIGN-V02"
+      ]
+    },
+    {
+      "id": "S02",
+      "name": {
+        "zh": "安静借景路",
+        "en": "Quiet Borrowed-View Path"
+      },
+      "users_location": {
+        "zh": "U01、U04、U06；主脉与生活缝",
+        "en": "U01, U04, U06; Spine and Everyday-Life Seam"
+      },
+      "baseline": {
+        "zh": "连续路标、安静绕行、座椅和遮荫",
+        "en": "Continuous signs, a quiet alternative route, seating, and shade"
+      },
+      "enhancement": {
+        "zh": "按噪声、拥挤和感官偏好建议路线；可关闭定位并改用固定地图。",
+        "en": "Suggest routes by noise, crowding, and sensory preference; users can disable location and use a fixed map."
+      },
+      "task": {
+        "zh": "在通勤主路之外找到安静选择",
+        "en": "Find a quiet alternative to the commuter route"
+      },
+      "location": {
+        "zh": "主脉 / 生活缝安静院",
+        "en": "Spine / Quiet living-seam court"
+      },
+      "space": {
+        "zh": "平行绕行、树荫座椅与明确再汇合点",
+        "en": "Parallel detour, shaded seats and a clear rejoining point"
+      },
+      "responsibility": {
+        "zh": "运营者巡查噪声和路线；状态不明时显示待核",
+        "en": "Operator checks noise and route; show unverified states explicitly"
+      },
+      "media": null,
+      "evidence_status": "participant_unscaled_concept_not_a_verified_service",
+      "source_ids": [
+        "PARTICIPANT-DESIGN-V12",
+        "PARTICIPANT-DESIGN-V01",
+        "PARTICIPANT-DESIGN-V02"
+      ]
+    },
+    {
+      "id": "S03",
+      "name": {
+        "zh": "四季舒适路",
+        "en": "Four-Season Comfort Route"
+      },
+      "users_location": {
+        "zh": "全部用户；主脉与三园",
+        "en": "All users; Spine and Three Commons"
+      },
+      "baseline": {
+        "zh": "遮荫避雨、饮水、休息点和季节维护",
+        "en": "Shade, rain cover, drinking water, rest points, and seasonal maintenance"
+      },
+      "enhancement": {
+        "zh": "结合微气候提示舒适路线；设备故障时由固定标识和人工巡查接管。",
+        "en": "Suggest comfortable routes using microclimate information; fixed signs and human inspection take over when equipment fails."
+      },
+      "task": {
+        "zh": "夏季避热、冬季避风并能休息",
+        "en": "Rest in summer shade and winter shelter"
+      },
+      "location": {
+        "zh": "主脉 / 三园福祉亭",
+        "en": "Spine / Three Commons shelter"
+      },
+      "space": {
+        "zh": "遮荫、避风、饮水与路径外停留",
+        "en": "Shade, wind shelter, seasonal water and off-route rest"
+      },
+      "responsibility": {
+        "zh": "物业确认天气与维护状态；故障用固定标识和巡查",
+        "en": "Manager confirms weather and maintenance; faults revert to signs and inspection"
+      },
+      "media": "scene-03",
+      "evidence_status": "participant_unscaled_concept_not_a_verified_service",
+      "source_ids": [
+        "PARTICIPANT-DESIGN-V12",
+        "PARTICIPANT-DESIGN-V01",
+        "PARTICIPANT-DESIGN-V02"
+      ]
+    },
+    {
+      "id": "S04",
+      "name": {
+        "zh": "无碍同行",
+        "en": "Accessible Together"
+      },
+      "users_location": {
+        "zh": "U01、U06；六道缝合与两门",
+        "en": "U01, U06; six stitches and Two Gates"
+      },
+      "baseline": {
+        "zh": "坡道、触觉、高对比、连续休息和人工协助",
+        "en": "Ramps, tactile and high-contrast information, continuous rest, and human assistance"
+      },
+      "enhancement": {
+        "zh": "辅助识别障碍并建议可达路线；不得把预测结果写成已验证无障碍。",
+        "en": "Help detect obstacles and suggest accessible routes; prediction must not be presented as verified accessibility."
+      },
+      "task": {
+        "zh": "从到达点持续走到服务入口",
+        "en": "Travel continuously from arrival to service"
+      },
+      "location": {
+        "zh": "两门 / 六道缝合",
+        "en": "Two gateways / Six seams"
+      },
+      "space": {
+        "zh": "同层入口、连续引导、路径外休息",
+        "en": "Flush threshold, continuous guidance and off-route rest"
+      },
+      "responsibility": {
+        "zh": "专业与使用者复核可达；未核验不承诺无障碍",
+        "en": "Professionals and users verify access; no accessibility promise before checking"
+      },
+      "media": "scene-04",
+      "evidence_status": "participant_unscaled_concept_not_a_verified_service",
+      "source_ids": [
+        "PARTICIPANT-DESIGN-V12",
+        "PARTICIPANT-DESIGN-V01",
+        "PARTICIPANT-DESIGN-V02"
+      ]
+    },
+    {
+      "id": "S05",
+      "name": {
+        "zh": "时间公平导航",
+        "en": "Time-Equity Navigation"
+      },
+      "users_location": {
+        "zh": "U01、U04、U06；站点和大钟寺",
+        "en": "U01, U04, U06; stations and Dazhongsi"
+      },
+      "baseline": {
+        "zh": "标准地图、班次信息、人工问询和多种路径",
+        "en": "Standard maps, service times, staffed information, and route options"
+      },
+      "enhancement": {
+        "zh": "展示步行、等待、绕行与照护成本；用户可选择最快、最稳或少换乘。",
+        "en": "Show walking, waiting, detour, and care costs; users may choose fastest, most reliable, or least-transfer routes."
+      },
+      "task": {
+        "zh": "比较速度、稳定性和照护成本",
+        "en": "Compare speed, reliability and care burden"
+      },
+      "location": {
+        "zh": "站点 / 大钟寺到达界面",
+        "en": "Stations / Dazhongsi arrival interface"
+      },
+      "space": {
+        "zh": "实体地图、人工问询与多路径选择",
+        "en": "Physical map, staffed help and multiple route choices"
+      },
+      "responsibility": {
+        "zh": "交通运营者核对时刻与路线；过期信息退出推荐",
+        "en": "Transport operator checks timetables/routes; stale data leaves recommendations"
+      },
+      "media": null,
+      "evidence_status": "participant_unscaled_concept_not_a_verified_service",
+      "source_ids": [
+        "PARTICIPANT-DESIGN-V12",
+        "PARTICIPANT-DESIGN-V01",
+        "PARTICIPANT-DESIGN-V02"
+      ]
+    },
+    {
+      "id": "S06",
+      "name": {
+        "zh": "公共空间管家",
+        "en": "Public-Space Steward"
+      },
+      "users_location": {
+        "zh": "U07 与全部使用者；主脉和三园",
+        "en": "U07 and all users; Spine and Three Commons"
+      },
+      "baseline": {
+        "zh": "巡查表、保洁报修、公告和人工热线",
+        "en": "Inspection sheets, cleaning and repair requests, notices, and a staffed hotline"
+      },
+      "enhancement": {
+        "zh": "聚合设施状态和工单，异常由人工确认；不采用默认人脸识别。",
+        "en": "Aggregate facility status and work orders, with human confirmation of exceptions; no default facial recognition."
+      },
+      "task": {
+        "zh": "发现故障后知道谁处理",
+        "en": "Know who handles a reported fault"
+      },
+      "location": {
+        "zh": "主脉 / 三园维护接口",
+        "en": "Spine / Three Commons maintenance"
+      },
+      "space": {
+        "zh": "巡查、纸质工单、热线与公示位置",
+        "en": "Inspection, paper job cards, hotline and notice point"
+      },
+      "responsibility": {
+        "zh": "物业人工确认和派单；公开聚合状态而非个人",
+        "en": "Manager confirms and assigns jobs; publish aggregate status, not identities"
+      },
+      "media": null,
+      "evidence_status": "participant_unscaled_concept_not_a_verified_service",
+      "source_ids": [
+        "PARTICIPANT-DESIGN-V12",
+        "PARTICIPANT-DESIGN-V01",
+        "PARTICIPANT-DESIGN-V02"
+      ]
+    },
+    {
+      "id": "S07",
+      "name": {
+        "zh": "蓝绿城市孪生",
+        "en": "Blue-Green Urban Twin"
+      },
+      "users_location": {
+        "zh": "U02、U03、U07；众智园和河道联系",
+        "en": "U02, U03, U07; Zhongzhiyuan and river links"
+      },
+      "baseline": {
+        "zh": "雨水标尺、植物说明、人工监测和疏散规则",
+        "en": "Rain gauges, planting information, human monitoring, and evacuation rules"
+      },
+      "enhancement": {
+        "zh": "辅助观察积水、热和植物状态；模型只支持维护判断，不替代工程结论。",
+        "en": "Assist observation of ponding, heat, and plant condition; models support maintenance judgement but do not replace engineering conclusions."
+      },
+      "task": {
+        "zh": "观察水绿变化并识别模型限制",
+        "en": "Observe landscape change and model limits"
+      },
+      "location": {
+        "zh": "众智园 / 水绿观察接口",
+        "en": "Zhongzhiyuan / Landscape observation"
+      },
+      "space": {
+        "zh": "标尺、植物说明、观察点与安全边界",
+        "en": "Gauge, plant notes, observation point and safety edge"
+      },
+      "responsibility": {
+        "zh": "专业维护者核验异常；模型不替代防汛或工程判断",
+        "en": "Professional caretaker verifies alerts; model does not replace flood/engineering decisions"
+      },
+      "media": null,
+      "evidence_status": "participant_unscaled_concept_not_a_verified_service",
+      "source_ids": [
+        "PARTICIPANT-DESIGN-V12",
+        "PARTICIPANT-DESIGN-V01",
+        "PARTICIPANT-DESIGN-V02"
+      ]
+    },
+    {
+      "id": "S08",
+      "name": {
+        "zh": "社区共议智能体",
+        "en": "Community Deliberation Agent"
+      },
+      "users_location": {
+        "zh": "U01、U02、U06、U07；AI 原点多院",
+        "en": "U01, U02, U06, U07; AI Origin courtyards"
+      },
+      "baseline": {
+        "zh": "线下会议、纸质意见、人工主持和公开纪要",
+        "en": "In-person meetings, paper comments, human facilitation, and public minutes"
+      },
+      "enhancement": {
+        "zh": "协助归纳而不代替表决；公开纠错、申诉、删除和版本记录。",
+        "en": "Assist synthesis without replacing voting; provide correction, appeal, deletion, and version records."
+      },
+      "task": {
+        "zh": "让不同意见进入同一张地图",
+        "en": "Bring different views onto one shared map"
+      },
+      "location": {
+        "zh": "AI 原点共议院",
+        "en": "AI Origin deliberation court"
+      },
+      "space": {
+        "zh": "圆桌、纸质地图、纪要板与室内备用空间",
+        "en": "Round table, paper map, minutes board and indoor fallback"
+      },
+      "responsibility": {
+        "zh": "人工主持与记录；参与者纠错，AI 不代替表决",
+        "en": "Human facilitation and records; participants correct, AI never replaces voting"
+      },
+      "media": "scene-08",
+      "evidence_status": "participant_unscaled_concept_not_a_verified_service",
+      "source_ids": [
+        "PARTICIPANT-DESIGN-V12",
+        "PARTICIPANT-DESIGN-V01",
+        "PARTICIPANT-DESIGN-V02"
+      ]
+    },
+    {
+      "id": "S09",
+      "name": {
+        "zh": "开放验证预约",
+        "en": "Open Validation Booking"
+      },
+      "users_location": {
+        "zh": "U03、U07 与公众；众智园",
+        "en": "U03, U07, and the public; Zhongzhiyuan"
+      },
+      "baseline": {
+        "zh": "现场公告、纸质申请、人工安全说明",
+        "en": "On-site notices, paper applications, and human safety briefings"
+      },
+      "enhancement": {
+        "zh": "匹配时段和能力、公开风险与结果；拒绝数据不影响线下申请。",
+        "en": "Match time and capability and disclose risk and results; refusal of data does not affect offline application."
+      },
+      "task": {
+        "zh": "看懂测试规则，再申请参与",
+        "en": "Understand testing rules before applying"
+      },
+      "location": {
+        "zh": "众智园观察廊 / 测试入口",
+        "en": "Zhongzhiyuan observation / Test gate"
+      },
+      "space": {
+        "zh": "围界、观察路径、纸质申请与值守点",
+        "en": "Enclosure, observation path, paper application and staffed post"
+      },
+      "responsibility": {
+        "zh": "测试负责人准入与停机；公众与测试轨迹分离",
+        "en": "Test lead controls admission and stopping; separate public route from test trajectories"
+      },
+      "media": "scene-09",
+      "evidence_status": "participant_unscaled_concept_not_a_verified_service",
+      "source_ids": [
+        "PARTICIPANT-DESIGN-V12",
+        "PARTICIPANT-DESIGN-V01",
+        "PARTICIPANT-DESIGN-V02"
+      ]
+    },
+    {
+      "id": "S10",
+      "name": {
+        "zh": "慢智消费助手",
+        "en": "Slow-Intelligence Retail Assistant"
+      },
+      "users_location": {
+        "zh": "U04、U05、U06、U07；大钟寺",
+        "en": "U04, U05, U06, U07; Dazhongsi"
+      },
+      "baseline": {
+        "zh": "普通菜单、现金／常规结账、人工咨询和明确价格",
+        "en": "Ordinary menus, cash and standard checkout, staffed advice, and clear prices"
+      },
+      "enhancement": {
+        "zh": "解释推荐、过敏和商业关系；一键关闭个性化，不以画像抬价。",
+        "en": "Explain recommendations, allergens, and commercial relationships; personalization can be disabled and must not enable profile-based price discrimination."
+      },
+      "task": {
+        "zh": "能获得解释，也能普通结账",
+        "en": "Obtain explanations or use ordinary checkout"
+      },
+      "location": {
+        "zh": "大钟寺公共首层",
+        "en": "Dazhongsi public ground floor"
+      },
+      "space": {
+        "zh": "纸质菜单、人工柜台、可选终端与免费座椅",
+        "en": "Paper menu, staffed counter, optional terminal and free seating"
+      },
+      "responsibility": {
+        "zh": "商户核对价格和过敏信息；随时关闭推荐",
+        "en": "Merchant checks prices/allergens; recommendations can be disabled"
+      },
+      "media": "scene-10",
+      "evidence_status": "participant_unscaled_concept_not_a_verified_service",
+      "source_ids": [
+        "PARTICIPANT-DESIGN-V12",
+        "PARTICIPANT-DESIGN-V01",
+        "PARTICIPANT-DESIGN-V02"
+      ]
+    },
+    {
+      "id": "S11",
+      "name": {
+        "zh": "创新资源门厅",
+        "en": "Innovation Resource Foyer"
+      },
+      "users_location": {
+        "zh": "U03、U07 与社区；AI 原点两门",
+        "en": "U03, U07, and communities; AI Origin Two Gates"
+      },
+      "baseline": {
+        "zh": "服务目录、固定开放时间和人工转介",
+        "en": "Service directories, fixed opening hours, and human referrals"
+      },
+      "enhancement": {
+        "zh": "辅助匹配空间、导师与专业服务；不承诺结果，敏感申请由人工受理。",
+        "en": "Assist matching with spaces, mentors, and professional services; make no outcome promise and route sensitive requests to people."
+      },
+      "task": {
+        "zh": "带着问题找到可协商的资源",
+        "en": "Bring a question to negotiable resources"
+      },
+      "location": {
+        "zh": "AI 原点两门资源接口",
+        "en": "AI Origin gateway resource interface"
+      },
+      "space": {
+        "zh": "实体目录、低柜台、人工转介与等待座椅",
+        "en": "Physical directory, low counter, human referral and waiting seats"
+      },
+      "responsibility": {
+        "zh": "资源提供者维护时段和权限；不保证匹配或结果",
+        "en": "Providers maintain hours/permissions; no guaranteed match or outcome"
+      },
+      "media": "resource-foyer",
+      "evidence_status": "participant_unscaled_concept_not_a_verified_service",
+      "source_ids": [
+        "PARTICIPANT-DESIGN-V12",
+        "PARTICIPANT-DESIGN-V01",
+        "PARTICIPANT-DESIGN-V02"
+      ]
+    },
+    {
+      "id": "S12",
+      "name": {
+        "zh": "福祉公开账本",
+        "en": "Public Wellbeing Ledger"
+      },
+      "users_location": {
+        "zh": "全部用户；三园与总体门户",
+        "en": "All users; Three Commons and overall gateways"
+      },
+      "baseline": {
+        "zh": "定期公示、纸质报告、听证和投诉渠道",
+        "en": "Periodic disclosure, printed reports, hearings, and complaint channels"
+      },
+      "enhancement": {
+        "zh": "只显示聚合指标、来源和不确定性；不得公开个人轨迹或用总分掩盖权衡。",
+        "en": "Display only aggregate metrics, sources, and uncertainty; never reveal individual traces or hide trade-offs in a total score."
+      },
+      "task": {
+        "zh": "看见改善、负担与未确定的部分",
+        "en": "See improvements, burdens and uncertainty"
+      },
+      "location": {
+        "zh": "三园 / 总体信息门户",
+        "en": "Three Commons / Belt information point"
+      },
+      "space": {
+        "zh": "纸质公示、四簿并列、投诉与版本记录",
+        "en": "Paper notices, four parallel ledgers, appeals and versions"
+      },
+      "responsibility": {
+        "zh": "运营者与独立复核者确认数据；只公开聚合结果",
+        "en": "Operator and independent reviewer verify data; aggregate results only"
+      },
+      "media": null,
+      "evidence_status": "participant_unscaled_concept_not_a_verified_service",
+      "source_ids": [
+        "PARTICIPANT-DESIGN-V12",
+        "PARTICIPANT-DESIGN-V01",
+        "PARTICIPANT-DESIGN-V02"
+      ]
+    }
+  ],
+  "vocabulary": [
+    "brand-system",
+    "component-system",
+    "memory-narrative"
+  ],
+  "spatial_map_record": "data/map-derivation.json"
+}

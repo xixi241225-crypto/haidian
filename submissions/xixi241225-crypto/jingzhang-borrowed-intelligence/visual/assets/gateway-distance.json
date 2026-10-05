@@ -1,0 +1,13 @@
+{
+  "crs": "EPSG:4548",
+  "north": [
+    116.3336262,
+    39.9993038
+  ],
+  "south": [
+    116.3317017,
+    39.9914779
+  ],
+  "straight_line_m": 884.3866611742826,
+  "status": "public_anchor_distance_not_walkability"
+}

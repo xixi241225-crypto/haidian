@@ -12,7 +12,7 @@ license: "COMMUNITY-DISPLAY-ONLY"
 summary: "以百年京张的真实记忆校准城市智能，以日常福祉检验空间更新。方案以一脉、两翼、三园组织空间，用四簿治理公共价值，将十二景建成同时具有非AI基线和AI增强的城市场景，并以分期、责任、验证和退出机制控制实施风险。"
 tracks: ["ai-traffic-walkability", "enterprise-services-ecosystem", "civic-agent-governance"]
 scenarios: ["ai-traffic-walkability", "enterprise-service-copilot", "public-safety-operations-review"]
-iteration: "v1.1"
+iteration: "v1.2"
 ---
 
 # 京张借景带 / BORROWED INTELLIGENCE
@@ -35,7 +35,7 @@ iteration: "v1.1"
 
 “借景”在这里不是仿古形式，而是一种城市设计方法：识别真实对象，暴露基础设施负担，建立跨界关系，形成日常公共服务，再用持续可核对的指标校准结果。它最终形成“一脉、两翼、三园”的空间组织、“四簿”的治理体系与“十二景”的场景产品。
 
-修订版本 V1.1，2026 年 10 月 5 日。此成果回应原投稿的评审意见，属于截止后的修订提交；是否接收及进入后续评审由维护者决定。
+修订版本 V1.2，2026 年 10 月 5 日。此成果回应原投稿的评审意见，属于截止后的修订提交；是否接收及进入后续评审由维护者决定。
 
 ## 设计依据与资料清单
 
@@ -81,7 +81,7 @@ MIT 发布的创新资源图将校内辅导、技术许可、创业支持与校�
 | 失败退出 | 失败退出：本资料未公开退出协议。 |
 
 
-京张转译：在 AI 原点两门设置统一资源门厅，将高校服务、专业咨询和预约设施做成可问询的目录；建议各资源提供者自行维护权限和时段。
+京张转译：在 AI 原点两个片区门户分别设置人工资源接口，使用同一份高校服务、专业咨询和预约设施目录；建议各资源提供者维护权限和时段。
 
 不适用条件：不复制机构密度、资本结构或校外设施的开放权；目录存在不等于资源已经向京张开放。
 
@@ -409,6 +409,186 @@ AI 风险至少包括错误导航、偏置推荐、过度采集、身份歧视�
 
 投稿文本、结构化数据和原创设计表达由参与者在许可范围内提交；官方资料、标准名称、底图线索和第三方来源的权利仍归原权利人。后续图像、字体、照片、档案、地图和生成式内容必须逐项登记来源与许可，未经核验的素材不进入正式展示。当前 proposal 的事实引用以 `sources.json` 为准，专业依据以 `standard_matrix.json` 为准，版权承诺以投稿包版权声明为准。[source:BACKGROUND-LATEST-RULES-VALIDATOR-20260828]
 
+## V1.2 空间设计与视觉成果
+
+本轮把总体结构、三园空间与十二景接成一套可追溯图件。公开场地参考、无比例功能原型和 AI 生成意向分层呈现。片区地图保留真实公开坐标；院落原型不对应已选宗地，生成图不用于倒推高度、尺度、工程或权属。V1.1 的几何与指标继续冻结。 [source:PARTICIPANT-DESIGN-V12] [source:OSM-REFERENCE-V12]
+
+![公开参考底盘](assets/figures/site-context.png)
+
+![总体结构与待核接口](assets/figures/overall-structure.png)
+
+AI 原点的“两门”是五道口与清华东路西口两个轨道到达接口，公开锚点在 EPSG:4548 下直线相距约 880 米；这不是步行距离或通行承诺。片区生活缝与院落内部路径分别深化，不将两站压缩进一个庭院。大钟寺按真实公开站点和文化锚点开展研究；PROV-KEY-003 仍保留原投稿校验身份，Issue #1029 待维护者澄清。 [source:OSM-REFERENCE-V12] [source:BACKGROUND-GITHUB-ISSUE-1029]
+
+### 众智园：测试庭院外的公众观察环
+
+![场地接口：公开参考与候选关系](assets/figures/zzy-context.png)
+
+![无比例功能与流线原型](assets/figures/zzy-prototype.png)
+
+![AI 生成院落鸟瞰意向](assets/media/zzy-aerial.webp)
+
+AI 生成概念意向；无比例，不是现状复原或实施批准。图中文字为独立可编辑层。
+
+### AI 原点：连续日常路径与四级界面
+
+![场地接口：公开参考与候选关系](assets/figures/aio-context.png)
+
+![无比例功能与流线原型](assets/figures/aio-prototype.png)
+
+![AI 生成院落鸟瞰意向](assets/media/aio-aerial.webp)
+
+AI 生成概念意向；无比例，不是现状复原或实施批准。图中文字为独立可编辑层。
+
+### 大钟寺：四象限关系与非消费停留
+
+![场地接口：公开参考与候选关系](assets/figures/dzs-context.png)
+
+![无比例功能与流线原型](assets/figures/dzs-prototype.png)
+
+![AI 生成院落鸟瞰意向](assets/media/dzs-aerial.webp)
+
+AI 生成概念意向；无比例，不是现状复原或实施批准。图中文字为独立可编辑层。
+
+### 典型主脉段昼夜体验
+
+昼夜图使用同一镜头表达连续路、首层服务与庭院支路；属于典型段体验意向，不是全带航拍、测绘总图、实际水体治理或照度模拟。夜间保留公共通行与人工帮助，测试庭院停用；光色、灯位、生态影响和使用时段须另行复核。
+
+![主脉典型段白天概念意向](assets/media/spine-day.webp)
+
+![主脉典型段晚间概念意向](assets/media/spine-night.webp)
+
+### 十二景空间与人工责任卡
+
+#### S01 百年记忆镜
+
+让不同年龄的访客读懂记忆与来源 / 解释设施、纸质图谱、人工讲解与停留. 遗产解释责任者审核史实；有误则撤下生成内容
+
+非 AI 基线：真实遗存、时间线、纸质地图和人工讲解
+
+AI 增强：多语种、无障碍和个性化解释；来源可见，生成内容不得替代史实审核。
+
+![S01 百年记忆镜](assets/media/scene-01.webp)
+
+#### S02 安静借景路
+
+在通勤主路之外找到安静选择 / 平行绕行、树荫座椅与明确再汇合点. 运营者巡查噪声和路线；状态不明时显示待核
+
+非 AI 基线：连续路标、安静绕行、座椅和遮荫
+
+AI 增强：按噪声、拥挤和感官偏好建议路线；可关闭定位并改用固定地图。
+
+![S02 安静借景路](assets/figures/scene-02.png)
+
+#### S03 四季舒适路
+
+夏季避热、冬季避风并能休息 / 遮荫、避风、饮水与路径外停留. 物业确认天气与维护状态；故障用固定标识和巡查
+
+非 AI 基线：遮荫避雨、饮水、休息点和季节维护
+
+AI 增强：结合微气候提示舒适路线；设备故障时由固定标识和人工巡查接管。
+
+![S03 四季舒适路](assets/media/scene-03.webp)
+
+#### S04 无碍同行
+
+从到达点持续走到服务入口 / 同层入口、连续引导、路径外休息. 专业与使用者复核可达；未核验不承诺无障碍
+
+非 AI 基线：坡道、触觉、高对比、连续休息和人工协助
+
+AI 增强：辅助识别障碍并建议可达路线；不得把预测结果写成已验证无障碍。
+
+![S04 无碍同行](assets/media/scene-04.webp)
+
+#### S05 时间公平导航
+
+比较速度、稳定性和照护成本 / 实体地图、人工问询与多路径选择. 交通运营者核对时刻与路线；过期信息退出推荐
+
+非 AI 基线：标准地图、班次信息、人工问询和多种路径
+
+AI 增强：展示步行、等待、绕行与照护成本；用户可选择最快、最稳或少换乘。
+
+![S05 时间公平导航](assets/figures/scene-05.png)
+
+#### S06 公共空间管家
+
+发现故障后知道谁处理 / 巡查、纸质工单、热线与公示位置. 物业人工确认和派单；公开聚合状态而非个人
+
+非 AI 基线：巡查表、保洁报修、公告和人工热线
+
+AI 增强：聚合设施状态和工单，异常由人工确认；不采用默认人脸识别。
+
+![S06 公共空间管家](assets/figures/scene-06.png)
+
+#### S07 蓝绿城市孪生
+
+观察水绿变化并识别模型限制 / 标尺、植物说明、观察点与安全边界. 专业维护者核验异常；模型不替代防汛或工程判断
+
+非 AI 基线：雨水标尺、植物说明、人工监测和疏散规则
+
+AI 增强：辅助观察积水、热和植物状态；模型只支持维护判断，不替代工程结论。
+
+![S07 蓝绿城市孪生](assets/figures/scene-07.png)
+
+#### S08 社区共议智能体
+
+让不同意见进入同一张地图 / 圆桌、纸质地图、纪要板与室内备用空间. 人工主持与记录；参与者纠错，AI 不代替表决
+
+非 AI 基线：线下会议、纸质意见、人工主持和公开纪要
+
+AI 增强：协助归纳而不代替表决；公开纠错、申诉、删除和版本记录。
+
+![S08 社区共议智能体](assets/media/scene-08.webp)
+
+#### S09 开放验证预约
+
+看懂测试规则，再申请参与 / 围界、观察路径、纸质申请与值守点. 测试负责人准入与停机；公众与测试轨迹分离
+
+非 AI 基线：现场公告、纸质申请、人工安全说明
+
+AI 增强：匹配时段和能力、公开风险与结果；拒绝数据不影响线下申请。
+
+![S09 开放验证预约](assets/media/scene-09.webp)
+
+#### S10 慢智消费助手
+
+能获得解释，也能普通结账 / 纸质菜单、人工柜台、可选终端与免费座椅. 商户核对价格和过敏信息；随时关闭推荐
+
+非 AI 基线：普通菜单、现金／常规结账、人工咨询和明确价格
+
+AI 增强：解释推荐、过敏和商业关系；一键关闭个性化，不以画像抬价。
+
+![S10 慢智消费助手](assets/media/scene-10.webp)
+
+#### S11 创新资源门厅
+
+带着问题找到可协商的资源 / 实体目录、低柜台、人工转介与等待座椅. 资源提供者维护时段和权限；不保证匹配或结果
+
+非 AI 基线：服务目录、固定开放时间和人工转介
+
+AI 增强：辅助匹配空间、导师与专业服务；不承诺结果，敏感申请由人工受理。
+
+![S11 创新资源门厅](assets/media/resource-foyer.webp)
+
+#### S12 福祉公开账本
+
+看见改善、负担与未确定的部分 / 纸质公示、四簿并列、投诉与版本记录. 运营者与独立复核者确认数据；只公开聚合结果
+
+非 AI 基线：定期公示、纸质报告、听证和投诉渠道
+
+AI 增强：只显示聚合指标、来源和不确定性；不得公开个人轨迹或用总分掩盖权衡。
+
+![S12 福祉公开账本](assets/figures/scene-12.png)
+
+### 品牌、组件与记忆叙事
+
+![原创品牌与导视](assets/figures/brand-system.png)
+
+![七类公共空间组件](assets/figures/component-system.png)
+
+![来源可核对的文化叙事](assets/figures/memory-narrative.png)
+
+效果图中的细金属嵌线表达记忆连续性，实施仍优先采用异色铺装；金属的防滑、热接触与位置另核。冬季图仅表达避风、晴日停留与巡查，不能证明融雪、防滑、排水能力。生成铁路构件不作为真实遗存，纸质板内容不作为档案。三园均保留普通服务、可撤除组件和明确人工责任。 [source:PARTICIPANT-DESIGN-V12]
+
 ## 参考资料
 
 本方案的直接任务来源包括：《百年京张 AI 创新带城市设计国际方案征集资格预审公告》、官方 Agent Open Call Taskbook、官方 provisional boundaries 说明及 2026-08-28 最新规则与 validator。它们分别支持任务范围、六项 Agent 任务、机器校验几何和提交契约，不相互替代。[source:DATA-SRC-OFFICIAL-ANNOUNCEMENT-20260509] [source:DATA-SRC-AGENT-TASKBOOK-20260518] [source:DATA-SRC-PROVISIONAL-BOUNDARIES-20260605]
@@ -427,3 +607,6 @@ AI 风险至少包括错误导航、偏置推荐、过度采集、身份歧视�
 - MaRS Discovery District — 加拿大 Toronto MaRS — https://hubs.marsdd.com/ [source:CASE-MARS-HUBS]
 - Knowledge Quarter London — 英国 London Knowledge Quarter — https://www.knowledgequarter.london/ [source:CASE-KQ-LONDON]
 - Carnegie Mellon University Robotics Institute — 美国 Pittsburgh / Hazelwood Green — https://www.ri.cmu.edu/carnegie-mellon-richard-king-mellon-foundation-announce-historic-partnership-to-accelerate-cmus-science-and-technology-leadership-and-the-transformation-of-hazelwood-green-foundation-appro/ [source:CASE-CMU-HAZELWOOD]
+
+
+V1.2 生成与制图记录：visual/assets/visual-design-register.json、map-derivation.json 与 design-object-register.json。原始 OSM 快照及完整可编辑 SVG 源文件随本地设计源包保存。
