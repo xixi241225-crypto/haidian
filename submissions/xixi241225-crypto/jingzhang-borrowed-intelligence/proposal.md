@@ -12,38 +12,18 @@ license: "COMMUNITY-DISPLAY-ONLY"
 summary: "以百年京张的真实记忆校准城市智能，以日常福祉检验空间更新。方案以一脉、两翼、三园组织空间，用四簿治理公共价值，将十二景建成同时具有非AI基线和AI增强的城市场景，并以分期、责任、验证和退出机制控制实施风险。"
 tracks: ["ai-traffic-walkability", "enterprise-services-ecosystem", "civic-agent-governance"]
 scenarios: ["ai-traffic-walkability", "enterprise-service-copilot", "public-safety-operations-review"]
-iteration: "v1.2"
+iteration: "v1.4"
 ---
 
-## V1.3 图面修订与整体鸟瞰
+## V1.4 整体昼夜与独立封面
 
-补充全带概念鸟瞰，展示一脉与三园在城市中的整体关系。三园保持北至南：众智园、AI 原点、大钟寺。图像按公开 GIS 构图生成，建筑高度和景观细部仅为意向，不是现状复原或测绘。
+新增独立封面，并以同一城市视角展示白天和夜间整体鸟瞰。周边城市压低色彩与亮度，三处设计重点用青色轮廓定位，暖色主脉连续贯穿；三园从北到南为众智园、AI 原点、大钟寺。夜景保留公共路径和首层服务的暖光，以少量青色弧线表达三园协作。
 
-慢行与蓝绿关系拆成三类空间动作；三园重画建筑、庭院与公众/设备流线；大钟寺将四类候选接口与两站点分别标识；S12 用具体公示字段取代占位横线，没有实测值时明确显示缺失状态。图面修订不改变 geometry/ 与 metrics.json。
+重点轮廓仅作概念视觉定位，不代表已选宗地或法定红线；生成图不验证建筑高度、通行、工程或照度。geometry/ 和 metrics.json 继续冻结。封面和三园标注另存可编辑 SVG。
 
-![全带整体鸟瞰概念意向](assets/media/overall-aerial.webp)
+![白天整体鸟瞰](assets/media/overall-day.webp)
 
-# 京张借景带 / BORROWED INTELLIGENCE
-
-> **以记忆校准智能，以福祉衡量未来。**  
-> *Memory calibrates intelligence. Wellbeing measures the future.*
-
-**Agent：** 京张借景带城市设计智能体（BORROWED INTELLIGENCE）
-
-
-**设计团队：** 京张借景带设计团队（李博、蒙宇婧）
-
-
-**投稿账号：** xixi241225-crypto
-
-
-**联系邮箱：** xixi241225@gmail.com
-
-百年京张留下了真实的工程、城市与生活记忆，也留下铁路、环路、围界和大型地块对步行、时间与机会的持续分割。AI 创新带若只是增加屏幕、机器人和展示装置，就会把新技术叠加在旧的城市负担上。因此，本方案先回答四个问题：城市能否记得住、走得通、待得住、说得清？之后才讨论 AI 如何加入。
-
-“借景”在这里不是仿古形式，而是一种城市设计方法：识别真实对象，暴露基础设施负担，建立跨界关系，形成日常公共服务，再用持续可核对的指标校准结果。它最终形成“一脉、两翼、三园”的空间组织、“四簿”的治理体系与“十二景”的场景产品。
-
-修订版本 V1.3，2026 年 10 月 5 日。此成果回应原投稿的评审意见，属于截止后的修订提交；是否接收及进入后续评审由维护者决定。
+![夜间整体鸟瞰](assets/media/overall-night.webp)
 
 ## 设计依据与资料清单
 
@@ -417,7 +397,7 @@ AI 风险至少包括错误导航、偏置推荐、过度采集、身份歧视�
 
 投稿文本、结构化数据和原创设计表达由参与者在许可范围内提交；官方资料、标准名称、底图线索和第三方来源的权利仍归原权利人。后续图像、字体、照片、档案、地图和生成式内容必须逐项登记来源与许可，未经核验的素材不进入正式展示。当前 proposal 的事实引用以 `sources.json` 为准，专业依据以 `standard_matrix.json` 为准，版权承诺以投稿包版权声明为准。[source:BACKGROUND-LATEST-RULES-VALIDATOR-20260828]
 
-## V1.3 空间设计与视觉成果
+## V1.4 空间设计与视觉成果
 
 本轮把总体结构、三园空间与十二景接成一套可追溯图件。公开场地参考、无比例功能原型和 AI 生成意向分层呈现。片区地图保留真实公开坐标；院落原型不对应已选宗地，生成图不用于倒推高度、尺度、工程或权属。V1.1 的几何与指标继续冻结。 [source:PARTICIPANT-DESIGN-V12] [source:OSM-REFERENCE-V12]
 
@@ -617,4 +597,4 @@ AI 增强：只显示聚合指标、来源和不确定性；不得公开个人�
 - Carnegie Mellon University Robotics Institute — 美国 Pittsburgh / Hazelwood Green — https://www.ri.cmu.edu/carnegie-mellon-richard-king-mellon-foundation-announce-historic-partnership-to-accelerate-cmus-science-and-technology-leadership-and-the-transformation-of-hazelwood-green-foundation-appro/ [source:CASE-CMU-HAZELWOOD]
 
 
-V1.3 生成与制图记录：visual/assets/visual-design-register.json、map-derivation.json 与 design-object-register.json。原始 OSM 快照及完整可编辑 SVG 源文件随本地设计源包保存。
+V1.4 生成与制图记录：visual/assets/visual-design-register.json、map-derivation.json 与 design-object-register.json。原始 OSM 快照及完整可编辑 SVG 源文件随本地设计源包保存。

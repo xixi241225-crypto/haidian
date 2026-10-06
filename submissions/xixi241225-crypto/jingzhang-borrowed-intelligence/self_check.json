@@ -91,8 +91,15 @@
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/figures/zzy-prototype.png",
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/figures/zzy-prototype.svg",
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/media/aio-aerial.webp",
+        "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/media/cover.en.svg",
+        "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/media/cover.svg",
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/media/dzs-aerial.webp",
-        "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/media/overall-aerial.webp",
+        "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/media/overall-day.en.svg",
+        "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/media/overall-day.svg",
+        "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/media/overall-day.webp",
+        "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/media/overall-night.en.svg",
+        "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/media/overall-night.svg",
+        "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/media/overall-night.webp",
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/media/resource-foyer.webp",
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/media/scene-01.en.svg",
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/media/scene-01.svg",
@@ -169,7 +176,7 @@
       "ai_package_stages": {
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence": "formal"
       },
-      "total_bytes": 40014601,
+      "total_bytes": 41871998,
       "maintainer_bypass": false
     },
     "stderr": ""

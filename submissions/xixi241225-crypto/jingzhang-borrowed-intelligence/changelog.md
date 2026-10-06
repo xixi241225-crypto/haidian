@@ -29,3 +29,11 @@ Post-deadline revision to PR #4198. Original spatial geometry and recomputable m
 - 重画慢行蓝绿、三园功能、大钟寺接口和 S12 四簿公示；图面分层、明确目的地，取消占位横线。
 - 同步中英文正文、网页、40 页 A3 与 8 张 A0，登记新图生成提示词、哈希与候选接口坐标。
 - geometry/ 与 metrics.json 保持原样；图像高度与细部不作为测绘或通行证明。
+
+
+## 2026-10-06 · V1.4 整体昼夜与封面
+
+- Edited our whole-belt day aerial to highlight three focus areas and one continuous public spine; added a matched night aerial with restrained collaboration arcs. Peer references informed style only.
+- Added independent bilingual covers, native PDF title text and six editable overall/cover sheets.
+- Rebuilt 42-page bilingual A3 and 8-board bilingual A0, synchronized offline HTML and narrative, and registered image provenance.
+- Concept focus outlines are not parcel boundaries; all intake geometry and metrics remain byte-identical.

@@ -1,5 +1,5 @@
 {
-  "version": "v1.3",
+  "version": "v1.4",
   "design_status": "participant_concept",
   "renderings": [
     {
@@ -183,19 +183,26 @@
       "human_review": "Inspected for primary adjacencies, circulation and body/fixture scale. Image details remain conceptual, not measured or surveyed."
     },
     {
-      "id": "overall-aerial",
-      "source_file": "assets/media/overall-aerial.webp",
+      "id": "overall-day",
+      "source_file": "assets/media/overall-day.webp",
       "language": "neutral",
-      "note": {
-        "zh": "AI 生成概念意向；无比例，不是现状复原或实施批准。图中文字为独立可编辑层。",
-        "en": "AI-generated concept; unscaled, not an existing-condition reconstruction or implementation approval. Labels are separate editable text."
-      },
-      "prompt": "Use case: stylized-concept. Asset: full-belt urban-design competition aerial for Beijing Jing-Zhang Borrowed Intelligence. Generate ONE new wide high-resolution architectural masterplan bird's-eye perspective of the ENTIRE urban belt, not a single courtyard. Input 1 is the primary GEOGRAPHIC COMPOSITION reference: preserve the oblique district layout, relative road/rail/water geometry, and the three colored node centers. North is at the distant UPPER RIGHT, south at the LOWER LEFT foreground; the full old railway public-space spine spans the complete view. Input 2 is the southern Dazhongsi material/landscape style reference, not the whole-belt layout.\nThe long narrow continuous-proposal public-space spine links three separated neighborhoods: distant northern Zhongzhiyuan civic validation commons (teal reference circle), middle AI Origin everyday shared courts (ochre circle), southern Dazhongsi transit/culture/ordinary street life (purple circle). Retain the long stretches of ordinary Beijing urban fabric between these nodes. The whole belt from Beijing North Railway Station in the south toward Qinghe/North Fifth Ring in the north must be in frame. Western campuses and street fabric, eastern city fabric and Xiaoyue River, and the northern Qinghe transverse water corridor remain at their reference positions. Show small human-scale public forecourts, linear memory paving, shaded paths and modest brick/stone reused ground-floor interfaces along the proposal spine. No massive new towers, floating ring roads, impossible bridges, new lakes, giant garden complexes, futuristic neon, holograms, or landscaped deck crossing an active road/railway.\nStyle: refined urban-design competition visualization, very high aerial perspective, editorial architectural realism with a gently diagrammatic masterplan quality; existing city blocks largely neutral pale warm gray, green corridor and three specific commons rich but restrained, muted autumn greenery, subtle terracotta accents, fine paths and public-space grain visible, soft daylight and crisp atmospheric depth without obscuring the far north. Building heights are conceptual low/medium illustrative massing, not surveyed data. Urban scale should feel many kilometers, not one campus. Reference circle markers must become three recognizable spatial places; DO NOT draw colored rings, bounding boxes, connector arrows, labels, text, logos, watermark or map legend in the image. Keep the full masterplan composition, with all three places and long connecting urban corridor readily legible. Designed corridor is a concept proposal, not a photo of present-day conditions. Wide landscape composition approximately 16:10; fill the image with city and the entire long belt, little empty border.\n",
-      "packaged_sha256": "564294429bc8da67fadcdc21b6599331c45ddf07d0293cdcd5255bff45e5156c",
-      "original_png_sha256": "8cc7ae029635cf825e9dca0065314754ed4eddeaa22ecb06e6a165e7fa237ac8",
-      "reference_sha256": "1ef60f8957781fd407db26dae3752218473fcfebf8f9d654ee9a68ef04b300fe",
-      "reference_role": "GIS composition guide; not georeferenced image validation",
-      "limitations": "Illustrative heights, texture and landscaping. No survey, cadastral, route, construction or access validation."
+      "prompt": "Edit our own whole-belt aerial into a clear competition-level urban design DAY master image. Input 1 is original aerial to edit; input 2 is our focus guide, polygons and cream line are composition instructions, not surveyed boundaries. Inputs 3/4 are other authors' STYLE REFERENCES ONLY: do not copy their art, text, titles, watermark, branding. Preserve our original camera, aspect ratio, city blocks, rails, roads, rivers, and building positions. Corridor from southern bottom-left foreground to northern upper-right background. EXACT three focus areas following guide: north 01 centered (1000,155), middle 02 (785,405), south 03 (390,725) on original 1584x992. Make these immediately stand out. Subdue surrounding city to cooler pale-gray blue, reduced saturation/contrast, still legible. Selected three zones and one connected public landscape spine have richer green trees, warm pale-stone public courtyards, crisp detail and sunlight. Modest adaptive reuse only within zones, no citywide rebuilding. Use tasteful thin turquoise outline tracing around three focus areas, no solid color fill, no giant barriers. A clearly readable warm pale landscape pedestrian spine follows cream guide, fine turquoise accent. South larger station/heritage commons, middle shared resources/courtyards, north observation around contained civic test court. Preserve infrastructure. No giant new towers, lakes, bridges or holograms. Sunny Beijing autumn, sophisticated architectural design rendering, subtle distant haze. Remove all guide numbers/circles/text: native labels will be added separately. No text, title, watermark, logo. Same entire original crop. Output one DAY image.",
+      "packaged_sha256": "3595c781238d66302820a0165f1c5312fd3fc879dcd6cba4648947854be59570",
+      "original_png_sha256": "cb06da83fdffaa60697ac2854731359c7d3da6b06878aff71fffb231d7f51a77",
+      "edit_target": "assets/reference/aerial-before-v13.png",
+      "reference_role": "Our image is edited. Peer images supplied by user inform style only; no peer artwork, text, branding or watermark is reused.",
+      "limitations": "Focus outlines are illustrative, not cadastral. Generated heights, access, lighting and collaboration arcs are unverified concept intentions."
+    },
+    {
+      "id": "overall-night",
+      "source_file": "assets/media/overall-night.webp",
+      "language": "neutral",
+      "prompt": "Edit OUR finalized DAY aerial (first input, ONLY edit target) into a matched NIGHT/BLUE-HOUR urban architectural design image. Preserve EXACT camera, aspect ratio, blocks, buildings, roads, rail corridors, rivers, THREE outlined project zones and continuous public spine. Do not change layout or crop. Other two inputs are OTHER AUTHORS' STYLE REFERENCES ONLY: clarity, navy context, warm project lighting, restrained cyan intelligence network; DO NOT copy their art/buildings/words/title/branding/watermark. Our focus zones: north upper-right (1000,155), middle (785,405), south bottom-left (390,725), original 1584x992. Replace sunlight with late blue hour/night. Deep navy subdued background, cool legible forms and dim occasional windows outside project. THREE proposed commons plus connecting landscape spine are brightest, warm amber low-level route lighting, warm ground-floor interiors and public courts, softly legible green trees. No uniformly lit surrounding city. THREE outlines thin crisp softly luminous cyan, no neon fences. Add only a few slender elegant cyan conceptual network arcs linking these THREE commons with tiny node light points at their centers, editorial visualization overlay not aerial structures. Do not obscure ground design. No everywhere grids, giant holograms, new towers, spaceships, LED blankets. North contained test court dark/inactive, public observation path around it lit. Middle shared foyer/public courts lit; south free resting and station/heritage arrival warm. Rivers dark with occasional reflections, no neon canals. Refined competition-level architecture visual, very high detail, sophisticated blue/cyan/amber. THREE separated zones and ONE spine prominent at thumbnail size. No text/title/digits/labels/logo/watermark. Output one NIGHT image matched to our DAY camera/layout.",
+      "packaged_sha256": "fe867570ec4635bdb21704a36b477855cd64839e268057f48c0e7ded0bafcb38",
+      "original_png_sha256": "5c0187cd867a0205e7fa246cbb2052fca3c037996e092e543500773cc2ec3f37",
+      "edit_target": "assets/media/overall-day.png",
+      "reference_role": "Our image is edited. Peer images supplied by user inform style only; no peer artwork, text, branding or watermark is reused.",
+      "limitations": "Focus outlines are illustrative, not cadastral. Generated heights, access, lighting and collaboration arcs are unverified concept intentions."
     }
   ],
   "scene_cards": [
@@ -760,5 +767,42 @@
       ],
       "connection_method": "short orthogonal conceptual segments; exact routes and crossings unverified"
     }
+  },
+  "archived_renderings": [
+    {
+      "id": "overall-aerial",
+      "source_file": "assets/media/overall-aerial.webp",
+      "language": "neutral",
+      "note": {
+        "zh": "AI 生成概念意向；无比例，不是现状复原或实施批准。图中文字为独立可编辑层。",
+        "en": "AI-generated concept; unscaled, not an existing-condition reconstruction or implementation approval. Labels are separate editable text."
+      },
+      "prompt": "Use case: stylized-concept. Asset: full-belt urban-design competition aerial for Beijing Jing-Zhang Borrowed Intelligence. Generate ONE new wide high-resolution architectural masterplan bird's-eye perspective of the ENTIRE urban belt, not a single courtyard. Input 1 is the primary GEOGRAPHIC COMPOSITION reference: preserve the oblique district layout, relative road/rail/water geometry, and the three colored node centers. North is at the distant UPPER RIGHT, south at the LOWER LEFT foreground; the full old railway public-space spine spans the complete view. Input 2 is the southern Dazhongsi material/landscape style reference, not the whole-belt layout.\nThe long narrow continuous-proposal public-space spine links three separated neighborhoods: distant northern Zhongzhiyuan civic validation commons (teal reference circle), middle AI Origin everyday shared courts (ochre circle), southern Dazhongsi transit/culture/ordinary street life (purple circle). Retain the long stretches of ordinary Beijing urban fabric between these nodes. The whole belt from Beijing North Railway Station in the south toward Qinghe/North Fifth Ring in the north must be in frame. Western campuses and street fabric, eastern city fabric and Xiaoyue River, and the northern Qinghe transverse water corridor remain at their reference positions. Show small human-scale public forecourts, linear memory paving, shaded paths and modest brick/stone reused ground-floor interfaces along the proposal spine. No massive new towers, floating ring roads, impossible bridges, new lakes, giant garden complexes, futuristic neon, holograms, or landscaped deck crossing an active road/railway.\nStyle: refined urban-design competition visualization, very high aerial perspective, editorial architectural realism with a gently diagrammatic masterplan quality; existing city blocks largely neutral pale warm gray, green corridor and three specific commons rich but restrained, muted autumn greenery, subtle terracotta accents, fine paths and public-space grain visible, soft daylight and crisp atmospheric depth without obscuring the far north. Building heights are conceptual low/medium illustrative massing, not surveyed data. Urban scale should feel many kilometers, not one campus. Reference circle markers must become three recognizable spatial places; DO NOT draw colored rings, bounding boxes, connector arrows, labels, text, logos, watermark or map legend in the image. Keep the full masterplan composition, with all three places and long connecting urban corridor readily legible. Designed corridor is a concept proposal, not a photo of present-day conditions. Wide landscape composition approximately 16:10; fill the image with city and the entire long belt, little empty border.\n",
+      "packaged_sha256": "564294429bc8da67fadcdc21b6599331c45ddf07d0293cdcd5255bff45e5156c",
+      "original_png_sha256": "8cc7ae029635cf825e9dca0065314754ed4eddeaa22ecb06e6a165e7fa237ac8",
+      "reference_sha256": "1ef60f8957781fd407db26dae3752218473fcfebf8f9d654ee9a68ef04b300fe",
+      "reference_role": "GIS composition guide; not georeferenced image validation",
+      "limitations": "Illustrative heights, texture and landscaping. No survey, cadastral, route, construction or access validation."
+    }
+  ],
+  "cover": {
+    "editable_sources": [
+      "assets/media/cover.svg",
+      "assets/media/cover.en.svg"
+    ],
+    "native_pdf_text": true,
+    "image_source": "assets/media/overall-night.webp",
+    "date": "2026-10-06",
+    "authors": [
+      "李博",
+      "蒙宇婧"
+    ]
+  },
+  "overall_revision": {
+    "camera": "Matched overall day and night aerials, southern foreground and northern distance",
+    "focus": "Three concept focus outlines and continuous public spine",
+    "geometry_metrics_unchanged": true,
+    "active_renderings": 14,
+    "editable_sheets": 54
   }
 }

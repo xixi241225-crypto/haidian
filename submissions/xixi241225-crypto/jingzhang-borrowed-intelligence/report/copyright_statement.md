@@ -125,3 +125,8 @@ The renamed Jingzhang Reading subset retains the full SIL OFL 1.1 notice embedde
 ## V1.3
 
 One additional original whole-belt aerial was generated with built-in ImageGen using a participant-generated OSM GIS composition reference. Full prompt and hashes: visual/assets/visual-design-register.json. Six analysis sheets were redrawn in editable SVG; no peer artwork was copied. The new image expresses concept intent; heights, material detail and access relationships are not surveyed.
+
+
+## V1.4 overall imagery and cover
+
+Two built-in ImageGen edits create an enhanced day aerial and a matched night aerial from our own V1.3 image. Two peer reference images supplied by the user inform visual style only; no peer artwork, words, logos or watermark is reused or distributed. Fourteen active original image intentions are included; the earlier neutral whole-belt image is archived in the separate source package. Prompts, hashes and edit relationships: visual/assets/visual-design-register.json. Independent covers and overall annotations use participant-authored editable SVG; PDF cover titles are native text. Concept focus outlines are not cadastral boundaries, and night arcs depict collaboration, not physical lighting installations.
