@@ -15,6 +15,14 @@ scenarios: ["ai-traffic-walkability", "enterprise-service-copilot", "public-safe
 iteration: "v1.2"
 ---
 
+## V1.3 diagram revision and whole-belt aerial
+
+A new whole-belt conceptual aerial shows the spine and Three Commons in their urban setting. North to south: Zhongzhiyuan, AI Origin, Dazhongsi. Public GIS guides composition; building heights and landscape detail are illustrative, not a survey or reconstruction.
+
+Walking and landscape relationships are separated into three spatial responses. Three Commons diagrams distinguish buildings, courts, public circulation and service access. Dazhongsi identifies two stations and four candidate interfaces. S12 replaces placeholder bars with specific public fields and explicit missing states; no measured values are invented. Geometry and metrics remain unchanged.
+
+![Whole-belt conceptual aerial](assets/media/overall-aerial.webp)
+
 # BORROWED INTELLIGENCE
 
 > **Memory calibrates intelligence. Wellbeing measures the future.**
@@ -34,7 +42,7 @@ The century-old Jing-Zhang Railway has left genuine memories of engineering, urb
 
 Here, “borrowing” is not an imitation of historic form. It is an urban-design method: identify real objects, disclose the burdens created by infrastructure, build relationships across boundaries, secure everyday public services, and then use auditable indicators to recalibrate results over time. The method becomes a spatial organization of One Spine, Two Wings, and Three Commons; a governance framework of Four Ledgers; and a service layer of Twelve Scenarios.
 
-Revision V1.2, 5 October 2026. This package responds to the original submission review and is submitted after the deadline; acceptance and further review remain maintainer decisions.
+Revision V1.3, 5 October 2026. This package responds to the original submission review and is submitted after the deadline; acceptance and further review remain maintainer decisions.
 
 ## Design Basis and Source List
 
@@ -408,7 +416,7 @@ Planning and engineering limits are equally explicit. The proposal does not prov
 
 The participant submits the text, structured data, and original design expression within the declared license. Rights in official materials, standards, base-map clues, and third-party sources remain with their respective owners. Future images, fonts, photographs, archives, maps, and generated content must be registered with their provenance and license; unverified assets do not enter formal display. Factual citations in this proposal are governed by `sources.json`, professional authorities by `standard_matrix.json`, and the copyright commitment by the package copyright statement.[source:BACKGROUND-LATEST-RULES-VALIDATOR-20260828]
 
-## V1.2 spatial design and visual deliverables
+## V1.3 spatial design and visual deliverables
 
 This revision links the belt structure, Three Commons and Twelve Scenarios in one traceable visual system. Public site references, unscaled functional prototypes and AI-generated intentions are separate. District maps retain public coordinates; court prototypes imply no selected parcel, while generated images supply no heights, dimensions, engineering or ownership facts. V1.1 geometry and metrics remain frozen. [source:PARTICIPANT-DESIGN-V12] [source:OSM-REFERENCE-V12]
 
@@ -608,4 +616,4 @@ New case and regional sources were accessed on 2026-10-05. Links support traceab
 - Carnegie Mellon University Robotics Institute — Pittsburgh / Hazelwood Green, USA — https://www.ri.cmu.edu/carnegie-mellon-richard-king-mellon-foundation-announce-historic-partnership-to-accelerate-cmus-science-and-technology-leadership-and-the-transformation-of-hazelwood-green-foundation-appro/ [source:CASE-CMU-HAZELWOOD]
 
 
-V1.2 generation and mapping records: visual/assets/visual-design-register.json, map-derivation.json and design-object-register.json. Original OSM snapshots and complete editable SVG sources are retained in the local design-source archive.
+V1.3 generation and mapping records: visual/assets/visual-design-register.json, map-derivation.json and design-object-register.json. Original OSM snapshots and complete editable SVG sources are retained in the local design-source archive.

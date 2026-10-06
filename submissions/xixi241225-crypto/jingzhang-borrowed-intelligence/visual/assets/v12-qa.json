@@ -1,16 +1,22 @@
 {
-  "version": "v1.2",
-  "checked_at": "2026-10-05T23:39:21+08:00",
+  "version": "v1.3",
+  "checked_at": "2026-10-06T09:10:40+08:00",
   "pdf_pages": {
     "a3_zh": 40,
     "a3_en": 40,
     "a0_zh": 8,
     "a0_en": 8
   },
-  "visual_review": "All 96 pages rendered and inspected; changed pages re-rendered after final correction",
-  "web": "Four bilingual visual/report pages: local font loaded, all images decoded, zero remote requests and page errors, no desktop/mobile horizontal overflow; scene filters and keyboard interaction passed",
-  "spatial_consistency": "Three functional prototypes control primary adjacencies; two district gateways separated from shared-court prototype; public/test and service routes separated",
-  "geometry_metrics": "Nine geometry files and metrics.json byte-identical to V1.1",
-  "engineering_status": "Unscaled concept; routes, dimensions, heritage, management, drainage, structure and lighting require professional verification",
-  "official_checks": "See persisted self_check.json; contributor validation is not maintainer acceptance"
+  "visual_review": "All 96 final pages rendered and visually inspected through six contact sheets; revised aerial cover, analyses and S12 reviewed at page scale",
+  "web": "Four bilingual pages: local font and all images loaded; zero page errors, remote requests or desktop/mobile horizontal overflow; filters and keyboard passed",
+  "revisions": [
+    "whole-belt aerial",
+    "three commons spatial hierarchy",
+    "walking/landscape split into three responses",
+    "Dazhongsi named destination interfaces",
+    "S12 explicit notice fields, no placeholder values"
+  ],
+  "geometry_metrics": "Nine geometry files and metrics.json byte-identical to V1.2",
+  "engineering_status": "Concept geometry, routes, building heights and detail remain illustrative or to verify",
+  "official_checks": "See final self_check.json; validation is not maintainer acceptance"
 }

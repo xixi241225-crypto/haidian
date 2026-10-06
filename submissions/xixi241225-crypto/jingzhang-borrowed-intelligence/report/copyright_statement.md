@@ -120,3 +120,8 @@ Twelve new raster intentions were created using the built-in OpenAI ImageGen too
 Public reference maps credit © OpenStreetMap contributors, 2026-08-11 snapshot, under ODbL 1.0 (https://www.openstreetmap.org/copyright). They are Produced Works derived from frozen public data, not statutory controls. Raw inputs and derived-layer hashes, coverage and transformations are retained locally and registered in visual/assets/design-object-register.json. Original snapshot data retains ODbL terms. No property rights or complete survey are inferred.
 
 The renamed Jingzhang Reading subset retains the full SIL OFL 1.1 notice embedded in visual/assets/reading-font.css and this statement. Native SVG labels are editable. Safe package SVG sources reference local assets; complete self-contained authoring SVGs and fonts are retained in the separate local source archive. Compact WebP/palette-PNG delivery encodings alter no design content.
+
+
+## V1.3
+
+One additional original whole-belt aerial was generated with built-in ImageGen using a participant-generated OSM GIS composition reference. Full prompt and hashes: visual/assets/visual-design-register.json. Six analysis sheets were redrawn in editable SVG; no peer artwork was copied. The new image expresses concept intent; heights, material detail and access relationships are not surveyed.

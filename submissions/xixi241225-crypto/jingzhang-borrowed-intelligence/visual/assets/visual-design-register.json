@@ -1,5 +1,5 @@
 {
-  "version": "v1.2",
+  "version": "v1.3",
   "design_status": "participant_concept",
   "renderings": [
     {
@@ -181,6 +181,21 @@
       "prompt": "Generate one original photoreal architectural landscape design aerial concept, wide 16:9, of Zhongzhiyuan Common Intelligence Validation Commons in north Beijing. Use reference 1 LEFT FUNCTIONAL DIAGRAM ONLY as an unscaled adjacency control, reference 2 only for consistent brick/stone/timber architectural material quality. Show a single modest civic research courtyard, camera high oblique from foreground southwest. Center: rectangular controlled testing courtyard with low temporary test apparatus and one compact wheeled delivery robot, bounded by a continuous low protective transparent fence, ONE supervised pedestrian gate, very legible. A separate wide PUBLIC OBSERVATION LOOP lies completely outside this fenced court on all four sides; it must not cross any test trajectory. Rear/top side: 2-3 storey brick research and governance rooms opening onto a quiet buffer, not a monumental headquarters. RIGHT side: compact equipment-maintenance block and service yard, independent rear-right service lane separated from public loop. Foreground LEFT: open discussion pavilion with a human review table and paper noticeboard. Foreground RIGHT: a planted blue-green environmental observation garden with a small dry drainage swale and low monitoring post beside public loop, not a swimming pool. Landscaped buffers, mature deciduous trees, planted ground, grey stone and fine permeable paving, ordinary human-scale contemporary additions suggesting adaptive reuse. Around 12 public observers, researchers safely INSIDE fenced court with a human supervisor, an older person and wheelchair user OUTSIDE on clear continuous observation path. Calm daylight, warm autumn vegetation, detailed realistic scale and materials, competition quality, distinguish controlled tests from public everyday enjoyment. No words, no labels, no logos, no watermark, no giant screens. Not a claim of an existing building, parcel, dimensions or permit.",
       "generated_by": "OpenAI built-in ImageGen; exact image model not exposed",
       "human_review": "Inspected for primary adjacencies, circulation and body/fixture scale. Image details remain conceptual, not measured or surveyed."
+    },
+    {
+      "id": "overall-aerial",
+      "source_file": "assets/media/overall-aerial.webp",
+      "language": "neutral",
+      "note": {
+        "zh": "AI 生成概念意向；无比例，不是现状复原或实施批准。图中文字为独立可编辑层。",
+        "en": "AI-generated concept; unscaled, not an existing-condition reconstruction or implementation approval. Labels are separate editable text."
+      },
+      "prompt": "Use case: stylized-concept. Asset: full-belt urban-design competition aerial for Beijing Jing-Zhang Borrowed Intelligence. Generate ONE new wide high-resolution architectural masterplan bird's-eye perspective of the ENTIRE urban belt, not a single courtyard. Input 1 is the primary GEOGRAPHIC COMPOSITION reference: preserve the oblique district layout, relative road/rail/water geometry, and the three colored node centers. North is at the distant UPPER RIGHT, south at the LOWER LEFT foreground; the full old railway public-space spine spans the complete view. Input 2 is the southern Dazhongsi material/landscape style reference, not the whole-belt layout.\nThe long narrow continuous-proposal public-space spine links three separated neighborhoods: distant northern Zhongzhiyuan civic validation commons (teal reference circle), middle AI Origin everyday shared courts (ochre circle), southern Dazhongsi transit/culture/ordinary street life (purple circle). Retain the long stretches of ordinary Beijing urban fabric between these nodes. The whole belt from Beijing North Railway Station in the south toward Qinghe/North Fifth Ring in the north must be in frame. Western campuses and street fabric, eastern city fabric and Xiaoyue River, and the northern Qinghe transverse water corridor remain at their reference positions. Show small human-scale public forecourts, linear memory paving, shaded paths and modest brick/stone reused ground-floor interfaces along the proposal spine. No massive new towers, floating ring roads, impossible bridges, new lakes, giant garden complexes, futuristic neon, holograms, or landscaped deck crossing an active road/railway.\nStyle: refined urban-design competition visualization, very high aerial perspective, editorial architectural realism with a gently diagrammatic masterplan quality; existing city blocks largely neutral pale warm gray, green corridor and three specific commons rich but restrained, muted autumn greenery, subtle terracotta accents, fine paths and public-space grain visible, soft daylight and crisp atmospheric depth without obscuring the far north. Building heights are conceptual low/medium illustrative massing, not surveyed data. Urban scale should feel many kilometers, not one campus. Reference circle markers must become three recognizable spatial places; DO NOT draw colored rings, bounding boxes, connector arrows, labels, text, logos, watermark or map legend in the image. Keep the full masterplan composition, with all three places and long connecting urban corridor readily legible. Designed corridor is a concept proposal, not a photo of present-day conditions. Wide landscape composition approximately 16:10; fill the image with city and the entire long belt, little empty border.\n",
+      "packaged_sha256": "564294429bc8da67fadcdc21b6599331c45ddf07d0293cdcd5255bff45e5156c",
+      "original_png_sha256": "8cc7ae029635cf825e9dca0065314754ed4eddeaa22ecb06e6a165e7fa237ac8",
+      "reference_sha256": "1ef60f8957781fd407db26dae3752218473fcfebf8f9d654ee9a68ef04b300fe",
+      "reference_role": "GIS composition guide; not georeferenced image validation",
+      "limitations": "Illustrative heights, texture and landscaping. No survey, cadastral, route, construction or access validation."
     }
   ],
   "scene_cards": [
@@ -694,5 +709,56 @@
     "component-system",
     "memory-narrative"
   ],
-  "spatial_map_record": "data/map-derivation.json"
+  "spatial_map_record": "data/map-derivation.json",
+  "diagram_revision": {
+    "date": "2026-10-06",
+    "sheets": [
+      "mobility-bluegreen",
+      "zzy-prototype",
+      "aio-prototype",
+      "dzs-prototype",
+      "dzs-context",
+      "scene-12"
+    ],
+    "principle": "Each line has a defined purpose; buildings, shared spaces, public routes and service routes are distinct; no placeholder performance values.",
+    "dazhongsi_interfaces": {
+      "crs": "EPSG:4326",
+      "status": "participant_candidate_not_selected_parcel_or_access_permission",
+      "points": [
+        {
+          "id": "D13-01",
+          "label": "文化解释界面",
+          "coordinates": [
+            116.33285,
+            39.96855
+          ]
+        },
+        {
+          "id": "D13-02",
+          "label": "公共首层候选",
+          "coordinates": [
+            116.34365,
+            39.9685
+          ]
+        },
+        {
+          "id": "D13-03",
+          "label": "社区停留候选",
+          "coordinates": [
+            116.334,
+            39.9631
+          ]
+        },
+        {
+          "id": "D13-04",
+          "label": "日常服务候选",
+          "coordinates": [
+            116.343,
+            39.963
+          ]
+        }
+      ],
+      "connection_method": "short orthogonal conceptual segments; exact routes and crossings unverified"
+    }
+  }
 }

@@ -53,7 +53,9 @@
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/figures/metrics-evidence.en.png",
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/figures/metrics-evidence.png",
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/figures/mobility-bluegreen.en.png",
+        "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/figures/mobility-bluegreen.en.svg",
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/figures/mobility-bluegreen.png",
+        "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/figures/mobility-bluegreen.svg",
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/figures/overall-structure.en.png",
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/figures/overall-structure.png",
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/figures/regional-synergy.en.png",
@@ -90,6 +92,7 @@
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/figures/zzy-prototype.svg",
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/media/aio-aerial.webp",
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/media/dzs-aerial.webp",
+        "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/media/overall-aerial.webp",
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/media/resource-foyer.webp",
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/media/scene-01.en.svg",
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence/assets/media/scene-01.svg",
@@ -166,7 +169,7 @@
       "ai_package_stages": {
         "submissions/xixi241225-crypto/jingzhang-borrowed-intelligence": "formal"
       },
-      "total_bytes": 39866217,
+      "total_bytes": 40014601,
       "maintainer_bypass": false
     },
     "stderr": ""

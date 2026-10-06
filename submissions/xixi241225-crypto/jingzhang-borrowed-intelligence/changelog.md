@@ -21,3 +21,11 @@ Post-deadline revision to PR #4198. Original spatial geometry and recomputable m
 - Bundled a renamed OFL Chinese font subset in local CSS; corrected English report figure paths and aligned S01–S12 names across the narrative, webpage and PDFs.
 - Regenerated bilingual report, visual, A3/A0 and research diagrams; attached repair evidence and source records.
 - This revision requests review of the completed package after the deadline and makes no claim to award, selection or implementation permission.
+
+
+## 2026-10-06 · V1.3 图面重构
+
+- 新增全带整体鸟瞰，替换文册首页与首张展板；此前三园鸟瞰及昼夜典型段保留。
+- 重画慢行蓝绿、三园功能、大钟寺接口和 S12 四簿公示；图面分层、明确目的地，取消占位横线。
+- 同步中英文正文、网页、40 页 A3 与 8 张 A0，登记新图生成提示词、哈希与候选接口坐标。
+- geometry/ 与 metrics.json 保持原样；图像高度与细部不作为测绘或通行证明。
